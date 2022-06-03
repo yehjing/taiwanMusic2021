@@ -1,0 +1,24 @@
+.mobileHomeNav{
+  display: none;
+  background: #7c4787;
+  padding:0 20px;
+  li{
+    border-bottom: 1px solid #c4c4c4;
+    &:last-child{
+      border-bottom: none;
+    }
+  }
+  a{
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #c4c4c4;
+  }
+}
+@media (max-width: 576px) {
+  .mobileHomeNav{
+    display: block;
+  }
+}

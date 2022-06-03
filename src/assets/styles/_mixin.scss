@@ -1,0 +1,58 @@
+@mixin pc {
+  @media (min-width: 992px) {
+    @content
+  }
+};
+// @mixin pc {
+//   @media (min-width: 992px) and (max-width: 1200px) {
+//     @content
+//   }
+// };
+@mixin tablet {
+  @media (min-width: 769px) and (max-width: 991px) {
+    @content
+  }
+};
+@mixin pad {
+  @media (max-width: 768px) {
+    @content
+  }
+};
+@mixin mobile {
+  @media (max-width: 576px) {
+    @content
+  }
+};
+// @mixin mobile{
+//   @media(max-width:375px){
+//     @content;
+//   }
+// }
+// @mixin pc {
+//   @media (min-width: 992px) and (max-width: 1200px) {
+//     @content
+//   }
+// };
+// @mixin tablet {
+//   @media (min-width: 769px) and (max-width: 991px) {
+//     @content
+//   }
+// };
+// @mixin pad {
+//   @media (min-width: 577px) and (max-width: 768px) {
+//     @content
+//   }
+// };
+// @mixin mobile {
+//   @media (max-width: 576px) {
+//     @content
+//   }
+// };
+
+// ex 
+// .card-text{
+//   @include mobile{
+//     padding: 1rem;
+//   }
+//   padding: 2rem;
+// }
