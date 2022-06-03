@@ -218,12 +218,12 @@ export default new VueRouter({
           component: Observed_8,
         },
         {
-          name: '傳統音樂 / 佛、釋教音樂',
+          name: '傳統音樂 / 佛教音樂',
           path: 'Observed_9',
           component: Observed_9,
         },
         {
-          name: '傳統音樂 / 道、法教音樂',
+          name: '傳統音樂 / 道、法、釋教音樂',
           path: 'Observed_10',
           component: Observed_10,
         },
@@ -248,7 +248,7 @@ export default new VueRouter({
           component: Observed_14,
         },
         {
-          name: '2021年度釋奠樂及其他活動觀察與評介',
+          name: '2021年度釋奠樂活動觀察與評介',
           path: 'Observed_15',
           component: Observed_15,
         },
@@ -351,12 +351,12 @@ export default new VueRouter({
           component: VideoRecord_8,
         },
         {
-          name: '傳統音樂 / 佛、釋教音樂',
+          name: '傳統音樂 / 佛教音樂',
           path: 'videoRecord_9',
           component: VideoRecord_9,
         },
         {
-          name: '傳統音樂 / 道、法教音樂',
+          name: '傳統音樂 / 道、法、釋教音樂',
           path: 'videoRecord_10',
           component: VideoRecord_10,
         },
@@ -425,17 +425,17 @@ export default new VueRouter({
           component: IndexDir_16,
         },
         {
-          name: '團體及個人名錄 / 佛、釋教音樂篇',
+          name: '團體及個人名錄 / 佛教音樂篇',
           path: 'indexDir_17',
           component: IndexDir_17,
         },
         {
-          name: '團體及個人名錄 / 道、法教音樂篇',
+          name: '團體及個人名錄 / 道、法、釋教音樂篇',
           path: 'indexDir_18',
           component: IndexDir_18,
         },
         {
-          name: '團體及個人名錄 / 釋奠樂及其他篇',
+          name: '團體及個人名錄 / 釋奠樂篇',
           path: 'indexDir_23',
           component: IndexDir_23,
         },
@@ -485,17 +485,17 @@ export default new VueRouter({
           component: IndexDir_5,
         },
         {
-          name: '重要音樂活動一覽表 / 佛、釋教音樂篇',
+          name: '重要音樂活動一覽表 / 佛教音樂篇',
           path: 'indexDir_6',
           component: IndexDir_6,
         },
         {
-          name: '重要音樂活動一覽表 / 道、法教音樂篇',
+          name: '重要音樂活動一覽表 / 道、法、釋教音樂篇',
           path: 'indexDir_7',
           component: IndexDir_7,
         },
         {
-          name: '重要音樂活動一覽表 / 釋奠樂及其他篇',
+          name: '重要音樂活動一覽表 / 釋奠樂篇',
           path: 'indexDir_24',
           component: IndexDir_24,
         },

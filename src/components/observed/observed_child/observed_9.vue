@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>2020年度佛、釋教音樂活動觀察與評介</h2>
+      <h2>2020年度佛教音樂活動觀察與評介</h2>
       <span>蔡秉衡</span>
     </div>
     <hr />

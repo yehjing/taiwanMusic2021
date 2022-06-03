@@ -84,21 +84,21 @@ const tabs = [
     img: img5
   },
   {
-    name: '佛、釋教音樂篇',
+    name: '佛教音樂篇',
     autor: '',
     component: IndexDir6,
     path: 'indexDir_6',
     img: img9
   },
   {
-    name: '道、法教音樂篇',
+    name: '道、法、釋教音樂篇',
     autor: '',
     component: IndexDir7,
     path: 'indexDir_7',
     img: img10
   },
   {
-    name: '釋奠樂及其他篇',
+    name: '釋奠樂篇',
     autor: '',
     component: IndexDir24,
     path: 'indexDir_24',

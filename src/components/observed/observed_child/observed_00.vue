@@ -82,19 +82,19 @@ const tabs = [
     path: 'observed_8',
   },
   {
-    name: '2021年度佛、釋教音樂活動觀察與評介',
+    name: '2021年度佛教音樂活動觀察與評介',
     autor: '蔡秉衡',
     component: Observed9,
     path: 'observed_9',
   },
   {
-    name: '2021年度道、法教音樂活動觀察與評介',
+    name: '2021年度道、法、釋教音樂活動觀察與評介',
     autor: '李秀琴',
     component: Observed10,
     path: 'observed_10',
   },
   {
-    name: '2021年度釋奠樂及其他活動觀察與評介',
+    name: '2021年度釋奠樂活動觀察與評介',
     autor: '蔡秉衡',
     component: Observed15,
     path: 'observed_15',

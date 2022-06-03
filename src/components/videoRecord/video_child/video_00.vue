@@ -102,14 +102,14 @@ const tabs = [
     img: img8
   },
   {
-    name: '佛、釋教音樂',
+    name: '佛教音樂',
     autor: '',
     component: Video9,
     path: 'videoRecord_9',
     img: img9
   },
   {
-    name: '道、法教音樂',
+    name: '道、法、釋教音樂',
     autor: '',
     component: Video10,
     path: 'videoRecord_10',

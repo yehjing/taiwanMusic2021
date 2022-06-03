@@ -40,12 +40,12 @@ const tabs1 = [
     path: 'videoRecord_8',
   },
   {
-    name: '佛、釋教音樂',
+    name: '佛教音樂',
     autor: '',
     path: 'videoRecord_9',
   },
   {
-    name: '道、法教音樂',
+    name: '道、法、釋教音樂',
     autor: '',
     path: 'videoRecord_10',
   },

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>釋奠樂及其他篇</h2>
+      <h2>釋奠樂篇</h2>
     </div>
     <hr />
     <p class="firstRow"></p>

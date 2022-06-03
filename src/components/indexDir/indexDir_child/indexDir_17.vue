@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>佛、釋教音樂篇</h2>
+      <h2>佛教音樂篇</h2>
     </div>
     <hr />
     <p class="firstRow"></p>

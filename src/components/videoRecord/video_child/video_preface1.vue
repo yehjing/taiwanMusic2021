@@ -282,7 +282,7 @@
         </tr>
         <tr>
           <td rowspan="3">
-            佛、釋教音樂
+            佛教音樂
           </td>
           <td class="tableCenter">
             1
@@ -309,7 +309,7 @@
         </tr>
         <tr>
           <td rowspan="4">
-            道、法教音樂
+            道、法、釋教音樂
           </td>
           <td class="tableCenter">
             1

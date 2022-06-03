@@ -25,17 +25,17 @@ const tabs1 = [
     path: 'indexDir_16',
   },
   {
-    name: '佛、釋教音樂篇',
+    name: '佛教音樂篇',
     autor: '',
     path: 'indexDir_17',
   },
   {
-    name: '道、法教音樂篇',
+    name: '道、法、釋教音樂篇',
     autor: '',
     path: 'indexDir_18',
   },
   {
-    name: '釋奠樂及其他篇',
+    name: '釋奠樂篇',
     autor: '',
     path: 'indexDir_23',
   },
@@ -87,17 +87,17 @@ const tabs2 = [
     path: 'indexDir_5',
   },
   {
-    name: '佛、釋教音樂篇',
+    name: '佛教音樂篇',
     autor: '',
     path: 'indexDir_6',
   },
   {
-    name: '道、法教音樂篇',
+    name: '道、法、釋教音樂篇',
     autor: '',
     path: 'indexDir_7',
   },
   {
-    name: '釋奠樂及其他篇',
+    name: '釋奠樂篇',
     autor: '',
     path: 'indexDir_24',
   },

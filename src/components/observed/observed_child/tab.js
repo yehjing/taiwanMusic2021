@@ -40,17 +40,17 @@ const tabs1 = [
     path: 'observed_8',
   },
   {
-    name: '佛、釋教音樂',
+    name: '佛教音樂',
     autor: '蔡秉衡',
     path: 'observed_9',
   },
   {
-    name: '道、法教音樂',
+    name: '道、法、釋教音樂',
     autor: '李秀琴',
     path: 'observed_10',
   },
   {
-    name: '釋奠樂及其他',
+    name: '釋奠樂',
     autor: '蔡秉衡',
     path: 'observed_15',
   },

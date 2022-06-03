@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>2020年度道、法教音樂活動觀察與評介</h2>
+      <h2>2020年度道、法、釋教音樂活動觀察與評介</h2>
       <span>李秀琴</span>
     </div>
     <hr />
