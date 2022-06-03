@@ -5,7 +5,7 @@
         國立傳統藝術中心主任序
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
-        臺灣音樂館館主任序
+        臺灣音樂館 兼代館主任序
       </div>
       <div class="middleItem noLeaf" :class="activeName === 'introduction_3' ? 'active' :''" @click="clickLink('introduction_3')">
         主編序

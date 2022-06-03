@@ -125,7 +125,7 @@ export default new VueRouter({
           component: Introduction_1,
         },
         {
-          name: '臺灣音樂館館主任序',
+          name: '臺灣音樂館 兼代館主任序',
           path: 'introduction_2',
           component: Introduction_2,
         },
