@@ -24,7 +24,7 @@ const tabs = [
   //   component: ObservedPreface3,
   // },
   {
-    name: '2020年度流行音樂活動觀察與評介',
+    name: '2021年度流行音樂活動觀察與評介',
     autor: '徐玫玲',
     component: Observed13,
     path: 'observed_13',

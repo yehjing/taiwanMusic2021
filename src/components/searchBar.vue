@@ -2,8 +2,11 @@
   <section class="searchBar">
     <div class="webMenu">
       <div @click="toggleYears = !toggleYears"  class="webYear">
-        <span>2020臺灣音樂年鑑</span>
+        <span>2021臺灣音樂年鑑</span>
         <span>▾</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2020)">
+        <span>2020臺灣音樂年鑑</span>
       </div>
       <div v-if="toggleYears" class="webYear" @click="toLastYear(2019)">
         <span>2019臺灣音樂年鑑</span>
@@ -29,8 +32,11 @@
     <div v-if="isOpen" class="burgerMenu">
       <div class="toggleYears">
         <div @click="toggleYears = !toggleYears" class="years">
-          <span>2020臺灣音樂年鑑</span>
+          <span>2021臺灣音樂年鑑</span>
           <span>▾</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2020)">
+          <span>2020臺灣音樂年鑑</span>
         </div>
         <div v-if="toggleYears" class="years" @click="toLastYear(2019)">
           <span>2019臺灣音樂年鑑</span>
@@ -46,7 +52,7 @@
         <li @click="hiddenMenu"><router-link :to="'/comment'">文化評論</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/indexDir'">附錄</router-link></li>
-        <li @click="hiddenMenu"><router-link :to="'/download'">2020臺灣音樂年鑑<br>全文下載</router-link></li>
+        <li @click="hiddenMenu"><router-link :to="'/download'">2021臺灣音樂年鑑<br>全文下載</router-link></li>
       </ul>
     </div>
     <div @click="hiddenMenu" v-if="isOpen" class="mask"></div>

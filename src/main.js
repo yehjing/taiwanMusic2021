@@ -6,7 +6,7 @@ Vue.config.productionTip = false;
 router.beforeEach((to, from, next) => {
   /* 路由发生变化修改页面title */
   if (to.name) {
-    document.title = `2020臺灣音樂年鑑-${to.name}`;
+    document.title = `2021臺灣音樂年鑑-${to.name}`;
   }
   next();
 });

@@ -248,7 +248,7 @@ export default new VueRouter({
           component: Observed_14,
         },
         {
-          name: '2020年度釋奠樂及其他活動觀察與評介',
+          name: '2021年度釋奠樂及其他活動觀察與評介',
           path: 'Observed_15',
           component: Observed_15,
         },
@@ -260,22 +260,22 @@ export default new VueRouter({
       component: Comment,
       children: [
         {
-          name: '2020年度臺灣傳統音樂文化與生態論述',
+          name: '2021年度臺灣傳統音樂文化與生態論述',
           path: '/',
           component: Comment_1,
         },
         {
-          name: '2020年度臺灣藝術（當代創作）音樂文化與生態論述',
+          name: '2021年度臺灣藝術（當代創作）音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
         {
-          name: '2020年度臺灣流行音樂文化與生態論述',
+          name: '2021年度臺灣流行音樂文化與生態論述',
           path: 'comment_3',
           component: Comment_3,
         },
         {
-          name: '2020年度臺灣跨界音樂文化與生態論述',
+          name: '2021年度臺灣跨界音樂文化與生態論述',
           path: 'comment_4',
           component: Comment_4,
         },
@@ -522,13 +522,13 @@ export default new VueRouter({
       ],
     },
     {
-      name: '2020臺灣音樂年鑑全文下載',
+      name: '2021臺灣音樂年鑑全文下載',
       path: '/download',
       component: Download,
       children: [
         {
           path: '/',
-          name: '2020臺灣音樂年鑑全文下載',
+          name: '2021臺灣音樂年鑑全文下載',
           component: Download_1,
         },
       ],

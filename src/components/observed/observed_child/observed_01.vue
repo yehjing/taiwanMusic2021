@@ -25,13 +25,13 @@ const tabs = [
   //   component: ObservedPreface2,
   // },
   {
-    name: '2020年度國樂活動觀察與評介',
+    name: '2021年度國樂活動觀察與評介',
     autor: '林昱廷',
     component: Observed11,
     path: 'observed_11',
   },
   {
-    name: '2020年度西樂及混合編制活動觀察與評介',
+    name: '2021年度西樂及混合編制活動觀察與評介',
     autor: '連憲升',
     component: Observed12,
     path: 'observed_12',
