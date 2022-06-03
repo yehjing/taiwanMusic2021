@@ -147,7 +147,7 @@ export default {
       left: 0;
       width: 60%;
       height: 100vh;
-      background: #7c4787;
+      background: #71f3ed;
       padding: 10% 4% 0 4%;
       z-index: 2;
       // overflow: hidden;
@@ -179,13 +179,13 @@ export default {
           color: #fff;
           padding: 5%;
           min-height: 40px;
-          border-bottom: 1px solid #fff;
+          border-bottom: 1px solid #000;
           &:last-child{
             border-bottom: none;
           }
           a{
             font-size: 14px;
-            color: #fff;
+            color: #747474;
           }
         }
       }

@@ -1,9 +1,9 @@
 .mobileHomeNav{
   display: none;
-  background: #7c4787;
+  background: #71f3ed;
   padding:0 20px;
   li{
-    border-bottom: 1px solid #c4c4c4;
+    border-bottom: 1px solid #707070;
     &:last-child{
       border-bottom: none;
     }
@@ -14,7 +14,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #c4c4c4;
+    color: #000;
   }
 }
 @media (max-width: 576px) {
