@@ -5,6 +5,7 @@
     </div>
     <hr />
     <p class="firstRow"></p>
+    <p>團體及個人名錄</p>
     <h3>一、阿美族</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
@@ -17,46 +18,6 @@
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>
-            <p>新世紀文化藝術團</p>
-          </td>
-          <td>
-            <p>利珍．妮卡兒</p>
-          </td>
-          <td>
-            <p>臺北市新生北路二段28巷5號17樓</p>
-            <p>02-2541-2057</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Taipei.newcentury/">連結</a>
-          </td>
-          <td>
-            <p>
-              成立於1998年，將東西方文化結合，並號召熱愛原住民文化的青年一起發揚原住民獨有的歌舞。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>原鄉舞蹈團</p>
-          </td>
-          <td>
-            <p>葉芬菊</p>
-          </td>
-          <td>
-            <p>花蓮縣壽豐鄉光榮村光榮1街26之1號</p>
-            <p>0933-996-777</p>
-          </td>
-          <td>
-            <a href="mailto:tmt5757@ms3.hinet.net">連結</a>
-          </td>
-          <td>
-            <p>
-              成立於1998年，一開始只是在國中裡給部落婦女參加的舞蹈班，成長至今，已是成熟的傳統舞蹈團。
-            </p>
-          </td>
-        </tr>
         <tr>
           <td>
             <p>阿法隆文化藝術團</p>
@@ -74,13 +35,15 @@
           <td>
             <p>原舞者</p>
           </td>
-          <td>&nbsp;</td>
+          <td>
+            <p>&nbsp;</p>
+          </td>
           <td>
             <p>花蓮縣壽豐鄉池南路二段27巷6號</p>
             <p>03-864-2290</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/fasdtdance">連結</a>
+            <p>https://www.facebook.com/fasdtdance</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -96,7 +59,7 @@
             <p>0935-819-358</p>
           </td>
           <td>
-            <a target="_" href="https://reurl.cc/K6DGQm">連結</a>
+            <p>https://reurl.cc/K6DGQm</p>
           </td>
           <td>
             <p>成立於1997年，長期推廣馬蘭阿美族傳統音樂文化。</p>
@@ -104,7 +67,7 @@
         </tr>
         <tr>
           <td>
-            <p>臺東縣阿美族學學會</p>
+            <p>臺東縣阿美族學會</p>
           </td>
           <td>
             <p>高淑娟</p>
@@ -113,8 +76,12 @@
             <p>臺東縣臺東市更生北路559巷49號</p>
             <p>0935-819-358</p>
           </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/臺東縣阿美族學學會-720085445047793/</p>
+          </td>
+          <td>
+            <p>2017年成立</p>
+          </td>
         </tr>
         <tr>
           <td>
@@ -128,41 +95,13 @@
             <p>0932-664-034</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Sawtoy/">連結</a>
+            <p>https://www.facebook.com/Sawtoy/</p>
           </td>
           <td>
             <p>
               成立於1999年，用打擊來傳遞阿美族傳統的美麗，並透過歌聲來激盪族人對族群文化的重視與感動的打擊樂團。
             </p>
           </td>
-        </tr>
-        <tr>
-          <td>
-            <p>長光天主教堂</p>
-          </td>
-          <td>
-            <p>吳若石</p>
-          </td>
-          <td>
-            <p>臺東縣長濱鄉長濱村24鄰105之1號</p>
-            <p>089-831-428</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>南溪社區發展協會</p>
-          </td>
-          <td>
-            <p>高蓮妹</p>
-          </td>
-          <td>
-            <p>臺東縣長濱鄉三間村南溪16鄰6號</p>
-            <p>0912-749-280</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -175,66 +114,11 @@
             <p>0972-770-597</p>
           </td>
           <td>
-            <a target="_" href="https://reurl.cc/W4Wndx">連結</a>
+            <p>https://reurl.cc/W4Wndx</p>
           </td>
           <td>
             <p>
               由馬蘭部落青年召集年輕人和耆老們學習阿美族特有的複音音樂，並分享給眾人這份獨特的音樂。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>Alefeis阿勒飛斯文化藝術團</p>
-          </td>
-          <td>
-            <p>葉芬菊</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>
-            <p>
-              「Alefeis」阿美族語是老鷹的意思，是志向高遠、凌空翱翔的飛鷹，為「花蓮縣政府原住民族樂舞人才培育暨扶植團隊發展計畫」的獲選團隊。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>Makapahay瑪嘎巴嗨文化藝術團</p>
-          </td>
-          <td>
-            <p>督瀅．谷慕</p>
-            <p>dongi．komod</p>
-          </td>
-          <td>
-            <p>0936-849-989</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/mdNovl">連結</a>
-          </td>
-          <td>
-            <p>
-              2006年成立，致力推廣阿美族傳統文化，除了以古調為基礎的音樂、舞蹈表演以外，還開設原住民傳統相關的課程。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>比西里岸部落PawPaw鼓樂團</p>
-          </td>
-          <td>
-            <p>林筑涵</p>
-          </td>
-          <td>
-            <p>089-854-434</p>
-            <p>0915-777-124</p>
-          </td>
-          <td>
-            <a target="_" href="https://reurl.cc/lLMopv">連結</a>
-          </td>
-          <td>
-            <p>
-              「PawPaw」在阿美族語中的意思是浮筒，將浮筒和漂流木做成非洲鼓的樣子，並以阿美族圖騰裝飾，以鼓樂來傳承自身的傳統文化。
             </p>
           </td>
         </tr>
@@ -265,7 +149,7 @@
             <p>02-2647-8856</p>
           </td>
           <td>
-            <a target="_" href="https://reurl.cc/1QpZ7Y">連結</a>
+            <p>https://reurl.cc/1QpZ7Y</p>
           </td>
           <td>
             <p>透過歌聲和舞蹈將原住民文化傳達到世界上每個角落。</p>
@@ -297,7 +181,7 @@
             <p>徐榮春</p>
           </td>
           <td>
-            <p>新竹縣尖石鄉義興村馬胎8鄰51號</p>
+            <p>新竹縣尖石鄉義興村馬胎51號</p>
             <p>03-584-1600</p>
           </td>
           <td>&nbsp;</td>
@@ -311,11 +195,28 @@
             <p>蘇美娟</p>
           </td>
           <td>
-            <p>新竹縣五峰鄉15鄰243號</p>
+            <p>新竹縣五峰鄉243號</p>
             <p>03-565-6040</p>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>桃山國小</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新竹縣五峰鄉桃山村243號</p>
+            <p>03-585-6040</p>
+            <p>03-585-6437</p>
+          </td>
+          <td>
+            <p>https://tses.hcc.edu.tw</p>
+          </td>
+          <td>
+            <p>今年獲頒教育部藝術教育貢獻「績優學校獎」，以泰雅文化之美為主軸發展原聲合唱。</p>
+          </td>
         </tr>
         <tr>
           <td>
@@ -328,8 +229,8 @@
             <p>0928-185-207</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/JOJUN0219/">連結</a><br>
-            <a href="mailto:n901304005@gmail.com">連結</a>
+            <p>https://www.facebook.com/JOJUN0219</p>
+            <p>n901304005@gmail.com</p>
           </td>
           <td>
             <p>泰雅族青年組合的樂團，擅長各種大小活動、控場、帶氣氛。</p>
@@ -364,7 +265,7 @@
             <p>04-2594-3191</p>
           </td>
           <td>
-            <a target="_" href="http://tayal-myu.com/">連結</a>
+            <p>http://tayal-myu.com/</p>
           </td>
           <td>
             <p>
@@ -382,8 +283,8 @@
             <p>0939-288-109</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/原舞曲文化藝術團-282057891632/">連結</a><br>
-            <a href="mailto:chjupi@gmail.com">連結</a>
+            <p>https://www.facebook.com/原舞曲文化藝術團-282057891632/</p>
+            <p>chjupi@gmail.com</p>
           </td>
           <td>
             <p>非純粹泰雅族舞團</p>
@@ -401,10 +302,10 @@
             <p>南投縣埔里鎮北梅里梅子路41-11號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/PuliShueishalian">連結</a>
+            <p>https://www.facebook.com/PuliShueishalian</p>
           </td>
           <td>
-            <p>非純粹泰雅族群舞蹈</p>
+            <p>非純粹泰雅族群舞團</p>
           </td>
         </tr>
         <tr>
@@ -419,12 +320,10 @@
             <p>0958-380-224</p>
           </td>
           <td>
-            <a href="mailto:acer380224@yahoo.com.tw">連結</a>
+            <p>acer380224@yahoo.com.tw</p>
           </td>
           <td>
-            <p>
-              結合泰雅族樂器與吟唱，舞蹈以改編自泰雅族傳統舞步為主，招收不同的部族團員。
-            </p>
+            <p>結合泰雅族樂器與吟唱，舞蹈以改編自泰雅族傳統舞步為主，招收不同的部族團員。</p>
           </td>
         </tr>
         <tr>
@@ -440,9 +339,13 @@
             <p>04-9231-6387</p>
           </td>
           <td>
-            <a href="mailto:music@chin-ai.org.tw">連結</a>
+            <p>music@chin-ai.org.tw</p>
           </td>
-          <td>&nbsp;</td>
+          <td>
+            <p>
+              以教育親愛部落的學童為主，教授西洋樂器及樂理知識，並組成西洋室內樂團與弦樂團，定期舉辦公演與音樂營。
+            </p>
+          </td>
         </tr>
         <tr>
           <td>
@@ -472,17 +375,23 @@
             <p>03-998-1632</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
+          <td>
+            <p>&nbsp;</p>
+          </td>
         </tr>
         <tr>
           <td>
             <p>門諾漾文化藝術團</p>
           </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/mnoyanlokah/">連結</a><br>
-            <a href="mailto:ch.roro1211@gmail.com">連結</a>
+            <p>張朝松</p>
+          </td>
+          <td>
+            <p>03-9801559（門諾漾文化推展協會）</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/mnoyanlokah/</p>
+            <p>ch.roro1211@gmail.com</p>
           </td>
           <td>
             <p>
@@ -507,24 +416,37 @@
       <tbody>
         <tr>
           <td>
-            <p>PUZANGALAN（希望）兒童合唱團</p>
+            <p>Abao阿爆（阿仍仍）</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>臺東縣金峰鄉嘉蘭部落</p>
+          </td>
+          <td>
+            <p>vjdust@gmail.com</p>
+          </td>
+          <td>
+            <p>
+              2020年以《kinakaian母親的舌頭》二度獲頒金曲獎最佳原住民語專輯獎、最佳年度專輯獎；專輯中〈Thank
+              You感謝〉一曲亦獲年度歌曲獎。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>PUZANGALAN（希望）兒童合唱團&nbsp;</p>
           </td>
           <td>&nbsp;</td>
           <td>
             <p>屏東縣瑪家鄉</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/PuzangalanChoir/">連結</a>
+            <p>https://www.facebook.com/PuzangalanChoir/</p>
           </td>
           <td>
             <p>2012年5月/德勒斯登兒童合唱節</p>
-            <p>
-              2012年12月/受邀參加德國第三十四屆國際韓德爾兒童合唱藝術節合唱比賽
-            </p>
-            <p>
-              2015年7月/受日本合唱聯盟邀請參加日本兒童合唱節團體（JCA KODOMO
-              Chorus Festival）
-            </p>
+            <p>2012年12月/受邀參加德國第三十四屆國際韓德爾兒童合唱藝術節合唱比賽</p>
+            <p>2015年7月/受日本合唱聯盟邀請參加日本兒童合唱節團體（JCA KODOMO Chorus Festival）</p>
             <p>2016年5月/中華民國第十四任總統副總統就職典禮領唱國歌</p>
           </td>
         </tr>
@@ -537,11 +459,11 @@
             <p>屏東縣牡丹鄉東源村</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sauniaw">連結</a>
+            <p>https://www.facebook.com/sauniaw</p>
           </td>
           <td>
             <p>
-              臺灣第一個打破專屬男性傳統，學習口、鼻笛的女性。2011年，屏東縣政府將她列為屏東縣傳統藝術排灣族口、鼻笛傳藝師。
+              臺灣第一個打破專屬男性傳統，學習口、鼻笛的女性。2011年，屏東縣政府將她列為屏東縣傳統表演藝術排灣族口、鼻笛傳藝師。
             </p>
           </td>
         </tr>
@@ -557,7 +479,7 @@
             <p>0919-331-143</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Percussion17498833">連結</a>
+            <p>https://www.facebook.com/Percussion17498833</p>
           </td>
           <td>
             <p>
@@ -570,23 +492,34 @@
             <p>泰武古謠傳唱</p>
           </td>
           <td>
-            <p>查馬克</p>
+            <p>&nbsp;</p>
           </td>
           <td>
             <p>屏東縣泰武鄉</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/TaiwuAncientBalladsTroupe/"
-              >連結</a
-            >
-
+            <p>https://www.facebook.com/TaiwuAncientBalladsTroupe/</p>
           </td>
           <td>
-            <p>
-              第二十三屆金曲獎「最佳傳統音樂詮釋獎」、第二十五屆金曲獎「最佳原住民語專輯獎」。
-            </p>
+            <p>第二十三屆金曲獎「最佳傳統音樂詮釋獎」、第二十五屆金曲獎「最佳原住民語專輯獎」。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>賓茂 VASA 東排灣樂舞團</p>
+          </td>
+          <td>
+            <p>范文凱</p>
+          </td>
+          <td>
+            <p>臺東縣金崙村</p>
+            <p>0963-693-242</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/vasakacedas/</p>
+          </td>
+          <td>
+            <p>來自臺東縣金崙村賓茂國中，希望藉由東排灣族的傳統歌謠樂舞，展現自我。</p>
           </td>
         </tr>
         <tr>
@@ -619,44 +552,6 @@
             </p>
           </td>
         </tr>
-        <tr>
-          <td>
-            <p>Abao阿爆（阿仍仍）</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺東縣金峰鄉嘉蘭部落</p>
-          </td>
-          <td>
-            <a href="mailto:vjdust@gmail.com">連結</a>
-          </td>
-          <td>
-            <p>
-              2020年以《kinakaian母親的舌頭》二度獲頒金曲獎最佳原住民語專輯獎、最佳年度專輯獎；專輯中〈Thank
-              You感謝〉一曲亦獲年度歌曲獎。
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>賓茂 VASA 東排灣樂舞團</p>
-          </td>
-          <td>
-            <p>范文凱</p>
-          </td>
-          <td>
-            <p>臺東縣金崙村</p>
-            <p>0963-693-242</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/vasakacedas/">連結</a>
-          </td>
-          <td>
-            <p>
-              來自臺東縣金崙村賓茂國中，希望藉由東排灣族的傳統歌謠樂舞，展現自我。
-            </p>
-          </td>
-        </tr>
       </tbody>
     </table>
     <br />
@@ -684,11 +579,9 @@
             <p>04-9279-2800</p>
           </td>
           <td>
-            <a target="_" href="http://sixstar.moc.gov">連結</a>
+            <p>http://sixstar.moc.gov</p>
           </td>
-          <td>
-            <p>Lileh之聲合唱團</p>
-          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -702,14 +595,10 @@
             <p>04-9279-2800</p>
           </td>
           <td>
-            <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun"
-              >連結</a
-            >
+            <p>http://sixstar.moc.gov.tw/blog/shinibunun</p>
           </td>
           <td>
-            <p>
-              1999年成立，為國家級重要傳統藝術保存團體，練習時間：每週一19:30-21:00。
-            </p>
+            <p>1999年成立，為國家級重要傳統藝術保存團體，練習時間：每週一19:30-21:00。</p>
           </td>
         </tr>
         <tr>
@@ -723,9 +612,7 @@
             <p>南投縣信義鄉東埔村開高巷63號</p>
             <p>04-9270-1340</p>
           </td>
-          <td>
-            <a href="mailto:www.tpups.ntct.edu.tw">連結</a>
-          </td>
+          <td>&nbsp;</td>
           <td>
             <p>布農族演出團體</p>
           </td>
@@ -739,7 +626,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://voxnativausa.org">連結</a>
+            <p>https://voxnativausa.org</p>
           </td>
           <td>
             <p>成立於2008年，布農族演出團體。</p>
@@ -772,11 +659,7 @@
             <p>0905-558-088</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/小芳家族-1712064369093367/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/小芳家族-1712064369093367/</p>
           </td>
           <td>
             <p>布農族演出團體</p>
@@ -823,12 +706,10 @@
             <p>0928-875-355</p>
           </td>
           <td>
-            <a href="mailto:kezo888@gmail.com">連結</a>
+            <p>kezo888@gmail.com</p>
           </td>
           <td>
-            <p>
-              來自臺東卑南南王普悠瑪部落，成立於1991年，以樂舞做為力振部落傳統文化的重要媒介。
-            </p>
+            <p>來自臺東卑南南王普悠瑪部落，成立於1991年，以樂舞做為力振部落傳統文化的重要媒介。</p>
           </td>
         </tr>
         <tr>
@@ -839,7 +720,7 @@
             <p>賴光輝</p>
           </td>
           <td>
-            <p>臺東縣卑南鄉賓朗村7鄰1號</p>
+            <p>臺東縣卑南鄉賓朗村1號</p>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
@@ -907,22 +788,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://reurl.cc/q89oRn">連結</a>
+            <p>https://reurl.cc/q89oRn</p>
           </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>臺東縣阿里擺文教協會</p>
-          </td>
-          <td>
-            <p>黃尤金</p>
-          </td>
-          <td>
-            <p>臺東縣卑南鄉賓朗村賓朗路24鄰537巷20號</p>
-            <p>0986-381-840</p>
-          </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -947,12 +814,10 @@
             <p>0972-338-504</p>
           </td>
           <td>
-            <a href="mailto:y83275@gmail.com">連結</a>
+            <p>y83275@gmail.com</p>
           </td>
           <td>
-            <p>
-              成員來自各個不同的卑南族部落，透過跟耆老學習古謠，不斷的累積歌謠及文化的底蘊。
-            </p>
+            <p>成員來自各個不同的卑南族部落，透過跟耆老學習古謠，不斷的累積歌謠及文化的底蘊。</p>
           </td>
         </tr>
       </tbody>
@@ -972,7 +837,7 @@
       <tbody>
         <tr>
           <td>
-            <p>魯凱歌謠隊</p>
+            <p>茂林國小魯凱歌謠隊</p>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -980,9 +845,7 @@
             <p>07-680-1043</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/MLES076801043/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/MLES076801043/</p>
           </td>
           <td>
             <p>
@@ -992,7 +855,7 @@
         </tr>
         <tr>
           <td>
-            <p>屏東縣青葉國小合唱團</p>
+            <p>青葉魯凱兒童歌謠合唱團</p>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -1000,11 +863,7 @@
             <p>08-796-1997</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/屏東縣青葉國小-117291993003600/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/屏東縣青葉國小-117291993003600/</p>
           </td>
           <td>
             <p>
@@ -1033,13 +892,11 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>嘉義縣阿里山鄉達邦村1鄰21號</p>
+            <p>嘉義縣阿里山鄉達邦村21號</p>
             <p>05-251-1982</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/cou.culture.center/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/cou.culture.center/</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1058,11 +915,11 @@
             <p>0937-476-115</p>
           </td>
           <td>
-            <a href="mailto:hosa520@gmail.com">連結</a>
+            <p>hosa520@gmail.com</p>
           </td>
           <td>
             <p>
-              協會於2010年成立，負責人汪義福為現任部落領袖。2020年改選，理事長為前阿里山鄉鄉長陳明利、總幹事為鄭雅慧。
+              協會於2010年成立，負責人汪義福為部落領袖。2020年改選，理事長為前阿里山鄉鄉長陳明利、總幹事為鄭雅慧。
             </p>
           </td>
         </tr>
@@ -1090,7 +947,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>嘉義縣阿里山鄉新美村4鄰78號</p>
+            <p>嘉義縣阿里山鄉新美村78號</p>
             <p>05-251-3015</p>
           </td>
           <td>&nbsp;</td>
@@ -1104,7 +961,9 @@
           <td>
             <p>逐鹿表演藝術團</p>
           </td>
-          <td>&nbsp;</td>
+          <td>
+            <p>&nbsp;</p>
+          </td>
           <td>
             <p>05-259-0089</p>
           </td>
@@ -1117,52 +976,16 @@
         </tr>
         <tr>
           <td>
-            <p>山美部落教室</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>嘉義縣阿里山鄉3鄰55之1號</p>
-            <p>05-258-6094</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/groups/savikiclass"
-              >連結</a
-            >
-          </td>
-          <td>
-            <p>於2002年成立，是為部落學童提供空間，由部落媽媽們陪伴學習。</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>茶山國民小學</p>
-          </td>
-          <td>
-            <p>校長</p>
-            <p>鄭佩茜</p>
-          </td>
-          <td>
-            <p>嘉義縣阿里山鄉茶山村三鄰74號</p>
-            <p>05-251-3014</p>
-          </td>
-          <td>
-            <a target="_" href="http://www.chses.cyc.edu.tw/">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
             <p>國立東華大學原住民民族學院舞團</p>
           </td>
           <td>
-            <p>安梓濱</p>
-            <p>（pasuya'e yasiungu）</p>
+            <p>安梓濱（pasuya'e yasiungu）</p>
           </td>
           <td>
             <p>03-890-5752</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/NDHUCISDT/">連結</a>
+            <p>https://www.facebook.com/NDHUCISDT/</p>
           </td>
           <td>
             <p>
@@ -1182,9 +1005,57 @@
             <p>0976-300-852</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/yupasuengi">連結</a>
+            <p>https://www.facebook.com/yupasuengi</p>
           </td>
           <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>娜麓灣樂舞劇團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>屏東縣瑪家鄉北葉村風景104號</p>
+            <p>08-799-4920</p>
+          </td>
+          <td>
+            <p>https://www.tacp.gov.tw/</p>
+          </td>
+          <td>
+            <p>成立於1990年初春，係臺灣原住民族文化園區常年駐園演出之團隊。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>塔山之歌－來吉鄒族古謠傳唱隊</p>
+          </td>
+          <td>
+            <p>鄭義信</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/TsouFolkBalladChoirOfLaiji</p>
+          </td>
+          <td>
+            <p>
+              鄭義信老師帶領族人團聚練唱成立「塔山之歌－來吉鄒族古謠傳唱隊」帶動青年們創作，擾動年輕人對於文化和內外融合的想法，盼藉由鄒族年輕人延續鄒族的族群記憶和族語知識。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>Am Band樂團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>0960-920-001</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/am.fangnaan</p>
+          </td>
+          <td>
+            <p>2018年發行第一張專輯「故鄉」，團員由山美部落4個愛唱歌的鄒族女孩組成。</p>
+          </td>
         </tr>
       </tbody>
     </table>
@@ -1209,7 +1080,7 @@
             <p>朱劍鳴</p>
           </td>
           <td>
-            <p>新竹縣五峰鄉大隘村16鄰331之1號</p>
+            <p>新竹縣五峰鄉大隘村331之1號</p>
             <p>03-585-1172</p>
           </td>
           <td>&nbsp;</td>
@@ -1223,11 +1094,11 @@
             <p>林恩惠</p>
           </td>
           <td>
-            <p>苗栗縣南莊鄉蓬萊村19鄰118號</p>
+            <p>苗栗縣南莊鄉蓬萊村118號</p>
             <p>03-782-3385</p>
           </td>
           <td>
-            <a target="_" href="https://www.penla.mlc.edu.tw/">連結</a>
+            <p>https://www.penla.mlc.edu.tw/</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1239,7 +1110,7 @@
             <p>章潘三妹</p>
           </td>
           <td>
-            <p>苗栗縣南庄鄉蓬萊村19鄰117號</p>
+            <p>苗栗縣南庄鄉蓬萊村117號</p>
             <p>0932-614-886</p>
           </td>
           <td>&nbsp;</td>
@@ -1255,11 +1126,7 @@
             <p>03-782-2439</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/saywalosaysiyat/?ref=page_internal"
-              >連結</a
-            >
+            <p>https://www.facebook.com/saywalosaysiyat/?ref=page_internal</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1290,7 +1157,7 @@
             <p>08-973-2073</p>
           </td>
           <td>
-            <a target="_" href="http://www.lanan.org.tw/">連結</a>
+            <p>http://www.lanan.org.tw/</p>
           </td>
           <td>
             <p>
@@ -1314,19 +1181,6 @@
             <p>
               蘭嶼島上的椰油國小，成立於2006年，讓孩子學習雅美族的傳統文化歌舞，並透過演出、比賽，讓雅美文化走出蘭嶼島上。
             </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>謝永泉</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>
-            <a target="_" href="https://reurl.cc/14nM58">連結</a>
-          </td>
-          <td>
-            <p>雅美（達悟）族歌手</p>
           </td>
         </tr>
       </tbody>
@@ -1356,7 +1210,7 @@
             <p>04-9285-0036</p>
           </td>
           <td>
-            <a target="_" href="https://mitathao.wixsite.com/thau">連結</a>
+            <p>https://reurl.cc/pW3O3e</p>
           </td>
           <td>
             <p>
@@ -1377,11 +1231,7 @@
             <p>04-9285-0036</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/Thao.Nation/about/?ref=page_internal"
-              >連結</a
-            >
+            <p>https://reurl.cc/qOVQVp</p>
           </td>
           <td>
             <p>邵族演出團體</p>
@@ -1426,14 +1276,14 @@
             <p>陳夏梅</p>
           </td>
           <td>
-            <p>花蓮縣豐濱鄉豐濱村19鄰立德27號</p>
+            <p>花蓮縣豐濱鄉豐濱村立德27號</p>
             <p>03-879-1306</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/kudisdamu/">連結</a>
+            <p>https://www.facebook.com/kudisdamu/</p>
           </td>
           <td>
-            <p>每週六日常態練習</p>
+            <p>每週六、日常態練習。</p>
           </td>
         </tr>
       </tbody>
@@ -1463,7 +1313,7 @@
             <p>0972-892-209</p>
           </td>
           <td>
-            <a href="mailto:chenlinjo@gmail.com">連結</a>
+            <p><a href="mailto:chenlinjo@gmail.com">chenlinjo@gmail.com</a></p>
           </td>
           <td>
             <p>太魯閣族演出團體，成立於2004年。</p>
@@ -1478,11 +1328,7 @@
             <p>0981-016-207</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/pg/LabagaTaru/about/?ref=page_internal"
-              >連結</a
-            >
+            <p>https://www.facebook.com/pg/LabagaTaru/about/</p>
           </td>
           <td>
             <p>太魯閣族演出歌手，2018年發表首張專輯《獵首笛》。</p>
@@ -1500,11 +1346,7 @@
             <p>0981-016-207</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/魯夿旮音樂有限公司-Rubaga-Music-101943177887753/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/魯夿旮音樂有限公司-Rubaga-Music-101943177887753/</p>
           </td>
           <td>
             <p>
@@ -1514,7 +1356,7 @@
         </tr>
         <tr>
           <td>
-            <p>峽谷（Ayug）樂舞團</p>
+            <p>花蓮縣峽谷樂舞文化藝術交流協會</p>
           </td>
           <td>
             <p>簡明賢</p>
@@ -1523,11 +1365,7 @@
             <p>0932-656-172</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/groups/287998897985246/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/groups/287998897985246/</p>
           </td>
           <td>
             <p>
@@ -1546,7 +1384,7 @@
             <p>0967-019-611</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/elug.tw/">連結</a>
+            <p>https://www.facebook.com/elug.tw/</p>
           </td>
           <td>
             <p>
@@ -1562,15 +1400,11 @@
             <p>郭文貴</p>
           </td>
           <td>
-            <p>花蓮縣秀林鄉崇德村7鄰96號</p>
+            <p>花蓮縣秀林鄉崇德村96號</p>
             <p>03-862-1033</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/花蓮縣秀林鄉達基力文化藝術協會-106393438065754/?ref=page_internal"
-              >連結</a
-            >
+            <p>https://www.facebook.com/花蓮縣秀林鄉達基力文化藝術協會-106393438065754/</p>
           </td>
           <td>
             <p>
@@ -1580,22 +1414,20 @@
         </tr>
         <tr>
           <td>
-            <p>花蓮縣秀林鄉水源國小舞蹈隊</p>
+            <p>花蓮縣水源國小舞蹈隊</p>
           </td>
           <td>
             <p>余展輝</p>
           </td>
           <td>
-            <p>03-857-9781 #33</p>
+            <p>03-857-9781＃33</p>
           </td>
           <td>
-            <a target="_" href="http://teacher.hlc.edu.tw/iindex.asp?id=1273"
-              >連結</a
-            >
+            <p>http://teacher.hlc.edu.tw/iindex.asp?id=1273</p>
           </td>
           <td>
             <p>
-              95%以上學生是花蓮縣太魯閣族的原住民小孩；從多元智慧理念概念中發展適性教育，給予孩子成功機會與自信，於是發展藝術結合在地文化，實施「表演藝術－太魯閣族舞蹈教育」，營造優質人文園地並開創水源國小教育新局。
+              95%以上學生是花蓮縣太魯閣族的原住民小孩；發展藝術結合在地文化，實施「表演藝術－太魯閣族舞蹈教育」。
             </p>
           </td>
         </tr>
@@ -1608,12 +1440,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/KTS.C.H.C.S/?ref=page_internal"
-              >連結</a
-            ><br />
-            <a href="mailto:kts85192514@gmail.com">連結</a>
+            <p>https://www.facebook.com/KTS.C.H.C.S/</p>
+            <p>kts85192514@gmail.com</p>
           </td>
           <td>
             <p>
@@ -1644,7 +1472,7 @@
             <p>楊新國</p>
           </td>
           <td>
-            桃園市龍潭區中正里神龍路270號1樓
+            <p>桃園市龍潭區中正里神龍路270號1樓</p>
             <p>03-480-2337</p>
           </td>
           <td>&nbsp;</td>
@@ -1657,7 +1485,10 @@
           <td>
             <p>嚴苡嘉</p>
           </td>
-          <td>花蓮縣吉安鄉吉安村吉興一街389巷11號0988-000-815</td>
+          <td>
+            <p>花蓮縣吉安鄉吉安村吉興一街389巷11號</p>
+            <p>0988-000-815</p>
+          </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
@@ -1689,7 +1520,7 @@
           <td>&nbsp;</td>
           <td>
             <p>
-              本會以從事推展原住民族藝術文化為宗旨。定期辦理及推展有關原住民族之文化藝術講座、研習教育活動並培育文化藝術人才，推廣原住民文藝之價值。
+              以從事推展原住民族藝術文化為宗旨。定期辦理及推展有關原住民族之文化藝術講座、研習教育活動並培育文化藝術人才，推廣原住民文藝之價值。
             </p>
           </td>
         </tr>
@@ -1700,16 +1531,10 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/原住民祖蔀樂舞集/about/?ref=page_internal"
-              >連結</a
-            >
+            <p>https://www.facebook.com/原住民祖蔀樂舞集-244205526385720/</p>
           </td>
           <td>
-            <p>
-              由一群撒奇萊雅的孩子及東部阿美族青年所組成，致力於傳承屬於自己的文化。
-            </p>
+            <p>由一群撒奇萊雅的孩子及東部阿美族青年所組成，致力於傳承屬於自己的文化。</p>
           </td>
         </tr>
       </tbody>
@@ -1739,9 +1564,7 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/gluban.theater/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/gluban.theater/</p>
           </td>
           <td>
             <p>成立於2014年4月26日</p>
@@ -1759,9 +1582,7 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/mahung.house2016"
-              >連結</a
-            >
+            <p>https://www.facebook.com/mahung.house2016</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1777,10 +1598,10 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pusu.asd/">連結</a>
+            <p>https://www.facebook.com/pusu.asd/</p>
           </td>
           <td>
-            <p>每週六日常態練習</p>
+            <p>每週六、日常態練習。</p>
           </td>
         </tr>
         <tr>
@@ -1792,14 +1613,10 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/</p>
           </td>
           <td>
-            <p>成立於2011年，每週五六晚間常態練習。</p>
+            <p>成立於2011年，每週五、六晚間常態練習。</p>
           </td>
         </tr>
         <tr>
@@ -1845,11 +1662,7 @@
             <p>高雄市桃源區</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/高雄市拉阿魯哇文教協進會-837366779715696"
-              >連結</a
-            >
+            <p>https://www.facebook.com/高雄市拉阿魯哇文教協進會-837366779715696</p>
           </td>
           <td>
             <p>致力於拉阿魯哇族相關文化教育工作</p>
@@ -1872,23 +1685,17 @@
       <tbody>
         <tr>
           <td>
-            <p>台灣卡那卡那富族文教產業發展促進會</p>
+            <p>卡那卡那富族青年會</p>
           </td>
           <td>&nbsp;</td>
           <td>
             <p>高雄市那瑪夏區</p>
           </td>
           <td>
-            <a
-              target="_"
-              href="https://www.facebook.com/TaiWanKaNaKaNaFuWenJiaoChanYeFaZhanCuJinHui/"
-              >連結</a
-            >
+            <p>https://www.facebook.com/卡那卡那富族青年會-Kanakanavu-nanmaruan-101205761887820/</p>
           </td>
           <td>
-            <p>
-              2004年6月26日成立，主要為文化研習及祭典活動，永續傳承卡那卡那富文化。
-            </p>
+            <p>於2021年成立，主要傳承卡那卡那富族祭儀及文化。</p>
           </td>
         </tr>
       </tbody>
@@ -1908,6 +1715,23 @@
       <tbody>
         <tr>
           <td>
+            <p>日光小林社區發展協會</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>高雄市杉林區忠義路1號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/SiaolinTaivoan</p>
+          </td>
+          <td>
+            <p>
+              因為莫拉克事件，大武壠族人從甲仙區小林村遷居至杉林區這塊新土地，並成立日光小林社區發展協會，重建家園與復振文化。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <p>高雄市荖濃平埔文化永續發展協會</p>
           </td>
           <td>
@@ -1918,7 +1742,7 @@
             <p>07-688-3061</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/laulong88">連結</a>
+            <p>https://www.facebook.com/laulong88</p>
           </td>
           <td>
             <p>
@@ -1953,7 +1777,7 @@
             <p>0982-992-519</p>
           </td>
           <td>
-            <a href="mailto:garabomakatao@gmail.com">連結</a>
+            <p>garabomakatao@gmail.com</p>
           </td>
           <td>
             <p>
@@ -1987,7 +1811,7 @@
             <p>臺南市新化區</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/OniniSingers/">連結</a>
+            <p>https://www.facebook.com/OniniSingers/</p>
           </td>
           <td>
             <p>
@@ -2007,11 +1831,11 @@
             <p>06-723-8661</p>
           </td>
           <td>
-            <a href="mailto:m3211200@ms69.hinet.net">連結</a>
+            <p>m3211200@ms69.hinet.net</p>
           </td>
           <td>
             <p>
-              該社區自1999年來開始恢復阿利祖夜祭發現仙人文化遺址資產，更吸引國內外歷史學者、文化工作者之重視，因此積極推廣傳承，並於2011年（民100）成立西拉雅舞團。
+              該社區自1999年來開始恢復阿立祖夜祭，發現先人文化遺址的資產，更吸引國內外歷史學者、文化工作者之重視，因此積極推廣傳承，並於2011年（民100）成立西拉雅舞團。
             </p>
           </td>
         </tr>
@@ -2038,11 +1862,11 @@
             <p>吳長錕</p>
           </td>
           <td>
-            <p>臺中市清水鰲海路59號</p>
+            <p>臺中市清水區鰲海路59號</p>
             <p>04-2622-2596</p>
           </td>
           <td>
-            <a target="_" href="http://sixstar.moc.gov.tw/blog/gomach">連結</a>
+            <p>http://sixstar.moc.gov.tw/blog/gomach</p>
           </td>
           <td>
             <p>
@@ -2052,5 +1876,34 @@
         </tr>
       </tbody>
     </table>
+    <br />
+    <h3>二十一、平埔族－噶哈巫族</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
+      <thead>
+        <tr>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th style="width: 25%">備註</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <p>埔里四庄番－噶哈巫族</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>南投縣埔里鎮牛眠山、守城份、大湳、蜈蚣崙（合稱四庄）</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/kaxabu/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
   </div>
 </template>

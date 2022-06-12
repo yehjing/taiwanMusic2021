@@ -5,8 +5,8 @@
     </div>
     <hr />
     <p class="firstRow"></p>
-    <h3>一、客家傳統歌謠</h3>
 
+    <h3>一、客家傳統歌謠</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -20,26 +20,6 @@
       <tbody>
         <tr>
           <td>
-            <p>臺北市中原客家崇正會文山客家歌謠班</p>
-          </td>
-          <td>
-            <p>班長</p>
-            <p>黃逢廣</p>
-          </td>
-          <td>
-            <p>臺北市文山區福興路2號（興隆國小音樂教室）</p>
-            <p>02-935-3616</p>
-          </td>
-          <td>
-            <a target="_" href="http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm">連結</a>
-          </td>
-          <td>
-            <p>團練時間：19:30-21:30</p>
-            <p>團練地點：興隆國小音樂教室</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
             <p>臺北市中原客家崇正會祟正歌謠班</p>
           </td>
           <td>
@@ -47,15 +27,15 @@
             <p>許瑞</p>
           </td>
           <td>
-            <p>臺北市大安區信義路3段157巷11號4樓教室（臺北市客家文化會館）</p>
+            <p>臺北市大安區信義路三段157巷11號4樓教室（臺北市客家文化會館）</p>
             <p>02-8788-4541</p>
+            <p>0921-831-786</p>
           </td>
           <td>
-            <a target="_" href="https://blog.xuite.net/ho2104/blog">連結</a>
+            <p>https://blog.xuite.net/ho2104/blog</p>
           </td>
           <td>
-            <p>團練時間：每週一17:00-19:00</p>
-            <p>團練地點：臺北市客家文化會館</p>
+            <p>團練時間：每週一19:00-21:00</p>
           </td>
         </tr>
         <tr>
@@ -85,28 +65,28 @@
             <p>02-2708-5995</p>
           </td>
           <td>
-            <a target="_" href="https://ssl.thcp.org.tw/connections/clubs?page=3">連結</a>
+            <p>https://ssl.thcp.org.tw/connections/clubs?page=3</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>台北客家鄉音合唱團</p>
+            <p>臺北客家鄉音合唱團</p>
           </td>
           <td>
             <p>陳采玲</p>
           </td>
           <td>
             <p>臺北市萬華區國興路1巷4號9樓之4</p>
+            <p>臺北市客家文化會館（團練地點）</p>
             <p>02-2980-8613</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/TPHKC/">連結</a>
+            <p>https://www.facebook.com/pg/TPHKC/</p>
           </td>
           <td>
             <p>成立於2016年</p>
             <p>團練時間：每週日14:00-17:00</p>
-            <p>團練地點：臺北市客家文化會館</p>
           </td>
         </tr>
         <tr>
@@ -117,16 +97,15 @@
             <p>姜雲玉</p>
           </td>
           <td>
-            <p>臺北市長安東路二段189號2樓之5</p>
+            <p>臺北市大安區信義路三段157巷11號（客家文化會館地下室）</p>
             <p>02-2771-0794</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/twhakka1991/">連結</a>
+            <p>https://www.facebook.com/twhakka1991/</p>
           </td>
           <td>
             <p>成立於1991年</p>
             <p>團練時間：每週一19:30-21:30</p>
-            <p>團練地點：臺北市客家文化會館</p>
           </td>
         </tr>
         <tr>
@@ -137,15 +116,14 @@
             <p>張堂珍</p>
           </td>
           <td>
-            <p>臺北市北投區明德路174巷8號2樓</p>
+            <p>臺北市北投區明德路174巷8號2樓（臺北市客家文化主題公園）</p>
             <p>0933-056-319</p>
           </td>
           <td>
-            <a href="mailto:lifechang8@gmail.com">連結</a>
+            <p>lifechang8@gmail.com</p>
           </td>
           <td>
             <p>團練時間：每週三14:00-17:00</p>
-            <p>團練地點：臺北市客家文化主題公園</p>
           </td>
         </tr>
         <tr>
@@ -176,7 +154,6 @@
           <td>&nbsp;</td>
           <td>
             <p>團練時間：每週三19:30-21:30</p>
-            <p>團練地點：臺北市客家文化主題公園</p>
           </td>
         </tr>
         <tr>
@@ -205,13 +182,13 @@
             <p>羅方蓉</p>
           </td>
           <td>
+            <p>臺北市士林區大東路75號2樓</p>
             <p>0936-060-607</p>
             <p>02-2821-9075</p>
           </td>
           <td>&nbsp;</td>
           <td>
             <p>成立於1996年</p>
-            <p>團練地點：臺北市大東路75號2樓</p>
           </td>
         </tr>
         <tr>
@@ -222,16 +199,15 @@
             <p>林桂英</p>
           </td>
           <td>
-            <p>臺北市信義區基隆路二段99號（三興國小）</p>
+            <p>臺北市信義區基隆路二段99號（三興國小視聽教室）</p>
             <p>0937-934-932</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/Sanxingballadsclasses/">連結</a>
+            <p>https://www.facebook.com/pg/Sanxingballadsclasses/</p>
           </td>
           <td>
             <p>成立於1990年</p>
             <p>團練時間：每週五19:30-21:30</p>
-            <p>團練地點：三興國小視聽教室</p>
           </td>
         </tr>
         <tr>
@@ -260,7 +236,7 @@
             <p>02-2929-4679</p>
           </td>
           <td>
-            <a target="_" href="https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php">連結</a>
+            <p>https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -278,12 +254,11 @@
             <p>桃園市龍潭區上林里溝東120之1號（桃園市龍潭區龍潭老人會館）</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/hibiscusdiva/">連結</a>
+            <p>https://www.facebook.com/pg/hibiscusdiva/</p>
           </td>
           <td>
             <p>成立於2010年</p>
-            <p>每週五14:00-16:00</p>
-            <p>團練地點：山澗居（龍潭金龍路）</p>
+            <p>團練時間：每週五14:00-16:00</p>
           </td>
         </tr>
         <tr>
@@ -296,13 +271,13 @@
           </td>
           <td>
             <p>桃園市平鎮區義興里義民路214號2樓</p>
+            <p>桃園市平鎮區義興里集會所（團練地點）</p>
             <p>03-494-9243</p>
           </td>
           <td>&nbsp;</td>
           <td>
             <p>成立於2007年</p>
             <p>團練時間：每週四19:00-21:00</p>
-            <p>團練地點：桃園市平鎮區義興里集會所</p>
           </td>
         </tr>
         <tr>
@@ -315,7 +290,7 @@
           <td>
             <p>桃園市中壢區元化路165巷17號9樓</p>
             <p>03-426-5648</p>
-            <p>0933-110-163</p>
+            <p>0933-110-163&nbsp;</p>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -331,16 +306,16 @@
           </td>
           <td>
             <p>桃園市中壢區三光路158巷12號</p>
+            <p>桃園市平鎮區義民廟（團練地點）</p>
             <p>03-492-0676</p>
-            <p>0912-671-732</p>
+            <p>0912-671-732&nbsp;</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/LBCCTY/">連結</a>
+            <p>https://www.facebook.com/LBCCTY/</p>
           </td>
           <td>
             <p>成立於2015年</p>
             <p>團練時間：每週三14:00-16:00</p>
-            <p>團練地點：桃園市平鎮區義民廟</p>
           </td>
         </tr>
         <tr>
@@ -351,16 +326,15 @@
             <p>白美月</p>
           </td>
           <td>
-            <p>新竹縣竹東鎮自強路58號1樓</p>
+            <p>新竹縣竹東鎮自強路58號1樓&nbsp;</p>
             <p>03-594-5546</p>
           </td>
           <td>
-            <a href="mailto:twhakka.chea@gmail.com">連結</a>
+            <p>twhakka.chea@gmail.com</p>
           </td>
           <td>
             <p>成立於1978年</p>
             <p>團練時間：每個月練習一次，於週二或四，依演出需求而定。</p>
-            <p>團練地點：新竹縣竹東鎮自強路58號1樓</p>
           </td>
         </tr>
         <tr>
@@ -368,14 +342,15 @@
             <p>苗栗市玉華社區發展協會</p>
           </td>
           <td>
-            <p>劉源順</p>
+            <p>理事長</p>
+            <p>張盛業</p>
           </td>
           <td>
-            <p>苗栗縣苗栗市玉清一街149號</p>
-            <p>0928-909-977（前任理事長）</p>
+            <p>苗栗縣苗栗市玉華里勵志街30巷1號</p>
+            <p>0988-298-366</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/苗栗縣苗栗市玉華社區發展協會-1100749213285076/">連結</a>
+            <p>https://www.facebook.com/苗栗縣苗栗市玉華社區發展協會-1100749213285076/</p>
           </td>
           <td>
             <p>成立於1985年</p>
@@ -390,17 +365,16 @@
             <p>張永昌</p>
           </td>
           <td>
-            <p>苗栗縣苗栗市嘉盛里嘉盛街187號</p>
+            <p>苗栗縣苗栗市嘉盛里嘉盛街187號（嘉盛里社區發展中心）</p>
             <p>03-726-0309</p>
             <p>0932-666-120</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/jiasheng037260309/">連結</a>
+            <p>https://www.facebook.com/jiasheng037260309/</p>
           </td>
           <td>
             <p>成立於2012年</p>
             <p>團練時間：每週五19:00-21:00</p>
-            <p>團練地點：嘉盛里社區發展中心</p>
           </td>
         </tr>
         <tr>
@@ -412,16 +386,16 @@
           </td>
           <td>
             <p>苗栗縣大湖鄉大湖村博愛路15號</p>
+            <p>大湖鄉公所老人文康中心3樓（團練地點）</p>
             <p>03-799-1750</p>
             <p>0912-675-665</p>
           </td>
           <td>
-            <a href="mailto:gan@taian.gov.com.tw">連結</a>
+            <p>gan@taian.gov.com.tw</p>
           </td>
           <td>
             <p>成立於2005年</p>
             <p>上課時間：每週二、五19:00-22:00</p>
-            <p>團練地點：大湖鄉公所老人文康中心3樓</p>
           </td>
         </tr>
         <tr>
@@ -433,15 +407,15 @@
           </td>
           <td>
             <p>苗栗縣苗栗市維祥里維勝街62巷21弄12號</p>
+            <p>苗栗火車站市場2樓（團練地點）</p>
             <p>0920-600-046</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/Miaoli.hakka.association/">連結</a>
+            <p>https://www.facebook.com/pg/Miaoli.hakka.association/</p>
           </td>
           <td>
             <p>成立於2007年</p>
             <p>團練時間：每週四14:00-16:30</p>
-            <p>團練地點：苗栗火車站市場2樓</p>
           </td>
         </tr>
         <tr>
@@ -469,16 +443,18 @@
           </td>
           <td>
             <p>南投縣埔里鎮枇杷里樹人三街52號</p>
+            <p>埔里鎮仁愛公園老人會館（團練地點）</p>
             <p>04-9299-1799</p>
             <p>0928-954-675</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/">連結</a>
+            <p>
+              https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/
+            </p>
           </td>
           <td>
             <p>成立於2005年</p>
             <p>團練時間：每週四14:30-16:30</p>
-            <p>團練地點：埔里鎮仁愛公園老人會館</p>
           </td>
         </tr>
         <tr>
@@ -490,13 +466,13 @@
           </td>
           <td>
             <p>臺南市東區崇明二十二街58號</p>
+            <p>臺南客家文化會館（團練地點）</p>
             <p>0933-710-946</p>
           </td>
           <td>&nbsp;</td>
           <td>
             <p>成立於2004年</p>
             <p>團練時間：每週四14:30-16:30</p>
-            <p>團練地點：臺南客家文化會館</p>
           </td>
         </tr>
         <tr>
@@ -508,15 +484,15 @@
           </td>
           <td>
             <p>臺南市新營區民權路96之27號</p>
+            <p>南瀛客家文化會館（團練地點）</p>
             <p>06-633-7627</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/">連結</a>
+            <p>https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/</p>
           </td>
           <td>
             <p>成立於2010年</p>
             <p>團練時間：每週四19:00-21:00</p>
-            <p>團練地點：南瀛客家文化會館</p>
           </td>
         </tr>
         <tr>
@@ -528,15 +504,15 @@
           </td>
           <td>
             <p>臺南市南區新孝路102巷43號</p>
+            <p>南瀛客家文化會館（團練地點）</p>
             <p>0912-174-290</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/台南市緣圓園客家樂舞團-241733949632351/">連結</a>
+            <p>https://www.facebook.com/台南市緣圓園客家樂舞團-241733949632351/</p>
           </td>
           <td>
             <p>成立於2017年</p>
             <p>團練時間：每週三09:00-11:00</p>
-            <p>團練地點：臺南市客家文化會館</p>
           </td>
         </tr>
         <tr>
@@ -548,15 +524,15 @@
           </td>
           <td>
             <p>高雄市苓雅區四維四路186號</p>
+            <p>高雄市博愛一路319號9樓（團練地點）</p>
             <p>07-322-6677</p>
           </td>
           <td>
-            <a href="mailto:swiftlet@swiftlet.com.tw">連結</a>
+            <p>swiftlet@swiftlet.com.tw</p>
           </td>
           <td>
             <p>成立於2006年</p>
             <p>團練時間：每週四19:30-21:30</p>
-            <p>團練地點：高雄市博愛一路319號9樓</p>
           </td>
         </tr>
         <tr>
@@ -571,7 +547,7 @@
             <p>0933-661-823</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/">連結</a>
+            <p>https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/</p>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -594,12 +570,11 @@
             <p>0911-880-179</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/hklee0321/">連結</a>
+            <p>https://www.facebook.com/hklee0321/</p>
           </td>
           <td>
             <p>成立於1990年</p>
             <p>團練時間：每週三08:30-11:30</p>
-            <p>團練地點：高雄市美濃區雙峰街18號</p>
           </td>
         </tr>
         <tr>
@@ -611,16 +586,16 @@
           </td>
           <td>
             <p>高雄市三民區建工路433巷27號3樓</p>
+            <p>寶珠溝活動中心4樓（團練地點）</p>
             <p>07-386-5208</p>
             <p>0929-416-817</p>
           </td>
           <td>
-            <a target="_" href="http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp">連結</a>
+            <p>http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp</p>
           </td>
           <td>
             <p>成立於2006年</p>
             <p>團練時間：每週二19:30-21:30</p>
-            <p>團練地點：寶珠溝活動中心4樓</p>
           </td>
         </tr>
         <tr>
@@ -631,13 +606,12 @@
             <p>林瑞輝</p>
           </td>
           <td>
-            <p>屏東縣萬巒鄉（村）褒忠路183號</p>
+            <p>屏東縣萬巒鄉褒忠路183號</p>
             <p>08-781-2456</p>
             <p>0929-355-368</p>
-            <p>08-781-3291（傳真）</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/PTHakka/">連結</a>
+            <p>https://www.facebook.com/PTHakka/</p>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -679,7 +653,7 @@
             <p>張永雄</p>
           </td>
           <td>
-            <p>屏東縣高樹鄉長榮村南昌路2之2</p>
+            <p>屏東縣高樹鄉長榮村南昌路2之2號</p>
             <p>08-796-2136</p>
             <p>0963-200-267</p>
           </td>
@@ -695,15 +669,17 @@
           </td>
           <td>
             <p>屏東縣萬巒鄉萬和村南進路54號</p>
+            <p>屏東縣麟洛鄉麟趾村仁愛街39號（團練地點）</p>
             <p>08-779-2055</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/">連結</a>
+            <p>
+              https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/
+            </p>
           </td>
           <td>
             <p>成立於1993年</p>
             <p>團練時間：每週五20:00-22:00</p>
-            <p>團練地點：屏東縣麟洛鄉麟趾村仁愛街39號</p>
           </td>
         </tr>
         <tr>
@@ -718,14 +694,14 @@
             <p>0933-997-800</p>
           </td>
           <td>
-            <a target="_" href="https://reurl.cc/QpQd0M">連結</a>
+            <p>https://reurl.cc/QpQd0M</p>
           </td>
           <td>&nbsp;</td>
         </tr>
       </tbody>
     </table>
     <br />
-    <h3>二、客家傳統器樂</h3>
+    <h3>二、客家傳統器樂（八音、北管、國樂）</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -749,7 +725,7 @@
             <p>0921-831-786</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/hakkamelody/">連結</a>
+            <p>https://www.facebook.com/hakkamelody/</p>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -785,7 +761,7 @@
             <p>0935-025-143</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/">連結</a>
+            <p>https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/</p>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -803,7 +779,7 @@
             <p>0910-150-749</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Hcg2232/">連結</a>
+            <p>https://www.facebook.com/Hcg2232/</p>
           </td>
           <td>
             <p>成立於1979年</p>
@@ -821,7 +797,7 @@
             <p>03-551-3320</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TienWuBeiGuanBaYin/">連結</a>
+            <p>https://www.facebook.com/TienWuBeiGuanBaYin/</p>
           </td>
           <td>
             <p>成立於1989年</p>
@@ -839,7 +815,7 @@
             <p>0907-945-638</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/新竹北埔八音團-2044972268925287/">連結</a>
+            <p>https://www.facebook.com/BeipuHakkaBayinGroup/</p>
           </td>
           <td>
             <p>成立於2019年</p>
@@ -856,12 +832,10 @@
             <p>0932-113-836</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/新竹縣深井新興軒北管八音團-436454469857076/?ref=page_internal">連結</a>
+            <p>https://www.facebook.com/新竹縣深井新興軒北管八音團-436454469857076/</p>
           </td>
           <td>
-            <p>
-              「新興軒」成立於1983年，2014年改名為「深井新興軒北管八音團」。
-            </p>
+            <p>「新興軒」成立於1983年，2014年改名為「深井新興軒北管八音團」。</p>
           </td>
         </tr>
         <tr>
@@ -890,23 +864,10 @@
             <p>03-772-5099</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/MiaoliChenFamilyPaYinTroupe/">連結</a>
+            <p>https://www.facebook.com/MiaoliChenFamilyPaYinTroupe/</p>
           </td>
           <td>
             <p>成立於1983年</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>桃城樂府客家八音團</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>嘉義市</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>成立於2007年</p>
           </td>
         </tr>
         <tr>
@@ -953,7 +914,7 @@
             <p>07-681-2538</p>
           </td>
           <td>
-            <a target="_" href="http://sixstar.moc.gov.tw/blog/KM6813819/knowHowFronListAction.do?method=doReadKnowHow&amp;source=3&amp;knowhowId=6602">連結</a>
+            <p>https://reurl.cc/3jk3o0</p>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -967,7 +928,7 @@
             <p>謝宜文</p>
           </td>
           <td>
-            <p>高雄市美濃區中山路二段358號（美濃福安國小）</p>
+            <p>高雄市美濃區中山路二段358號（福安國小）</p>
             <p>0932-837-873</p>
           </td>
           <td>&nbsp;</td>
@@ -1000,7 +961,7 @@
             <p>鍾彩祥</p>
           </td>
           <td>
-            <p>高雄縣美濃鎮泰中路259巷23號</p>
+            <p>高雄市美濃區泰中路259巷23號</p>
             <p>07-682-2348</p>
             <p>0927-583-650</p>
           </td>
@@ -1042,15 +1003,14 @@
             <p>陸豐客家八音劇團</p>
           </td>
           <td>
-            <p>梁盟政</p>
+            <p>團長</p>
+            <p>鄭淑敏</p>
           </td>
           <td>
-            <p>高雄市三民區鼎貴路72號</p>
-            <p>0938-706-972</p>
+            <p>高雄市鳳山區五甲一路208巷10號</p>
+            <p>0981-991-880</p>
           </td>
-          <td>
-            <a target="_" href="http://art-garden.khcc.gov.tw/introduction/team/31236">連結</a>
-          </td>
+          <td>&nbsp;</td>
           <td>
             <p>成立於2003年</p>
           </td>
@@ -1071,11 +1031,11 @@
             <p>0921-696-046</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/大夥房藝術團-1371254872966824/">連結</a>
+            <p>https://www.facebook.com/大夥房藝術團-1371254872966824/</p>
           </td>
           <td>
             <p>成立於2002年</p>
-            <p>練團時間：每週一、三、五15:00-21:00</p>
+            <p>團練時間：每週一、三、五15:00-21:00</p>
           </td>
         </tr>
         <tr>
@@ -1114,16 +1074,16 @@
     <br />
     <h3>三、客家傳統戲曲與表演形式</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-      <thead>
-        <tr>
-          <th style="width: 20%">名稱</th>
-          <th style="width: 20%">負責人</th>
-          <th style="width: 25%">地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th style="width: 25%">備註</th>
-        </tr>
-      </thead>
       <tbody>
+        <thead>
+          <tr>
+            <th style="width: 20%">名稱</th>
+            <th style="width: 20%">負責人</th>
+            <th style="width: 25%">地址/電話</th>
+            <th>其他聯絡方式</th>
+            <th style="width: 25%">備註</th>
+          </tr>
+        </thead>
         <tr>
           <td>
             <p>國立臺灣戲曲學院客家戲學系</p>
@@ -1133,10 +1093,10 @@
           </td>
           <td>
             <p>臺北市文山區木柵路三段66巷8之1號</p>
-            <p>02-2936-7231 #2551</p>
+            <p>02-2936-7231＃2551</p>
           </td>
           <td>
-            <a target="_" href="http://b017.tcpa.edu.tw/bin/home.php">連結</a>
+            <p>https://rb017.tcpa.edu.tw</p>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -1155,7 +1115,7 @@
             <p>02-8866-1090</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/UhanShiiTheatre/">連結</a>
+            <p>https://www.facebook.com/UhanShiiTheatre/</p>
           </td>
           <td>
             <p>成立於1995年</p>
@@ -1173,7 +1133,7 @@
             <p>02-2733-0179</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ooopt/?ref=page_internal">連結</a>
+            <p>https://www.facebook.com/ooopt/?ref=page_internal</p>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -1187,11 +1147,11 @@
             <p>張瑛玲</p>
           </td>
           <td>
-            <p>新北市三重區三和路2段168巷7號3樓</p>
+            <p>新北市三重區三和路二段168巷7號3樓</p>
             <p>0922-904-559</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/123theatre.123theatre">連結</a>
+            <p>https://www.facebook.com/123theatre.123theatre</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1207,7 +1167,7 @@
             <p>0932-330-003</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/山宛然客家布袋戲團-193976375896/">連結</a>
+            <p>https://www.facebook.com/山宛然客家布袋戲團-193976375896/</p>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -1225,7 +1185,7 @@
             <p>0975-386-935</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/戲偶子劇團-123978480950659/">連結</a>
+            <p>https://www.facebook.com/戲偶子劇團-123978480950659/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1244,7 +1204,7 @@
             <p>0935-129-811</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/景勝戲劇團-1657899551112033/">連結</a>
+            <p>https://www.facebook.com/景勝戲劇團-1657899551112033/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1258,11 +1218,11 @@
             <p>陳鳳祺</p>
           </td>
           <td>
-            <p>桃園縣龍潭鄉自由街51號</p>
+            <p>桃園市龍潭區自由街51號</p>
             <p>0911-241-388</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/a241388/">連結</a>
+            <p>https://www.facebook.com/a241388/</p>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -1282,7 +1242,7 @@
             <p>0933-507-453</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/新月娥歌劇團-334133613587392/">連結</a>
+            <p>https://www.facebook.com/新月娥歌劇團-334133613587392/</p>
           </td>
           <td>
             <p>成立於1961年</p>
@@ -1300,7 +1260,7 @@
             <p>0919-362-104</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/a034586287/">連結</a>
+            <p>https://www.facebook.com/a034586287/</p>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -1318,7 +1278,7 @@
             <p>0916-333-293</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/song.xing.opera/">連結</a>
+            <p>https://www.facebook.com/song.xing.opera/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1354,7 +1314,7 @@
             <p>0933-265-173</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/新樂園戲劇團-1462229977363054/">連結</a>
+            <p>https://www.facebook.com/新樂園戲劇團-1462229977363054/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1372,7 +1332,7 @@
             <p>03-582-2665</p>
           </td>
           <td>
-            <a href="mailto:Psz0952814938@yahoo.com.tw">連結</a>
+            <p>Psz0952814938@yahoo.com.tw</p>
           </td>
           <td>
             <p>成立於1999年</p>
@@ -1386,7 +1346,7 @@
             <p>管建仲</p>
           </td>
           <td>
-            <p>苗栗市福星里11之2號</p>
+            <p>苗栗縣苗栗市福星里16鄰華清街9號</p>
             <p>03-773-0263</p>
           </td>
           <td>&nbsp;</td>
@@ -1420,7 +1380,7 @@
             <p>03-772-5099</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/romshinghakka/">連結</a>
+            <p>https://www.facebook.com/pg/romshinghakka/</p>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -1437,7 +1397,7 @@
             <p>0937-871-632</p>
           </td>
           <td>
-            <a href="mailto:taikimhak@gmail.com">連結</a>
+            <p>https://www.facebook.com/TaiKimHak</p>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -1471,7 +1431,7 @@
             <p>0933-509-888</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/廖千順布袋戲團-1842955999266025/">連結</a>
+            <p>https://www.facebook.com/廖千順布袋戲團-1842955999266025/</p>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -1489,7 +1449,7 @@
             <p>05-598-3777</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/wen.holiao">連結</a>
+            <p>https://www.facebook.com/wen.holiao</p>
           </td>
           <td>
             <p>成立於1976年</p>
@@ -1523,7 +1483,7 @@
             <p>0931-616-986</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HaChiGu/">連結</a>
+            <p>https://www.facebook.com/HaChiGu/</p>
           </td>
           <td>
             <p>成立於2004年</p>
@@ -1541,7 +1501,7 @@
             <p>08-732-3202</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/世客文化藝術團-336912869758607/">連結</a>
+            <p>https://www.facebook.com/世客文化藝術團-336912869758607/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1559,7 +1519,7 @@
             <p>0932-882-984</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/LiWenGuGeJuTuan/">連結</a>
+            <p>https://www.facebook.com/LiWenGuGeJuTuan/</p>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1567,5 +1527,6 @@
         </tr>
       </tbody>
     </table>
+    <br />
   </div>
 </template>
