@@ -5,6 +5,7 @@
     </div>
     <hr />
     <p class="firstRow"></p>
+
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -17,355 +18,412 @@
       <tbody>
         <tr>
           <td>
-            <p>吳青峰</p>
-          </td>
-          <td>
-            <p>哈里坤的狂歡</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/WuQingFeng/">連結</a><br>
-            <a href="mailto:u.music@foxmail.com">連結</a><br>
-            <a href="mailto:Oscar.lin@umusic.com">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>打幫你樂團</p>
-          </td>
-          <td>
-            <p>Leo黎歐創意</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/DaBangNi/">連結</a><br>
-            <a href="mailto:dabangni@gmail.com">連結</a><br>
-          </td>
-          <td>
-            <p>成立於2011年12月</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>舒米恩</p>
-          </td>
-          <td>
-            <p>亞神音樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.sumingfans.com/">連結</a><br>
-            <a href="mailto:johnsuming@gmail.com">連結</a><br>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>蔡依林</p>
-          </td>
-          <td>
-            <p>凌時差音樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/hoo.jcai">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>姚宇謙</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <a target="_" href="https://www.facebook.com/LowkingOfficial">連結</a><br>
-            <a href="mailto:mail2elsa@gmail.com">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>蘇聖育</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Sushenyu">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>黃子軒</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <a target="_" href="https://www.facebook.com/zixuanslowtrain">連結</a><br>
-            <a href="mailto:zixuanslowtrain@gmail.com">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
             <p>李宗盛</p>
           </td>
           <td>
             <p>李吉他</p>
           </td>
           <td>
-            <a target="_" href="http://tw.leeguitars.com/">連結</a>
+            <p>http://tw.leeguitars.com/</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>滅火器</p>
+            <p>謝金燕</p>
           </td>
           <td>
-            <p>火氣音樂</p>
+            <p>一直打不倒</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/FireEX">連結</a><br>
-            <a href="mailto:info@fireonmusic.com">連結</a>
+            <p>https://www.facebook.com/JeannieHsiehbbb/</p>
+          </td>
+          <td>
+            <p>1990年出道</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>盧靜子</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://business.facebook.com/Im.Ceko/</p>
+          </td>
+          <td>
+            <p>原住民一代歌后</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>臺北爵士大樂隊</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>http://www.tjo.com.tw/</p>
+            <p>https://www.facebook.com/taipeijazzorchestra</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>少女卡拉</p>
+            <p>蔡健雅</p>
           </td>
-          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/siaulukhahlah">連結</a><br>
-            <a target="_" href="https://www.instagram.com/siaulukhahlahofficial/">連結</a>
+            <p>水晶共振經紀公司</p>
           </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
           <td>
-            <p>蘇慧倫</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <a target="_" href="https://www.facebook.com/tarcysuofficial">連結</a><br>
-            <a href="mailto:crystalresonance2010@gmail.com">連結</a>
+            <p>https://www.facebook.com/tanyachuaofficial</p>
+            <p>crystalresonance2010@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>黃妃</p>
+            <p>張信哲</p>
           </td>
           <td>
-            <p>勝駿娛樂</p>
+            <p>潮水音樂有限公司</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HuangFei0713">連結</a><br>
-            <a href="mailto:a_chefamily@yahoo.com.tw">連結</a>
+            <p>https://www.facebook.com/OfficialJeffChang</p>
+            <p>tenplus.founder@gmail.com</p>
+          </td>
+          <td>
+            <p>1990年代華語樂壇代表人物，被稱為華語樂壇的「情歌王子」。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>郭婷筠</p>
+          </td>
+          <td>
+            <p>時代創藝</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/tessi0905/</p>
+            <p>starjobwinnie@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>劉若英</p>
+            <p>愛客樂iColor</p>
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/Rene0601/">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>羅時豐</p>
-          </td>
-          <td>
-            <p>海蝶音樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/profile.php?id=100044568693565">連結</a>
+            <p>https://reurl.cc/VjlWkN</p>
+            <p>goodtone.elsa@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>八三么</p>
+            <p>Monique Chao默默</p>
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.band831.com/">連結</a><br>
-            <a target="_" href="https://www.facebook.com/band831tw">連結</a>
+            <p>https://www.facebook.com/moniquechaojazz</p>
+            <p>vingtmoni@gmail.com</p>
+          </td>
+          <td>
+            <p>爵士音樂作曲家</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>The Tic Tac</p>
+          </td>
+          <td>
+            <p>Strikingly</p>
+          </td>
+          <td>
+            <p>thetictacband@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>荒山亮</p>
+            <p>玖壹壹</p>
           </td>
           <td>
-            <p>勝駿娛樂</p>
+            <p>滾石唱片</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HuangShanLiang">連結</a><br>
-            <a href="mailto:a_chefamily@yahoo.com.tw">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>曹雅雯</p>
-          </td>
-          <td>
-            <p>安樂茂思</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/oliviatsao1130">連結</a><br>
-            <a href="mailto:chun80900@gmail.com">連結</a>
+            <p>https://www.facebook.com/JiuYiYi/</p>
+            <p>jiuyiyi911@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>陳永龍</p>
+            <p>動力火車</p>
           </td>
           <td>
-            <p>參拾柒度音樂</p>
+            <p>華研國際音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/yonlon.chen">連結</a><br>
-            <a href="mailto:37domusic@gmail.com">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>潘越雲</p>
-          </td>
-          <td>
-            <p>雲凱娛樂工作室</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/潘越雲-Michelle-Pan-100447298213064">連結</a>
+            <p>https://www.him.com.tw/artistscon1.php?mid=84</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>白安</p>
+            <p>彭佳慧</p>
           </td>
           <td>
-            <p>相信音樂</p>
+            <p>索尼音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/baiannmusic">連結</a><br>
-            <a href="mailto:jujistacy@gmail.com">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>5566</p>
-          </td>
-          <td>
-            <p>喬傑立娛樂</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>2009年單飛不解散</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>羅大佑</p>
-          </td>
-          <td>
-            <p>大右音樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/LoTaYouOfficial">連結</a>
+            <p>https://www.facebook.com/juliastar888</p>
+            <p>su6834@gmail.com（蘇小姐）</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>施文彬</p>
+            <p>辛曉琪</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <p>亂音製作</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/rockapin">連結</a><br>
-            <a href="mailto:k0938386665@yahoo.com.tw">連結</a>
+            <p>https://www.facebook.com/winniehsinfanspage</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>任賢齊</p>
+            <p>蕭煌奇</p>
           </td>
           <td>
-            <p>大岳娛樂</p>
+            <p>好莉嗨文創有限公司</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/richiefirework">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>謝宇威</p>
-          </td>
-          <td>
-            <p>威德文化</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/謝宇威-198419566895181">連結</a>
+            <p>https://www.facebook.com/RickyHsiao</p>
+            <p>chenlily.3@gmail.com（陳小姐）</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>蕭敬騰</p>
+            <p>MAFANA</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <p>喜鵲娛樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.jamhsiao.com/">連結</a>
+            <p>https://www.facebook.com/Mafanaband</p>
+            <p>sufinmafana@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>楊丞琳</p>
+            <p>Original Brewing原味醞釀</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <p>樹與天空娛樂</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/0604rainie">連結</a><br>
-            <a target="_" href="https://tw.weibo.com/3511727907">連結</a>
+            <p>https://www.facebook.com/original.brewing.taitung/</p>
+            <p>sakinu1103@gmail.com</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>持修</p>
+            <p>周華健</p>
           </td>
           <td>
-            <p>野聲音娛樂有限公司</p>
+            <p>滾石唱片</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ChihSiou.L">連結</a><br>
-            <a target="_" href="https://www.instagram.com/chih_siou/">連結</a>
+            <p>http://wakin.com/</p>
+            <p>https://www.facebook.com/wakinchauofficial</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>張惠妹</p>
+            <p>蔡詩芸</p>
           </td>
           <td>
-            <p>聲動娛樂</p>
+            <p>混血兒娛樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/aMEI.feat.AMIT">連結</a>
+            <p>https://www.facebook.com/ddomchoy</p>
+            <p>empirediguo@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>林俊傑</p>
+          </td>
+          <td>
+            <p>華納音樂</p>
+          </td>
+          <td>
+            <p>https://www.jjlin.com/</p>
+            <p>https://www.facebook.com/JJLin</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>飛兒樂團</p>
+          </td>
+          <td>
+            <p>華研國際音樂</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/firband</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>陳建年</p>
+          </td>
+          <td>
+            <p>角頭音樂</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/paudull.taiwan</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>黃宇寒</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://reurl.cc/ZrvNpp</p>
+            <p>waymusicstudio@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>曾瑋中</p>
+          </td>
+          <td>
+            <p>時代創藝</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/kuljelje.ix.xx</p>
+            <p>starjobwinnie@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>黃瑞豐</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.richhuang.org</p>
+            <p>https://www.facebook.com/Richdrumonly</p>
+          </td>
+          <td>
+            <p>有「臺灣鼓王」之美名，2020年榮獲第三十一屆金曲獎特別貢獻獎。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>高爾宣</p>
+          </td>
+          <td>
+            <p>龍大謝音樂</p>
+          </td>
+          <td>
+            <p>http://www.skrpresents.com/osn-396402924623459.html</p>
+            <p>https://www.facebook.com/osnrapper</p>
+            <p>osnkaoofficial@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>桑布伊</p>
+          </td>
+          <td>
+            <p>風潮音樂</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Sangpuy</p>
+            <p>info@sangpuy.com（周先生）</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>謝銘祐</p>
+          </td>
+          <td>
+            <p>三川娛樂有限公司</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/hsiehmingyo</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>羅思容</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/SirongGomoteu</p>
+            <p>http://www.treesmusic.com/artist/Sirong/sirong.htm</p>
+            <p>rose.k2200@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>黃小琥</p>
+          </td>
+          <td>
+            <p>星光娛樂</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/superTigerHuang</p>
+            <p>zack0301@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>許富凱</p>
+          </td>
+          <td>
+            <p>凱聲影藝</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Henryhsu0917/</p>
+            <p>joe19770302@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>盧廣仲</p>
+          </td>
+          <td>
+            <p>添翼創越工作室</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Captain.Lu</p>
+            <p>team.ear@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>木曜四超玩</p>
+          </td>
+          <td>
+            <p>麥卡貝網路電視</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Muyao4</p>
           </td>
           <td>&nbsp;</td>
         </tr>

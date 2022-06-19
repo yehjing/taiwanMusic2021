@@ -5,6 +5,7 @@
     </div>
     <hr />
     <p class="firstRow"></p>
+
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -28,10 +29,25 @@
             <p>0955-988-376</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/afternoontree/">連結</a>
+            <p>https://www.facebook.com/afternoontree/</p>
           </td>
           <td>
             <p>成立於2006年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>阿卡許．杜貝（Akash Dubey）</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/AkashTablaTaiwan/</p>
+          </td>
+          <td>
+            <p>
+              2021年獲頒第一位臺灣勞動部專業人才就業金卡的印度公民，4月起以藝術家簽證駐臺演出3年。
+            </p>
           </td>
         </tr>
         <tr>
@@ -46,7 +62,7 @@
             <p>0966-061-113</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Gema-Angklung-印尼竹韻揚聲樂團-1523158791338927/">連結</a>
+            <p>https://www.facebook.com/Gema-Angklung-印尼竹韻揚聲樂團-1523158791338927/</p>
           </td>
           <td>
             <p>
@@ -57,7 +73,21 @@
         </tr>
         <tr>
           <td>
-            <p>VIT Dance Group－泰友印越舞蹈社</p>
+            <p>Lillie Creatures</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/lilliecreatures/</p>
+          </td>
+          <td>
+            <p>奧地利籍獨立音樂人</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>VIT Dance</p>
+            <p>Group泰友印越舞蹈社</p>
           </td>
           <td>
             <p>陳秋柳</p>
@@ -66,8 +96,7 @@
             <p>0909-508-268</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/VIT-Dance-Group-
-              泰友印越舞蹈社-1314203081941608/">連結</a>
+            <p>https://www.facebook.com/VIT-Dance-Group- 泰友印越舞蹈社-1314203081941608/</p>
           </td>
           <td>
             <p>
@@ -85,14 +114,11 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/wooonta/">連結</a><br>
-            <a href="mailto:wooontatrio@gmail.com">連結</a>
+            <p>https://www.facebook.com/wooonta/</p>
+            <p>wooontatrio@gmail.com</p>
           </td>
           <td>
-            <p>
-              成立於2015
-              年，以二胡、西塔琴、大提琴作跨文化、跨界的音聲藝術結合。
-            </p>
+            <p>成立於2015 年，以二胡、西塔琴、大提琴作跨文化、跨界的音聲藝術結合。</p>
           </td>
         </tr>
         <tr>
@@ -106,10 +132,27 @@
             <p>02-2341-3826</p>
           </td>
           <td>
-            <a href="mailto:treesmusicart@gmail.com">連結</a>
+            <p>treesmusicart@gmail.com</p>
           </td>
           <td>
             <p>成立於1993年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台北印度愛樂中心</p>
+          </td>
+          <td>
+            <p>吳德朗</p>
+          </td>
+          <td>
+            <p>02-2692-1669</p>
+          </td>
+          <td>
+            <p>imc831@gmail.com</p>
+          </td>
+          <td>
+            <p>成立於2003年</p>
           </td>
         </tr>
         <tr>
@@ -123,12 +166,29 @@
             <p>02-2581-3667</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tbo168/">連結</a><br>
-            <a href="mailto:tbo168@yahoo.com.tw">連結</a>
+            <p>https://www.facebook.com/tbo168/</p>
+            <p>tbo168@yahoo.com.tw</p>
           </td>
           <td>
             <p>成立於2011年</p>
           </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台北⼿風琴樂團/蔡偉靖手風琴工作室</p>
+          </td>
+          <td>
+            <p>蔡偉靖</p>
+          </td>
+          <td>
+            <p>臺北市大安區敦化南路二段63巷56號B1</p>
+            <p>02-2704-6610</p>
+          </td>
+          <td>
+            <p>https://reurl.cc/oeAmlD</p>
+            <p>infoaccordion@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -142,7 +202,7 @@
             <p>0921-194-175</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Spectro7/">連結</a>
+            <p>https://www.facebook.com/Spectro7/</p>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -150,7 +210,24 @@
         </tr>
         <tr>
           <td>
-            <p>空空把西非擊鼓樂團<br>Konkonba　Taiwan</p>
+            <p>瑪黎柏莎樂舞坊（Danza de Mariposa）</p>
+          </td>
+          <td>
+            <p>吳惠吟</p>
+          </td>
+          <td>
+            <p>臺北市大安區和平東路三段308巷58號02-2738-6102</p>
+          </td>
+          <td>
+            <p>flamingfire555@yahoo.com.tw</p>
+          </td>
+          <td>
+            <p>成立於2008年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>空空把西非擊鼓樂團 Konkonba　Taiwan</p>
           </td>
           <td>
             <p>蔡俊典</p>
@@ -159,7 +236,7 @@
             <p>臺北市中山區德惠街202號地下室</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/konkonbataiwan/">連結</a>
+            <p>https://www.facebook.com/konkonbataiwan/</p>
           </td>
           <td>
             <p>成立於2008年</p>
@@ -177,10 +254,23 @@
             <p>0902-278-687</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/LiushengjiMusic/">連結</a>
+            <p>https://www.facebook.com/LiushengjiMusic/</p>
           </td>
           <td>
             <p>成立於2017年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>邱琬筑（Wanda Chiu）</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/Wanda.Kathak/</p>
+          </td>
+          <td>
+            <p>印度古典舞卡塔克（Kathak）舞蹈家</p>
           </td>
         </tr>
         <tr>
@@ -192,10 +282,10 @@
             <p>呂心純</p>
           </td>
           <td>
-            <p>臺北市羅斯福路4 段1 號</p>
+            <p>臺北市大安區羅斯福路四段1 號</p>
           </td>
           <td>
-            <a target="_" href="http://www.gim.ntu.edu.tw/">連結</a>
+            <p>http://www.gim.ntu.edu.tw/</p>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -207,12 +297,12 @@
             <p>張嘉君</p>
           </td>
           <td>
-            <p>臺北市羅斯福路五段176巷3弄6號1樓</p>
+            <p>臺北市文山區羅斯福路五段176巷3弄6號1樓</p>
             <p>02-2930-9924</p>
             <p>0975-156-783</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sizhukong/">連結</a>
+            <p>https://www.facebook.com/sizhukong/</p>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -228,8 +318,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/taiwan.hananowaon/">連結</a><br>
-            <a href="mailto:kototaiwan@gmail.com">連結</a>
+            <p>https://www.facebook.com/taiwan.hananowaon/</p>
+            <p>kototaiwan@gmail.com</p>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -247,11 +337,38 @@
             <p>0935-626-110</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sweepingmusic/">連結</a>
+            <p>https://www.facebook.com/sweepingmusic/</p>
           </td>
           <td>
             <p>成立於2014年6月11日</p>
           </td>
+        </tr>
+        <tr>
+          <td>
+            <p>Mastaneh Music Band</p>
+          </td>
+          <td>
+            <p>蒙納（Mona Kaveh Ahangari）</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.youtube.com/channel/UCDeysA7CwrZ43I7AmGTBCdA</p>
+            <p>https://reurl.cc/QjNvxp</p>
+          </td>
+          <td>
+            <p>成立於2020年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>光譜舞團Spectrum Divas</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/renipy1986/</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -264,7 +381,7 @@
             <p>臺北市北投區學園路1 號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/shaoshengvietnammusic/">連結</a>
+            <p>https://www.facebook.com/shaoshengvietnammusic/</p>
           </td>
           <td>
             <p>
@@ -284,7 +401,7 @@
             <p>0958-016-186</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/CMOFB/">連結</a>
+            <p>https://www.facebook.com/CMOFB/</p>
           </td>
           <td>
             <p>成立於2010年11月8日</p>
@@ -301,7 +418,7 @@
             <p>新北市蘆洲區民生街129 巷11號5樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TIFA1105/">連結</a>
+            <p>https://www.facebook.com/TIFA1105/</p>
           </td>
           <td>
             <p>成立於2011年1月19日，致力於在地社區推廣新住民舞蹈與文化。</p>
@@ -319,28 +436,12 @@
             <p>0929-984-571</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/">連結</a>
+            <p>
+              https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/
+            </p>
           </td>
           <td>
             <p>成立於2009年8月</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>台北中央C 室內樂團</p>
-          </td>
-          <td>
-            <p>林慧寬</p>
-          </td>
-          <td>
-            <p>新北市新店區花園一路二段10之10-11號</p>
-            <p>02-2666-9259</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/CCamerata/">連結</a>
-          </td>
-          <td>
-            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
@@ -354,7 +455,7 @@
             <p>0932-192-696</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tw.seahorse/">連結</a>
+            <p>https://www.facebook.com/tw.seahorse/</p>
           </td>
           <td>
             <p>成立於1999年</p>
@@ -372,11 +473,25 @@
             <p>02-2232-7722</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/MusouBandOfficial/">連結</a>
+            <p>https://www.facebook.com/MusouBandOfficial/</p>
           </td>
           <td>
             <p>成立於2008年12月</p>
           </td>
+        </tr>
+        <tr>
+          <td>
+            <p>莫赫拉愛爾蘭樂團（Mo Chara Irish Band）</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>0988-855-667</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Mo-Chara-Irish-Band -莫赫拉-愛爾蘭樂團-103531021544062/</p>
+            <p>everyplanet@me.com</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -391,7 +506,7 @@
             <p>02-2217-3095</p>
           </td>
           <td>
-            <a target="_" href="http://www.amovingsound.com/zh/">連結</a>
+            <p>http://www.amovingsound.com/zh/</p>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -408,7 +523,7 @@
             <p>0913-252-152</p>
           </td>
           <td>
-            <a target="_" href="https://facebook.com/www.budayaindonesia168.com.tw/">連結</a>
+            <p>https://facebook.com/www.budayaindonesia168.com.tw/</p>
           </td>
           <td>
             <p>臺中市印尼舞蹈表演團體</p>
@@ -426,12 +541,29 @@
             <p>0926-718-339</p>
           </td>
           <td>
-            <a href="mailto:tia09709@gmail.com">連結</a>
+            <p>tia09709@gmail.com</p>
           </td>
           <td>
             <p>成立於2015年2月1日，推廣新住民母國文化、傳</p>
             <p>統民俗舞蹈、話劇等。</p>
           </td>
+        </tr>
+        <tr>
+          <td>
+            <p>奧迪西台灣推廣中心</p>
+          </td>
+          <td>
+            <p>翁漢娜</p>
+          </td>
+          <td>
+            <p>臺中市西屯區大墩路919號4樓</p>
+            <p>0923-108-318</p>
+          </td>
+          <td>
+            <p>https://m.facebook.com/TaiwanOdissiPromotionCenter/</p>
+            <p>odissidance.taiwan@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -444,8 +576,8 @@
             <p>臺中市大雅區樹德街258 號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/">連結</a><br>
-            <a href="mailto:bluetearsband@gmail.com">連結</a>
+            <p>https://www.facebook.com/bluetearsbandofficial/</p>
+            <p>bluetearsband@gmail.com</p>
           </td>
           <td>
             <p>成立於2018年1月24日</p>
@@ -462,12 +594,10 @@
             <p>0972-093-757</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/InnahueBand/">連結</a>
+            <p>https://www.facebook.com/InnahueBand/</p>
           </td>
           <td>
-            <p>
-              成立於2017年，致力於北管、國樂與其它樂種如民謠、流行、印度音樂等的跨界結合。
-            </p>
+            <p>成立於2017年，致力於北管、國樂與其它樂種如民謠、流行、印度音樂等的跨界結合。</p>
           </td>
         </tr>
         <tr>
@@ -478,18 +608,17 @@
             <p>阮金紅</p>
           </td>
           <td>
-            <p>嘉義縣民雄鄉福權4 之3 號</p>
+            <p>嘉義縣民雄鄉福權村福權4 之3 號</p>
             <p>05-226-9177</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Khu&ocirc;n vi&ecirc;n văn ho&aacute;
-              Việt Nam 越在嘉文化棧-415137728846185/">連結</a>
+            <p>
+              https://www.facebook.com/Khu&ocirc;n vi&ecirc;n văn ho&aacute; Việt Nam
+              越在嘉文化棧-415137728846185/
+            </p>
           </td>
           <td>
-            <p>
-              成立於2017
-              年4月，致力促進東南亞文化與臺灣文化的多元交流，舉辦多元文化交流活動。
-            </p>
+            <p>成立於2017 年4月，致力促進東南亞文化與臺灣文化的多元交流，舉辦多元文化交流活動。</p>
           </td>
         </tr>
         <tr>
@@ -504,8 +633,8 @@
             <p>0937-356-603</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/yishengger/">連結</a><br>
-            <a href="mailto:yisingkuo@gmail.com">連結</a>
+            <p>https://www.facebook.com/yishengger/</p>
+            <p>yisingkuo@gmail.com</p>
           </td>
           <td>
             <p>成立於1953年，現致力於布袋戲與搖滾樂的跨界展演。</p>
@@ -523,7 +652,7 @@
             <p>0925-352-677</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Asalato.tw/">連結</a>
+            <p>https://www.facebook.com/Asalato.tw/</p>
           </td>
           <td>
             <p>非洲旋轉沙鈴樂團，教學及表演。</p>
@@ -540,7 +669,8 @@
             <p>06-205-0548</p>
           </td>
           <td>
-            <a target="_" href="http://chi-chiao.org/chichiaopera@gmail.com">連結</a>
+            <p>http://chi-chiao.org/</p>
+            <p>chichiaopera@gmail.com</p>
           </td>
           <td>
             <p>成立於2004 年</p>
@@ -555,8 +685,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a><br>
-            <a href="mailto:djembe.ake@gmail.com">連結</a>
+            <p>https://www.facebook.com/telee.ballets/</p>
+            <p>djembe.ake@gmail.com</p>
           </td>
           <td>
             <p>成立於2003 年</p>
@@ -574,7 +704,7 @@
             <p>06-693-0100</p>
           </td>
           <td>
-            <a target="_" href="https://www.tnnua.edu.tw/p/412-1000-1332.php?Lang=zh-tw">連結</a>
+            <p>https://www.tnnua.edu.tw/p/412-1000-1332.php?Lang=zh-tw</p>
           </td>
           <td>
             <p>成立於2008 年</p>
@@ -586,18 +716,16 @@
             <p>Matahari Ensemble</p>
           </td>
           <td>
-            <p>黃筌琳</p>
+            <p>蔡秉鈞</p>
           </td>
           <td>
             <p>0972-320-520</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/MatahariEnsembleWorldMusic/">連結</a>
+            <p>https://www.facebook.com/MatahariEnsembleWorldMusic/</p>
           </td>
           <td>
-            <p>
-              2017年於高雄成立，除了推廣印尼藝術文化，也致力於不同樂器融合的音樂創作。
-            </p>
+            <p>2017年於高雄成立，除了推廣印尼藝術文化，也致力於不同樂器融合的音樂創作。</p>
           </td>
         </tr>
         <tr>
@@ -611,7 +739,7 @@
             <p>0926-035-657</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ 妮藍泰國文化-678286509005253/">連結</a>
+            <p>https://www.facebook.com/ 妮藍泰國文化-678286509005253/</p>
           </td>
           <td>
             <p>推廣泰國文化及舞蹈</p>
@@ -619,7 +747,7 @@
         </tr>
         <tr>
           <td>
-            <p>峇里島文化工作室在高雄</p>
+            <p>李庭莉峇里島文化工作室&nbsp;</p>
           </td>
           <td>
             <p>李庭莉</p>
@@ -628,10 +756,10 @@
             <p>0953-813-499</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/juniedance">連結</a>
+            <p>https://www.facebook.com/juniesanggarbali</p>
           </td>
           <td>
-            <p>峇里島傳統舞蹈演出/ 文化展覽/ 舞蹈教學/ 服裝出租</p>
+            <p>峇里島傳統舞蹈演出/ 文化展覽/ 文化講師/ 舞蹈教學/ 服裝出租</p>
           </td>
         </tr>
         <tr>
@@ -646,10 +774,28 @@
             <p>0960-740-263</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ 越範團-1662362527392124/">連結</a>
+            <p>https://www.facebook.com/ 越範團-1662362527392124/</p>
           </td>
           <td>
             <p>越南舞蹈表演及文化推廣</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>Balalaika Music Studio巴拉萊卡世界音樂藝文工作坊&nbsp;</p>
+          </td>
+          <td>
+            <p>陳慧嘉</p>
+          </td>
+          <td>
+            <p>高雄市鼓山區美術南五街276號9樓</p>
+            <p>0983-754-555</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/2020BMS/</p>
+          </td>
+          <td>
+            <p>成立於2020年</p>
           </td>
         </tr>
         <tr>
@@ -663,35 +809,64 @@
             <p>0905-352-083</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/shihoissei/">連結</a>
+            <p>https://www.facebook.com/shihoissei/</p>
           </td>
           <td>
-            <p>
-              日本津輕三味線演奏人員，與臺灣妻子婚後定居屏東，致力於日本文化推廣及三味線表演。
-            </p>
+            <p>日本津輕三味線演奏人員，與臺灣妻子婚後定居屏東，致力於日本文化推廣及三味線表演。</p>
           </td>
         </tr>
         <tr>
           <td>
-            <p>臺灣安克隆樂團（原屏東安克隆國際家庭親子樂團）</p>
+            <p>臺灣愛爾蘭香儂舞團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/seannosintaiwan/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>臺灣安克隆樂團</p>
           </td>
           <td>
-            <p>蔡順柔</p>
             <p>黃筌琳</p>
           </td>
           <td>
-            <p>屏東市德豐街106 號</p>
+            <p>屏東縣屏東市德豐街106 號</p>
             <p>08-737-1382</p>
             <p>屏東縣潮州鎮光澤巷16 號</p>
             <p>08-789-1929</p>
             <p>0972-320-520</p>
           </td>
           <td>
-            <a href="mailto:angklungtaiwan@gmail.com">連結</a>
+            <p>angklungtaiwan@gmail.com</p>
           </td>
           <td>
             <p>
               臺灣安克隆樂團原名稱為屏東安克隆國際家庭親子樂團，成立於2019年12月，團員們來自不同的文化背景，在印尼傳統樂器安克隆悠揚的竹聲中找尋共同的故事，傳唱母親的歌。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>社團法人屏東縣好好婦女權益發展協會</p>
+          </td>
+          <td>
+            <p>李欣玫</p>
+          </td>
+          <td>
+            <p>屏東縣內埔鄉內埔村南華路120號（會址）</p>
+            <p>屏東縣屏東市德豐街106號（通訊址）</p>
+          </td>
+          <td>
+            <p>http://jadwrp.blogspot.com/</p>
+            <p>jadwrp@gmail.com</p>
+          </td>
+          <td>
+            <p>
+              成立於2008年，關注婦女權益與公共事務之團體，為歷年屏東縣新住民多元文化市集之重要推廣組織。
             </p>
           </td>
         </tr>
@@ -706,7 +881,7 @@
             <p>0987-946-319</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ARoot2016/">連結</a>
+            <p>https://www.facebook.com/ARoot2016/</p>
           </td>
           <td>
             <p>成立於2016年</p>
@@ -723,7 +898,7 @@
             <p>0956-699-626</p>
           </td>
           <td>
-            <a href="mailto:m0956699626@gmail.com">連結</a>
+            <p>m0956699626@gmail.com</p>
           </td>
           <td>
             <p>成立於1997年，是一支具有美洲特性的音樂表演團隊。</p>
@@ -740,7 +915,7 @@
             <p>0939-286-727</p>
           </td>
           <td>
-            <a href="mailto:hiroharakaitw@gmail.com">連結</a>
+            <p>hiroharakaitw@gmail.com</p>
           </td>
           <td>
             <p>
@@ -755,12 +930,10 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <a href="mailto:twmiyabisangenkai@gmail.com">連結</a>
+            <p>twmiyabisangenkai@gmail.com</p>
           </td>
           <td>
-            <p>
-              臺灣第一個以津輕三味線為表演主體的團體，由日本津輕三味線演奏家小比田雅勝所創立。
-            </p>
+            <p>臺灣第一個以津輕三味線為表演主體的團體，由日本津輕三味線演奏家小比田雅勝所創立。</p>
           </td>
         </tr>
         <tr>
@@ -774,9 +947,48 @@
             <p>0928-888-755</p>
           </td>
           <td>
-            <a href="mailto:azer755@hotmail.com">連結</a>
+            <p>azer755@hotmail.com</p>
           </td>
           <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>嬉班子樂團Sibongie</p>
+          </td>
+          <td>
+            <p>江季鴻（江鳥）</p>
+          </td>
+          <td>
+            <p>0928-555-066</p>
+          </td>
+          <td>
+            <p>bbiirrdd2005@yahoo.com.tw</p>
+          </td>
+          <td>
+            <p>
+              嬉班子樂團於2005
+              年成軍，以西非打擊為基礎，結合閩南語歌詞的演唱，連結非洲與臺灣的故事，開拓新的音樂風格與演出型態。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>YK樂團</p>
+          </td>
+          <td>
+            <p>黃冠螢</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>yk.duo.music@gmail.com</p>
+          </td>
+          <td>
+            <p>
+              YK樂團，由巴塞隆納音樂家Yerko Lorca（約羅卡）和臺灣藝術家Kuan
+              Yin（黃冠螢）共組，透過Kora、Tartesstian
+              Lyre（西班牙塔特西里拉琴）與古地中海的Tar塔兒鼓為主軸，搭上兩人男女和聲原創樂曲。
+            </p>
+          </td>
         </tr>
       </tbody>
     </table>
