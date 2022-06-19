@@ -18,275 +18,235 @@
       <tbody>
         <tr>
           <td>
-            <p>臺北慈雲堂</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺北市內湖區康寧路一段156巷57號</p>
-            <p>02-2790-8867</p>
+            <p>基隆廣遠壇</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/內湖慈雲堂/439338836649756/">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>北投代天府</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺北市豐年路一段35之1號</p>
-            <p>02-2891-2767</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>創建於1974年</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>松山慈惠堂</p>
+            <p>李游坤</p>
           </td>
           <td>
-            <p>郭葉子</p>
+            <p>基隆市安樂區安一路100巷32號</p>
+            <p>02-2423-6469</p>
           </td>
           <td>
-            <p>臺北市信義區福德街251巷33號</p>
-            <p>02-2726-1735</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.sstht.org.tw/">連結</a>
-          </td>
-          <td>
-            <p>成立於1969年</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>南港天元殿</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>臺北市南港區三重路49號</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>三芝富福頂山寺</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市三芝區圓山里二坪頂69號</p>
-            <p>02-2636-7002</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>三重天巡府</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市三重區五華街75巷4號2樓</p>
-            <p>0910-346-099</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/TianXunFu/">連結</a>
+            <p>https://www.facebook.com/臺灣丹心弘道會-廣遠道壇-110201233925338</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>中和濟南宮</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市中和區福美路256巷10號</p>
-            <p>02-2240-1253</p>
+            <p>臺北集神道壇</p>
           </td>
           <td>
-            <a target="_" href="https://m.facebook.com/profile.php?id=498374277037829">連結</a>
+            <p>曹育齊</p>
+          </td>
+          <td>
+            <p>臺北市中山區民權東路二段113巷1弄6號</p>
+            <p>0988-343-439</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/religion711</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>中國道教經典研究會</p>
+            <p>三重正統雷晉壇</p>
           </td>
           <td>
-            <p>道長</p>
-            <p>陳炳松</p>
-            <p>邱玉珠</p>
+            <p>游宗樺</p>
           </td>
           <td>
-            <p>新北市石碇區豐田里磨石坑31號</p>
-            <p>02-2663-9063</p>
-            <p>0970-067-777</p>
+            <p>新北市三重區大仁街31號2樓</p>
+            <p>02-2984-8357</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/三重正統雷晉壇-714727328549059</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>中和枋寮威遠壇</p>
+          </td>
+          <td>
+            <p>林威呈</p>
+          </td>
+          <td>
+            <p>新北市中和區中和路153號</p>
+            <p>02-2249-8454</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/AAA22498454</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>樹林雷晉壇</p>
+          </td>
+          <td>
+            <p>黃書煜</p>
+          </td>
+          <td>
+            <p>新北市樹林區千歲街70巷1弄18號1樓</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/樹林-雷晉壇-1656915627906171</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>蘆洲顯妙壇</p>
+          </td>
+          <td>
+            <p>朱建成</p>
+          </td>
+          <td>
+            <p>新北市蘆洲區中正路46號2樓</p>
+            <p>02-2281-9255</p>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>汐止拱北殿</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市汐止區汐萬路三段88號</p>
-            <p>02-2646-1878</p>
+            <p>蘆洲讚瑞壇</p>
           </td>
           <td>
-            <a target="_" href="https://www.gbt.tw/h/Index?key=013215999296">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>金鳳山臺北慈靈宮</p>
+            <p>李添發</p>
           </td>
           <td>
-            <p>邱師姐</p>
-          </td>
-          <td>
-            <p>新北市石碇區豐田里磨石坑31號</p>
-            <p>02-2663-9063</p>
-            <p>0932-033-983</p>
+            <p>新北市蘆洲區成功路170號1樓</p>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>金瓜石五府宮</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市瑞芳區山尖路133號</p>
-            <p>02-2496-2281</p>
+            <p>南泉明法壇</p>
           </td>
           <td>
-            <a target="_" href="https://b-m.facebook.com/profile.php?id=427967313880463&amp;__tn__=%2As-R">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>淡水行天武聖宮</p>
+            <p>林睿竹</p>
           </td>
           <td>
-            <p>主持</p>
-            <p>陳俊廷</p>
+            <p>新北市蘆洲區民權路137巷5號1樓</p>
+            <p>0938-870-128</p>
           </td>
           <td>
-            <p>新北市淡水區八勢路一段120號</p>
-            <p>02-2809-2359</p>
-          </td>
-          <td>
-            <a target="_" href="https://place-of-worship-1260.business.site/?utm_source=gmb&amp;utm_medium=referral">連結</a>
+            <p>https://www.facebook.com/NANCHUANMINGFA</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>新北三清宮</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市板橋區文化路二段548巷8弄12號</p>
-            <p>0929-544-999</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>萬里武聖堂</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市萬里區孝七街6號</p>
-            <p>02-2492-1248</p>
+            <p>桃園妙應壇</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/萬里協聖堂-1012797448753259/?rf=178375678899827">連結</a>
+            <p>許建揚</p>
+          </td>
+          <td>
+            <p>桃園市桃園區民生路286號</p>
+            <p>0932-085-200</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Miaoyingaltar</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>艋舺帝謙會</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市板橋區江寧路三段85巷5號</p>
+            <p>清微法壇</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/帝謙會-1396811787312015/">連結</a>
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>輔大宗教學系道教學術發展中心</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>新北市新莊區中正路510號</p>
-            <p>02-2905-2791</p>
+            <p>林敏子</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/DRS.FJCU/">連結</a>
+            <p>桃園市桃園區桃鶯路104巷2號</p>
+            <p>0931-263-199</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/清微法壇</p>
+            <p>-100135195721146</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>正一道教廣盛壇</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>桃園大園區竹圍里竹圍街44-5號</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <p>中國武當道教太玄法師協會</p>
+            <p>新竹通靈壇</p>
           </td>
           <td>
-            <p>創會長</p>
-            <p>蕭道賢</p>
+            <p>莊肇嘉</p>
           </td>
           <td>
-            <p>臺中市北屯區和祥六街2號</p>
-            <p>04-2436-4367</p>
-            <p>0933-531-826</p>
+            <p>新竹市東區竹蓮街173巷2號</p>
           </td>
           <td>
-            <a target="_" href="https://m.facebook.com/profile.php?id=269680476383444">連結</a>
+            <p>https://www.facebook.com/新竹通靈壇</p>
+            <p>-225235875036594</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>臺中指微道壇</p>
+            <p>後龍普玄壇祖壇</p>
           </td>
           <td>
-            <p>道長</p>
-            <p>林元啟</p>
+            <p>吳驊峰</p>
           </td>
           <td>
-            <p>臺中市烏日區中山路三段142號</p>
-            <p>04-2338-1230</p>
+            <p>苗栗縣後龍鎮中山路374號</p>
+            <p>0920-559-219</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/指微道壇/319828351391229">連結</a>
+            <p>https://www.facebook.com/後龍-普玄壇祖壇-101710921381121</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>鹿港保真壇</p>
+          </td>
+          <td>
+            <p>施宣熹</p>
+          </td>
+          <td>
+            <p>彰化縣鹿港鎮菜園路206號</p>
+            <p>04-777-2454</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/BaoZhenTan</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>永靖慈德壇</p>
+          </td>
+          <td>
+            <p>詹界國</p>
+          </td>
+          <td>
+            <p>彰化縣永靖鄉永靖街61號</p>
+            <p>04-823-1631</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/cihde999</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>水里守玄道觀</p>
+          </td>
+          <td>
+            <p>洪于代</p>
+          </td>
+          <td>
+            <p>南投縣水里鄉永豐路291號</p>
+            <p>04-9277-0179</p>
+          </td>
+          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -294,79 +254,412 @@
             <p>竹山守真道房</p>
           </td>
           <td>
-            <p>道長</p>
-            <p>陳光村</p>
+            <p>陳東成</p>
           </td>
           <td>
-            <p>南投縣竹山鎮中山里鯉南路1號（陳東成擇日館）</p>
+            <p>南投縣竹山鎮鯉南路1號</p>
             <p>04-9264-3871</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/stoneace/">連結</a>
+            <p>https://www.facebook.com/stoneace</p>
           </td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>海頭社文龍殿</p>
+            <p>廣法道壇</p>
+          </td>
+          <td>
+            <p>郭承璋</p>
+          </td>
+          <td>
+            <p>南投縣草屯鎮中和路12-1號</p>
+            <p>0975-049-068</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/草屯-廣法雷壇-263854803816496</p>
           </td>
           <td>&nbsp;</td>
-          <td>
-            <p>臺南市安平區安北路121巷10弄6號</p>
-            <p>06-2286-931</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>創建於1817年</p>
-          </td>
         </tr>
         <tr>
           <td>
-            <p>礁溪明德道院（前身：三重玉勅明德壇）</p>
+            <p>太保後潭慈德佛壇</p>
           </td>
           <td>
-            <p>道長</p>
-            <p>蘇西明</p>
+            <p>黃瑞村</p>
           </td>
           <td>
-            <p>宜蘭縣礁溪鄉吳沙村四結33-10號</p>
-            <p>02-2978-2428</p>
-            <p>0936-050-367</p>
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/groups/taiwan.mingde/">連結</a>
-          </td>
-          <td>
-            <p>弘道會成立於2012年</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>蘇澳指南宮</p>
-          </td>
-          <td>&nbsp;</td>
-          <td>
-            <p>宜蘭縣蘇澳鎮冷泉路9之1號</p>
-            <p>03-997-2213</p>
+            <p>嘉義縣太保市後潭里後潭361號</p>
+            <p>05-371-1203</p>
           </td>
           <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            <p>塘岐蕭王府廟</p>
+            <p>中埔慈證佛壇</p>
+          </td>
+          <td>
+            <p>李鴻昌</p>
+          </td>
+          <td>
+            <p>嘉義縣中埔鄉中埔村18之6</p>
+            <p>0932-792-861</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>六腳混元道壇</p>
+          </td>
+          <td>
+            <p>張澤丕</p>
+          </td>
+          <td>
+            <p>嘉義縣六腳鄉蘇厝寮116號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>竹崎慈集佛壇</p>
+          </td>
+          <td>
+            <p>何義生</p>
+          </td>
+          <td>
+            <p>嘉義縣竹崎鄉 竹崎村復興路39號1樓</p>
+            <p>0919-601-567</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>東石靜妙道壇</p>
+          </td>
+          <td>
+            <p>曾益珍</p>
+          </td>
+          <td>
+            <p>嘉義縣東石鄉屯仔頭79號</p>
+            <p>05-373-3292</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>仁德後壁厝合妙道壇</p>
+          </td>
+          <td>
+            <p>蘇皇綺</p>
+          </td>
+          <td>
+            <p>臺南市仁德區德洋路30巷3-1號</p>
+            <p>06-270-8815</p>
+            <p>0982-263-247</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>佳里混玄趨善堂</p>
+          </td>
+          <td>
+            <p>林清隆</p>
+          </td>
+          <td>
+            <p>臺南市佳里區龍安里塭仔內35號之9</p>
+            <p>06-789-1234</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/混玄壇林清隆道長</p>
+            <p>-196580167351735</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>麻豆阿強道壇</p>
+          </td>
+          <td>
+            <p>陳發強</p>
+          </td>
+          <td>
+            <p>臺南市麻豆區寮部里127號之1</p>
+            <p>06-572-3260</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>善化道壇</p>
+          </td>
+          <td>
+            <p>鍾昂翰</p>
+          </td>
+          <td>
+            <p>臺南市善化區進學路66號</p>
+            <p>06-581-7936</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/善化道壇</p>
+            <p>-565091573509602</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>明杰道壇</p>
+          </td>
+          <td>
+            <p>董明杰</p>
+          </td>
+          <td>
+            <p>臺南市歸仁區中正北路三段227號</p>
+            <p>0989-528-900</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/MingJieDaoistAltar</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>關廟太清宮泓銘道壇</p>
+          </td>
+          <td>
+            <p>賴泓銘</p>
+          </td>
+          <td>
+            <p>臺南市關廟區北花里中正路101號</p>
+            <p>06-5955-678</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/泓銘道壇-241916179294897/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>炳杰道壇</p>
+          </td>
+          <td>
+            <p>黃炳杰</p>
+          </td>
+          <td>
+            <p>高雄市茄萣區金鑾路179號</p>
+            <p>0983-115-757</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>白砂崙道壇</p>
+          </td>
+          <td>
+            <p>郭孟杰</p>
+          </td>
+          <td>
+            <p>高雄市茄萣區福德路63巷20號</p>
+            <p>07-069-4221</p>
+            <p>0906-979-070</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/白砂崙道壇-法天成真靖三界混元壇-1979367585693248</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>彌陀普照壇</p>
+          </td>
+          <td>
+            <p>謝明串</p>
+          </td>
+          <td>
+            <p>高雄市彌陀區鹽港一路64號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>潮州正一玄妙壇</p>
+          </td>
+          <td>
+            <p>辜堃城</p>
+          </td>
+          <td>
+            <p>屏東縣潮州鎮三星里愛國路11號</p>
+            <p>0929-108-399</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/潮州百年老道壇-正一玄妙道士雷壇妙善生命禮儀-448977478512347
+            </p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>頭城盛元壇</p>
+          </td>
+          <td>
+            <p>李裕堂</p>
+          </td>
+          <td>
+            <p>宜蘭縣頭城鎮吉祥路88巷39號</p>
+            <p>03-978-9777</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/頭城盛元壇-238484079561263</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>礁溪威真壇</p>
+          </td>
+          <td>
+            <p>張宏銘</p>
+          </td>
+          <td>
+            <p>宜蘭縣礁溪鄉中山路一段148號</p>
+            <p>03-988-2334</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/礁溪威真壇-108421535086308</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>內垵玄文壇</p>
+          </td>
+          <td>
+            <p>洪耀幸</p>
+          </td>
+          <td>
+            <p>澎湖縣西嶼鄉池東村73號</p>
+            <p>06-998-1404</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>古寧頭玉堂壇</p>
+          </td>
+          <td>
+            <p>楊土金</p>
+          </td>
+          <td>
+            <p>金門縣金城鎮北門里中興路70號</p>
+            <p>082-325-361 0933-885-505</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>東門英妙靖普照壇</p>
+          </td>
+          <td>
+            <p>陳仲苠</p>
+          </td>
+          <td>
+            <p>金門縣金城鎮東門里金山路20號</p>
+            <p>082-328-075</p>
+            <p>0932-838-876</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>合界混元壇</p>
+          </td>
+          <td>
+            <p>楊永章</p>
+          </td>
+          <td>
+            <p>0989-206-013</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>合界清靜壇</p>
+          </td>
+          <td>
+            <p>翁順福</p>
+          </td>
+          <td>
+            <p>0910-977-064</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>大灣光明街壇</p>
+          </td>
+          <td>
+            <p>陳聰敏</p>
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>連江縣北竿鄉中正路70號</p>
-            <p>08-3656-559</p>
+            <p>https://www.facebook.com/profile.php?id=100043439090571</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>大灣澄性澄真靖三界混真壇</p>
           </td>
           <td>
-              <a target="_" href="https://memory.culture.tw/Home/Detail?Id=154716&amp;IndexCode=Culture_Place">連結</a>
+            <p>李安雄</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/profile.php?id=100014706406292</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>守玄道壇</p>
           </td>
           <td>
-            <p>創建於1977年</p>
+            <p>陳高照</p>
+            <p>陳柏儒</p>
           </td>
+          <td>
+            <p>連江縣南竿鄉福澳村8號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>澄清靖混元壇</p>
+          </td>
+          <td>
+            <p>陳梅濤</p>
+          </td>
+          <td>
+            <p>金門縣金寧鄉湖埔村埔後45號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
         </tr>
       </tbody>
     </table>
