@@ -34,11 +34,11 @@ const tabs1 = [
     autor: '',
     path: 'indexDir_18',
   },
-  {
-    name: '釋奠樂篇',
-    autor: '',
-    path: 'indexDir_23',
-  },
+  // {
+  //   name: '釋奠樂篇',
+  //   autor: '',
+  //   path: 'indexDir_23',
+  // },
   {
     name: '國樂篇',
     autor: '',
@@ -96,11 +96,11 @@ const tabs2 = [
     autor: '',
     path: 'indexDir_7',
   },
-  {
-    name: '釋奠樂篇',
-    autor: '',
-    path: 'indexDir_24',
-  },
+  // {
+  //   name: '釋奠樂篇',
+  //   autor: '',
+  //   path: 'indexDir_24',
+  // },
   {
     name: '國樂篇',
     autor: '',

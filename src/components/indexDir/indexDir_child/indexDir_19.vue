@@ -30,7 +30,7 @@
             <p>基隆市中正區信一路181號4樓<br />02-2422-4170＃398</p>
           </td>
           <td>
-            <p>https://www.facebook.com/KeelungChineseOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/KeelungChineseOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於2009年</p>
@@ -48,7 +48,7 @@
             <p>臺北市士林區文林路751號<br />02-8866-9600</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ncftanco/</p>
+            <a target="_" href="https://www.facebook.com/ncftanco/">連結</a>
           </td>
           <td>
             <p>成立於1984年</p>
@@ -66,7 +66,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/bravoTCO/</p>
+            <a target="_" href="https://www.facebook.com/bravoTCO/">連結</a>
           </td>
           <td>
             <p>成立於1979年</p>
@@ -85,7 +85,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TcoAcademy/</p>
+            <a target="_" href="https://www.facebook.com/TcoAcademy/">連結</a>
           </td>
           <td>
             <p>成立於2010年12月，每週五19:00-21:30固定排練。</p>
@@ -104,7 +104,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台北市立國樂團附設青年國樂團-255567957819102/</p>
+            <a target="_" href="https://www.facebook.com/台北市立國樂團附設青年國樂團-255567957819102/">連結</a>
           </td>
           <td>
             <p>成立於1984年，每週四19:00-21:30固定排練。</p>
@@ -123,7 +123,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TCOCivicOrchestra</p>
+            <a target="_" href="https://www.facebook.com/TCOCivicOrchestra">連結</a>
           </td>
           <td>
             <p>成立於1993年1月5日，每週二19:00-21:30固定排練。</p>
@@ -142,7 +142,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/268567494213</p>
+            <a target="_" href="https://www.facebook.com/groups/268567494213">連結</a>
           </td>
           <td>
             <p>成立於2001年2月，每週一19:00-21:30固定排練。</p>
@@ -161,7 +161,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/youthTCO/</p>
+            <a target="_" href="https://www.facebook.com/youthTCO/">連結</a>
           </td>
           <td>
             <p>成立於2003年9月正式，每週六14:00-17:30固定排練。</p>
@@ -180,7 +180,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://reurl.cc/QjxNQq</p>
+            <a target="_" href="https://reurl.cc/QjxNQq">連結</a>
           </td>
           <td>
             <p>成立於2008年，每週日09:00-12:00固定排練。</p>
@@ -199,7 +199,7 @@
             <p>臺北市中正區中華路一段53號<br />02-2383-2170</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺北市立國樂團附設合唱團-245980155436403/</p>
+            <a target="_" href="https://www.facebook.com/臺北市立國樂團附設合唱團-245980155436403/">連結</a>
           </td>
           <td>
             <p>成立於1985年8月，每週三19:00-22:00排練。</p>
@@ -216,7 +216,7 @@
             <p>臺北市內湖區內湖路二段150號3樓<br />02-2799-7907</p>
           </td>
           <td>
-            <p>https://www.facebook.com/sscorchestra/</p>
+            <a target="_" href="https://www.facebook.com/sscorchestra/">連結</a>
           </td>
           <td>
             <p>成立於2014年9月</p>
@@ -233,7 +233,7 @@
             <p>臺北市信義區西村里基隆路一段364巷41號5樓<br />0921-906-124</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ckzscm/</p>
+            <a target="_" href="https://www.facebook.com/ckzscm/">連結</a>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -251,7 +251,7 @@
             <p>臺北市中正區濟南路一段71號（成功高級中學地下室）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tfgckshaco/</p>
+            <a target="_" href="https://www.facebook.com/tfgckshaco/">連結</a>
           </td>
           <td>
             <p>成立於1998年</p>
@@ -269,7 +269,7 @@
             <p>臺北市大安區羅斯福路四段85號405室</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NTUCO/</p>
+            <a target="_" href="https://www.facebook.com/NTUCO/">連結</a>
           </td>
           <td>
             <p>成立於1952年</p>
@@ -287,7 +287,7 @@
             <p>臺北市大安區仁愛路四段390之1號8樓<br />0966-075-000</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaipeiYouthChineseOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/TaipeiYouthChineseOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於1993年，每週五19:00-21:30練習。</p>
@@ -306,7 +306,7 @@
             <p>臺北市信義區福德街251巷33號<br />02-2726-1735</p>
           </td>
           <td>
-            <p>mu.nian.mercy@gmail.com</p>
+            <a href="mailto:mu.nian.mercy@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於1988年，每週四19:30-21:30練習。</p>
@@ -323,7 +323,7 @@
             <p>臺北市信義區信安街115巷1號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hsnuaco/</p>
+            <a target="_" href="https://www.facebook.com/hsnuaco/">連結</a>
           </td>
           <td>
             <p>成立於1989年7月</p>
@@ -341,7 +341,7 @@
             <p>臺北市中正區忠孝東路二段112號7樓</p>
           </td>
           <td>
-            <p>https://yuyaomusic.weebly.com/</p>
+            <a target="_" href="https://yuyaomusic.weebly.com/">連結</a>
           </td>
           <td>
             <p>成立於2015年1月，每月第一、第三個週五18:30-21:30練習。</p>
@@ -359,7 +359,7 @@
             <p>0921-831-786</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hakkamelody/</p>
+            <a target="_" href="https://www.facebook.com/hakkamelody/">連結</a>
           </td>
           <td>
             <p>成立於2001年，每週二18:30練習。</p>
@@ -376,7 +376,7 @@
             <p>臺北市文山區木新路三段310巷4號2樓<br />0920-027-010</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HsinMusic/</p>
+            <a target="_" href="https://www.facebook.com/HsinMusic/">連結</a>
           </td>
           <td>
             <p>成立於2001年7月21日，每週六14:30-18:00練習。</p>
@@ -394,7 +394,7 @@
             <p>臺北市南港區忠孝東路六段212巷1弄31號4樓<br />0912-468-736</p>
           </td>
           <td>
-            <p>https://www.facebook.com/xsco2012/</p>
+            <a target="_" href="https://www.facebook.com/xsco2012/">連結</a>
           </td>
           <td>
             <p>成立於2011年7月，2015年正式立案登記。</p>
@@ -412,7 +412,7 @@
             <p>臺北市松山區延壽街337之2號4樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/迴響國樂團-262705720745204/</p>
+            <a target="_" href="https://www.facebook.com/pg/迴響國樂團-262705720745204/">連結</a>
           </td>
           <td>
             <p>成立於2006年，每週一09:00練習。</p>
@@ -431,7 +431,7 @@
             <p>Line ID：@vlw7155x</p>
           </td>
           <td>
-            <p>https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/</p>
+            <a target="_" href="https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/">連結</a>
           </td>
           <td>
             <p>成立於2008年8月2日，每週六14:00-17:00練習。</p>
@@ -448,7 +448,7 @@
             <p>新北市板橋區四川路二段247號27樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ Arteam群藝民族管弦樂團-107912024325974/</p>
+            <a target="_" href="https://www.facebook.com/Arteam群藝民族管弦樂團-107912024325974/">連結</a>
           </td>
           <td>
             <p>成立於2020年2月4日</p>
@@ -466,7 +466,7 @@
             <p>新北市新店區太平里太平路61號5樓（新店太平宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/文山民族管弦樂團-577432608996787/</p>
+            <a target="_" href="https://www.facebook.com/pg/文山民族管弦樂團-577432608996787/">連結</a>
           </td>
           <td>
             <p>成立於2007年6月30日，每週六14:00-17:00練習。</p>
@@ -484,11 +484,7 @@
             <p>新北市永和區竹林路41號地下1樓<br />02-8927-7445</p>
           </td>
           <td>
-            <p>
-              <a href="http://www.littlegiant.idv.tw/inform.htm"
-                >http://www.littlegiant.idv.tw/inform.htm</a
-              >
-            </p>
+            <a target="_" href="http://www.littlegiant.idv.tw/inform.htm">連結</a>
           </td>
           <td>
             <p>成立於2000年10月</p>
@@ -506,7 +502,7 @@
             <p>新北市深坑區北深路三段270巷10號4樓<br />02-2662-0901</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/中華國樂團ZhongHua-Chinese-Orchestra-191354704801/</p>
+            <a target="_" href="https://www.facebook.com/pg/中華國樂團ZhongHua-Chinese-Orchestra-191354704801/">連結</a>
           </td>
           <td>
             <p>成立於1999年年底</p>
@@ -523,7 +519,7 @@
             <p>新北市新店區永華街19號1樓<br />0963-361-908</p>
           </td>
           <td>
-            <p>https://www.facebook.com/musicunion29/</p>
+            <a target="_" href="https://www.facebook.com/musicunion29/">連結</a>
           </td>
           <td>
             <p>成立於2013年10月30日</p>
@@ -541,7 +537,7 @@
             <p>新北市深坑區北深路三段270巷10號4樓<br />02-2662-0901</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaipeiZhanyingChineseOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/TaipeiZhanyingChineseOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於2006年，每週五晚間練習。</p>
@@ -559,7 +555,7 @@
             <p>新北市三重區集美街33巷10號1樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/cmusic2005/</p>
+            <a target="_" href="https://www.facebook.com/cmusic2005/">連結</a>
           </td>
           <td>
             <p>成立於2005年，每週日18:30練習。</p>
@@ -576,9 +572,7 @@
             <p>新北市新莊區五工二路50巷2號<br />02-2299-7265</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/pages/category/Performing-Arts/新北市青少年國樂團-1502326603337220/
-            </p>
+            <a target="_" href="https://www.facebook.com/pages/category/Performing-Arts/新北市青少年國樂團-1502326603337220/">連結</a>
           </td>
           <td>
             <p>成立於2013年8月15日</p>
@@ -595,7 +589,8 @@
             <p>新北市汐止區招商街4巷1號1樓</p>
           </td>
           <td>
-            <p>https://sofunco.weebly.com/<br />https://www.facebook.com/sofunco/</p>
+            <a target="_" href="https://sofunco.weebly.com/">連結</a><br>
+            <a target="_" href="https://www.facebook.com/sofunco/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -612,7 +607,7 @@
             <p>新北市新莊區福營路175號10樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/shinchiau.chinesemusic/</p>
+            <a target="_" href="https://www.facebook.com/shinchiau.chinesemusic/">連結</a>
           </td>
           <td>
             <p>成立於2012年，隔週日13:30-16:30練習。</p>
@@ -629,7 +624,7 @@
             <p>新北市汐止區大同路3段611號<br />0921-962-121</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Lamigo國樂粉絲團-123324114433073/</p>
+            <a target="_" href="https://www.facebook.com/Lamigo國樂粉絲團-123324114433073/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -647,7 +642,7 @@
             <p>桃園市中壢區中美路16號3樓<br />03-422-6005</p>
           </td>
           <td>
-            <p>https://www.facebook.com/www.chiuko.tw/</p>
+            <a target="_" href="https://www.facebook.com/www.chiuko.tw/">連結</a>
           </td>
           <td>
             <p>成立於1998年</p>
@@ -665,7 +660,7 @@
             <p>桃園市中壢區中美路16號<br />03-425-5051</p>
           </td>
           <td>
-            <p>tyc.orchestra@gmail.com</p>
+            <a href="mailto:tyc.orchestra@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2016年10月13日</p>
@@ -683,7 +678,7 @@
             <p>桃園市桃園區自強路80號（青溪國小）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/樂友國樂團-233614240123691/</p>
+            <a target="_" href="https://www.facebook.com/樂友國樂團-233614240123691/">連結</a>
           </td>
           <td>
             <p>成立於1991年，每週日09:00-12:00練習。</p>
@@ -700,8 +695,8 @@
             <p>新竹巿東區光復路一段576巷2弄125號2樓之1<br />0955-632-155</p>
           </td>
           <td>
-            <p>https://www.facebook.com/新竹市立青少年國樂團-100577196648920/</p>
-            <p>raymond88901@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/新竹市立青少年國樂團-100577196648920/">連結</a><br>
+            <a href="mailto:raymond88901@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於1993年</p>
@@ -719,8 +714,8 @@
             <p>新竹市北區天府路一段511號2樓<br />0918-854-500</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HCChineseOrchestra/</p>
-            <p>3mingd@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/HCChineseOrchestra/">連結</a><br>
+            <a href="mailto:3mingd@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於1990年，每週六19:30-21:30練習。</p>
@@ -737,8 +732,8 @@
             <p>新竹市北區延平路一段214巷34弄47號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hihcyco/</p>
-            <p>angel888608@gmail.com&nbsp;</p>
+            <a target="_" href="https://www.facebook.com/hihcyco/">連結</a><br>
+            <a href="mailto:angel888608@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2011年</p>
@@ -755,8 +750,8 @@
             <p>新竹市北區天府路一段511號2樓<br />0918-854-500</p>
           </td>
           <td>
-            <p>https://www.facebook.com/XinZhuJingDianQingShaoNianGuoLeTuan/</p>
-            <p>3mingd@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/XinZhuJingDianQingShaoNianGuoLeTuan/">連結</a><br>
+            <a href="mailto:3mingd@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -772,7 +767,7 @@
             <p>苗栗縣苗栗市自治路50號<br />037-369-968</p>
           </td>
           <td>
-            <p>http://www.mco.org.tw/</p>
+            <a target="_" href="http://www.mco.org.tw/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -790,7 +785,7 @@
             <p>苗栗縣苗栗市忠孝路19號2樓<br />037-369-968</p>
           </td>
           <td>
-            <p>http://www.uensemble.org/home.php</p>
+            <a target="_" href="http://www.uensemble.org/home.php">連結</a>
           </td>
           <td>
             <p>成立於1998年</p>
@@ -808,7 +803,7 @@
             <p>臺中市北區中清路一段690號18樓之7<br />0937-474-155</p>
           </td>
           <td>
-            <p>https://www.facebook.com/dachungdachung/</p>
+            <a target="_" href="https://www.facebook.com/dachungdachung/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -825,7 +820,7 @@
             <p>臺中市南屯區溝墘里大福街1-20號<br />04-2245-0425</p>
           </td>
           <td>
-            <p>https://www.facebook.com/WHYFCO/</p>
+            <a target="_" href="https://www.facebook.com/WHYFCO/">連結</a>
           </td>
           <td>
             <p>成立於1997年</p>
@@ -842,7 +837,7 @@
             <p>臺中市大里區益民路二段31號<br />04-2483-9076</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TWMIO.tw/</p>
+            <a target="_" href="https://www.facebook.com/TWMIO.tw/">連結</a>
           </td>
           <td>
             <p>成立於1989年8月7日</p>
@@ -860,7 +855,7 @@
             <p>臺中市豐原區圓環東路420號<br />04-2522-5005</p>
           </td>
           <td>
-            <p>https://www.facebook.com/YuanYunSiZhuLeTuan/</p>
+            <a target="_" href="https://www.facebook.com/YuanYunSiZhuLeTuan/">連結</a>
           </td>
           <td>
             <p>成立於2008年，每週日14:00-17:00練習。</p>
@@ -878,7 +873,7 @@
             <p>臺中市西區臺灣大道二段300號9樓之1 <br />04-2327-3530</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TXGDadunCO/</p>
+            <a target="_" href="https://www.facebook.com/TXGDadunCO/">連結</a>
           </td>
           <td>
             <p>成立於2019年3月29日，每週六15:00-17:00練習。</p>
@@ -895,7 +890,7 @@
             <p>臺中市東區和平街217號<br />04-2221-3696</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台中雅音國樂團-708810219222521/</p>
+            <a target="_" href="https://www.facebook.com/台中雅音國樂團-708810219222521/">連結</a>
           </td>
           <td>
             <p>成立於2014年4月</p>
@@ -913,7 +908,7 @@
             <p>臺中市北屯區南京東路三段52巷26號<br />04-2238-6211<br />0928-941-856</p>
           </td>
           <td>
-            <p>https://www.facebook.com/聞韶軒絲竹室內樂團-429888513861763/</p>
+            <a target="_" href="https://www.facebook.com/聞韶軒絲竹室內樂團-429888513861763/">連結</a>
           </td>
           <td>
             <p>成立於1995年</p>
@@ -930,7 +925,7 @@
             <p>臺中市潭子區中山路一段15巷6號12樓之3<br />04-2232-5995 <br />0912-033-244</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tcfshteinlai</p>
+            <a target="_" href="https://www.facebook.com/tcfshteinlai">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -948,7 +943,7 @@
             </p>
           </td>
           <td>
-            <p>https://reurl.cc/12ql9X</p>
+            <a target="_" href="https://reurl.cc/12ql9X">連結</a>
           </td>
           <td>
             <p>成立於2012年，每週六19:00-21:30練習。</p>
@@ -966,12 +961,8 @@
             <p>臺中市北區崇德路一段133巷8號7樓之10<br />0935-410-880</p>
           </td>
           <td>
-            <p>
-              http://www.tcco.tw/tcco/tccointro.html<br /><a
-                href="https://www.facebook.com/tcco.tw/"
-                >https://www.facebook.com/tcco.tw/</a
-              >
-            </p>
+            <a target="_" href="http://www.tcco.tw/tcco/tccointro.html">連結</a><br>
+            <a target="_" href="https://www.facebook.com/tcco.tw/">連結</a>
           </td>
           <td>
             <p>成立於1982年，每週日18:00-21:00練習。</p>
@@ -990,7 +981,7 @@
             <p>0963-060-703</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺中青年絲竹樂團-359718680865731/</p>
+            <a target="_" href="https://www.facebook.com/臺中青年絲竹樂團-359718680865731/">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -1008,7 +999,7 @@
             <p>0939-993-568</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taichungyourmusic/</p>
+            <a target="_" href="https://www.facebook.com/Taichungyourmusic/">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -1039,7 +1030,7 @@
             <p>0937-744-080</p>
           </td>
           <td>
-            <p>https://www.facebook.com/大雅國小校友國樂團-588017911562360/</p>
+            <a target="_" href="https://www.facebook.com/大雅國小校友國樂團-588017911562360/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -1071,7 +1062,7 @@
             <p>0921-527-329</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NanTouChineseOrchestra</p>
+            <a target="_" href="https://www.facebook.com/NanTouChineseOrchestra">連結</a>
           </td>
           <td>
             <p>成立於2021年5月</p>
@@ -1088,7 +1079,7 @@
             <p>南投縣草屯鎮玉屏路162之2號<br />049-256-0603</p>
           </td>
           <td>
-            <p>chin311@ms66.hinet.net</p>
+            <a href="mailto:chin311@ms66.hinet.net">連結</a>
           </td>
           <td>
             <p>草創於1978年，1994年正式登記立案。</p>
@@ -1106,7 +1097,7 @@
             <p>彰化縣彰化市光復路74號<br />04-722-2142＃1713</p>
           </td>
           <td>
-            <p>https://www.facebook.com/彰化市立國樂團-902944416392236/</p>
+            <a target="_" href="https://www.facebook.com/彰化市立國樂團-902944416392236/">連結</a>
           </td>
           <td>
             <p>成立於2004年，每週五18:30-21:30練習。</p>
@@ -1123,7 +1114,7 @@
             <p>05-586-2192</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/117552178301468/</p>
+            <a target="_" href="https://www.facebook.com/groups/117552178301468/">連結</a>
           </td>
           <td>
             <p>成立於2010年6月</p>
@@ -1140,7 +1131,7 @@
             <p>嘉義縣朴子市中興路87號6樓之2<br />0932-009-486</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100063550517766</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100063550517766">連結</a>
           </td>
           <td>
             <p>成立於1999年10月1日，2007年正式立案成立。</p>
@@ -1158,7 +1149,7 @@
             <p>嘉義市東區大雅路二段471號1樓<br />0937-358-292</p>
           </td>
           <td>
-            <p>https://www.facebook.com/chiayicmo/</p>
+            <a target="_" href="https://www.facebook.com/chiayicmo/">連結</a>
           </td>
           <td>
             <p>成立於2013年</p>
@@ -1176,7 +1167,7 @@
             <p>嘉義縣民雄鄉松山村33-4號<br />0966-575-951</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ChiayiTraditionalOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/ChiayiTraditionalOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於2016年，每週日14:00-16:00練習。</p>
@@ -1194,7 +1185,7 @@
             <p>臺南市東區崇德路128號7樓701室<br />0979-773-685</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tnensemble</p>
+            <a target="_" href="https://www.facebook.com/tnensemble">連結</a>
           </td>
           <td>
             <p>成立於2014年</p>
@@ -1211,7 +1202,7 @@
             <p>臺南市永康區政強街308號<br />06-236-9672</p>
           </td>
           <td>
-            <p>https://www.facebook.com/南瀛民族樂團-139080989448483/</p>
+            <a target="_" href="https://www.facebook.com/南瀛民族樂團-139080989448483/">連結</a>
           </td>
           <td>
             <p>成立於1998年</p>
@@ -1229,7 +1220,7 @@
             <p>臺南市中西區永福路二段81巷1號3樓<br />06-226-8209</p>
           </td>
           <td>
-            <p>http://xyco.org/</p>
+            <a target="_" href="http://xyco.org/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1244,7 +1235,7 @@
             <p>臺南市永康區六合路44巷44號<br />0915-076-961</p>
           </td>
           <td>
-            <p>https://www.facebook.com/雲長樂揚國樂團-163535553846088/</p>
+            <a target="_" href="https://www.facebook.com/雲長樂揚國樂團-163535553846088/">連結</a>
           </td>
           <td>
             <p>成立於2002年（前關帝殿國樂團）</p>
@@ -1262,7 +1253,7 @@
             <p>臺南市歸仁區信義南路78號<br />06-330-6505</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺南市民族管絃樂團-107014649337471/</p>
+            <a target="_" href="https://www.facebook.com/臺南市民族管絃樂團-107014649337471/">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -1282,7 +1273,7 @@
             <p>高雄市前金區民生二路163號2樓<br />0932-039-934</p>
           </td>
           <td>
-            <p>http://www.tpco.org.tw/</p>
+            <a target="_" href="http://www.tpco.org.tw/">連結</a>
           </td>
           <td>
             <p>成立於2011年</p>
@@ -1299,7 +1290,7 @@
             <p>高雄市彌陀區漯底里樂安路51之1號<br />07-617-9361</p>
           </td>
           <td>
-            <p>kao6253503@yahoo.com.tw</p>
+            <a href="mailto:kao6253503@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -1317,7 +1308,7 @@
             <p>高雄市鳳山區光遠路161號<br />07-743-6633</p>
           </td>
           <td>
-            <p>http://kpcaf.khcc.gov.tw/</p>
+            <a target="_" href="http://kpcaf.khcc.gov.tw/">連結</a>
           </td>
           <td>
             <p>成立於1989年</p>
@@ -1335,7 +1326,7 @@
             <p>高雄市鳳山區光遠路161號<br />07-743-6633</p>
           </td>
           <td>
-            <p>http://kpcaf.khcc.gov.tw/</p>
+            <a target="_" href="http://kpcaf.khcc.gov.tw/">連結</a>
           </td>
           <td>
             <p>成立於2015年</p>
@@ -1353,7 +1344,7 @@
             <p>高雄市左營區曾子路535號20樓之2<br />0989-543-985</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kcpco888/</p>
+            <a target="_" href="https://www.facebook.com/kcpco888/">連結</a>
           </td>
           <td>
             <p>成立於2016年</p>
@@ -1371,7 +1362,7 @@
             <p>宜蘭縣宜蘭市嵐峰路一段300巷11號<br />03-932-9359</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ilanyouthorchestra/</p>
+            <a target="_" href="https://www.facebook.com/ilanyouthorchestra/">連結</a>
           </td>
           <td>
             <p>成立於2006年，每週日09:00-12:00練習。</p>
@@ -1390,7 +1381,7 @@
             <p>0937-703-531</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Gatheringmusicworkshop</p>
+            <a target="_" href="https://www.facebook.com/Gatheringmusicworkshop">連結</a>
           </td>
           <td>
             <p>成立於2011年7月，每週五19:00-21:00練習。</p>
@@ -1409,7 +1400,7 @@
             <p>0937-703-531</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Gatheringmusicworkshop</p>
+            <a target="_" href="https://www.facebook.com/Gatheringmusicworkshop">連結</a>
           </td>
           <td>
             <p>成立於2011年7月，每週六19:00-21:00練習。</p>
@@ -1427,7 +1418,7 @@
             <p>宜蘭縣宜蘭市大坡路一段100號<br />03-928-2791＃247</p>
           </td>
           <td>
-            <p>https://blog.xuite.net/vgemw/vg</p>
+            <a target="_" href="https://blog.xuite.net/vgemw/vg">連結</a>
           </td>
           <td>
             <p>成立於1993年</p>
@@ -1445,7 +1436,7 @@
             <p>宜蘭縣宜蘭市校舍路1號0922-553265</p>
           </td>
           <td>
-            <p>https://www.facebook.com/YiLanLiMingGuoLeTuan/</p>
+            <a target="_" href="https://www.facebook.com/YiLanLiMingGuoLeTuan/">連結</a>
           </td>
           <td>
             <p>成立於2013年6月16日，每週六09:00-12:00練習。</p>
@@ -1462,7 +1453,7 @@
             <p>宜蘭縣宜蘭市陽明二路81巷11號<br />0933-243-221</p>
           </td>
           <td>
-            <p>https://www.facebook.com/樹林國樂團-508936765825436/</p>
+            <a target="_" href="https://www.facebook.com/樹林國樂團-508936765825436/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1478,7 +1469,7 @@
             <p>金門縣金城鎮中興路193號<br />0937-393-180</p>
           </td>
           <td>
-            <p>kevin80934@gmail.com</p>
+            <a href="mailto:kevin80934@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2006年</p>
@@ -1510,7 +1501,7 @@
             <p>臺北市中山區南京西路6號9樓之5<br />02-2581-3667</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tbo168/</p>
+            <a target="_" href="https://www.facebook.com/tbo168/">連結</a>
           </td>
           <td>
             <p>成立於2011年4月</p>
@@ -1528,7 +1519,7 @@
             <p>臺北市中正區新生南路一段138-1號<br />02-2341-8000</p>
           </td>
           <td>
-            <p>https://www.facebook.com/chinyuan.taiwan/</p>
+            <a target="_" href="https://www.facebook.com/chinyuan.taiwan/">連結</a>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -1545,7 +1536,7 @@
             <p>臺北市中山區中山北路一段83巷9號<br />02-2562-0236</p>
           </td>
           <td>
-            <p>https://www.facebook.com/mme2000</p>
+            <a target="_" href="https://www.facebook.com/mme2000">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -1562,8 +1553,8 @@
             <p>臺北市中山區龍江路295巷13號2樓<br />02-2516-5173</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ChaiFoundMusicWorkshop</p>
-            <p>ivana@cfmw.com.tw</p>
+            <a target="_" href="https://www.facebook.com/ChaiFoundMusicWorkshop">連結</a><br>
+            <a href="mailto:ivana@cfmw.com.tw">連結</a>
           </td>
           <td>
             <p>成立於1991年</p>
@@ -1580,7 +1571,7 @@
             <p>臺北市內湖區康寧路三段174號3樓<br />0913-160-938</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaipeiGrassMountainFolkOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/TaipeiGrassMountainFolkOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於1992年</p>
@@ -1598,7 +1589,7 @@
             <p>02-2858-6958</p>
           </td>
           <td>
-            <p>https://www.facebook.com/上玹樂集-106509560951095/</p>
+            <a target="_" href="https://www.facebook.com/上玹樂集-106509560951095/">連結</a>
           </td>
           <td>
             <p>成立於2021年1月13日</p>
@@ -1616,7 +1607,7 @@
             <p>新北市中和區秀朗路三段177號21樓之1<br />02-2947-9273</p>
           </td>
           <td>
-            <p>https://www.facebook.com/3peoplemusic/</p>
+            <a target="_" href="https://www.facebook.com/3peoplemusic/">連結</a>
           </td>
           <td>
             <p>成立於2013年</p>
@@ -1633,7 +1624,7 @@
             <p>新北市汐止區樟樹一路129巷29號1樓<br />0933-908-825</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taipei.folk.orchestra/</p>
+            <a target="_" href="https://www.facebook.com/Taipei.folk.orchestra/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -1699,7 +1690,7 @@
             <p>新北市淡水區興福寮88巷224號6樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NTCBACO/</p>
+            <a target="_" href="https://www.facebook.com/NTCBACO/">連結</a>
           </td>
           <td>
             <p>成立於2012年7月</p>
@@ -1716,7 +1707,7 @@
             <p>新北市樹林區中山路三段163巷13號8樓<br />0988-501-560</p>
           </td>
           <td>
-            <p>https://www.facebook.com/RedHouseQCO/</p>
+            <a target="_" href="https://www.facebook.com/RedHouseQCO/">連結</a>
           </td>
           <td>
             <p>成立於2018年12月6日</p>
@@ -1734,7 +1725,7 @@
             <p>新北市板橋區四川路二段247號27樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/</p>
+            <a target="_" href="https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/">連結</a>
           </td>
           <td>
             <p>成立於2013年</p>
@@ -1752,7 +1743,7 @@
             <p>0905-132-713</p>
           </td>
           <td>
-            <p>https://www.facebook.com/山河樂集-MRBand-450352601745909/</p>
+            <a target="_" href="https://www.facebook.com/山河樂集-MRBand-450352601745909/">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -1770,7 +1761,7 @@
             <p>桃園市中壢區中台路30號2樓<br />03-422-3861</p>
           </td>
           <td>
-            <p>gigi3892@ms61.hinet.net</p>
+            <a href="mailto:gigi3892@ms61.hinet.net">連結</a>
           </td>
           <td>
             <p>成立於2009年</p>
@@ -1803,7 +1794,7 @@
             <p>0935-357-700</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ProHCO/</p>
+            <a target="_" href="https://www.facebook.com/ProHCO/">連結</a>
           </td>
           <td>
             <p>成立於2017年4月28日</p>
@@ -1821,7 +1812,8 @@
             <p>049-256-4739</p>
           </td>
           <td>
-            <p>https://www.facebook.com/玉山民族樂團-1685037191588874/ cello304@yahoo.com.tw</p>
+            <a target="_" href="https://www.facebook.com/玉山民族樂團-1685037191588874/">連結</a><br>
+            <a href="mailto:cello304@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2004年12月</p>
@@ -1840,7 +1832,7 @@
             <p>0972-055-381</p>
           </td>
           <td>
-            <p>https://www.facebook.com/樂耕農室內樂團-1414763298784338/</p>
+            <a target="_" href="https://www.facebook.com/樂耕農室內樂團-1414763298784338/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1853,7 +1845,7 @@
             <p>雲林縣大埤鄉西鎮村96號<br />0909-266-188</p>
           </td>
           <td>
-            <p>https://www.facebook.com/fongmingzhai/</p>
+            <a target="_" href="https://www.facebook.com/fongmingzhai/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1869,7 +1861,7 @@
             <p>雲林縣斗六市湖山里楓湖路94-6號</p>
           </td>
           <td>
-            <p>p120107647@yahoo.com.tw</p>
+            <a href="mailto:p120107647@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -1905,7 +1897,7 @@
             <p>05-584-2836</p>
           </td>
           <td>
-            <p>https://www.facebook.com/莿桐國樂團-2001229466790704</p>
+            <a target="_" href="https://www.facebook.com/莿桐國樂團-2001229466790704">連結</a>
           </td>
           <td>
             <p>2013年立案，每週三、五練習。</p>
@@ -1924,7 +1916,7 @@
             <p>0919-897-709</p>
           </td>
           <td>
-            <p>https://www.facebook.com/迴響樂集-Echo-Music-130762980882420/</p>
+            <a target="_" href="https://www.facebook.com/迴響樂集-Echo-Music-130762980882420/">連結</a>
           </td>
           <td>
             <p>成立於2014年11月，2018年2月4日舉行創團音樂會。</p>
@@ -1941,7 +1933,7 @@
             <p>臺南市安平區建平九街72號</p>
           </td>
           <td>
-            <p>https://zh-tw.facebook.com/台南市佑明國樂團-193692117344756/</p>
+            <a target="_" href="https://zh-tw.facebook.com/台南市佑明國樂團-193692117344756/">連結</a>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -1958,7 +1950,7 @@
             <p>高雄市前金區自強一路32巷2號<br />0923-801-581</p>
           </td>
           <td>
-            <p>https://www.facebook.com/thechimemusic/</p>
+            <a target="_" href="https://www.facebook.com/thechimemusic/">連結</a>
           </td>
           <td>
             <p>成立於2015年9月</p>
@@ -1975,7 +1967,7 @@
             <p>屏東縣屏東市復興南路一段35巷10號<br />08-753-2730 <br />0927-630-735</p>
           </td>
           <td>
-            <p>https://www.facebook.com/屏東藝術民族樂團-130467143642595/</p>
+            <a target="_" href="https://www.facebook.com/屏東藝術民族樂團-130467143642595/">連結</a>
           </td>
           <td>
             <p>成立於2008年8月</p>
@@ -1992,7 +1984,7 @@
             <p>宜蘭縣宜蘭市黎明二路368巷99號<br />03-938-6060</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Formosamelody/</p>
+            <a target="_" href="https://www.facebook.com/Formosamelody/">連結</a>
           </td>
           <td>
             <p>成立於1994年</p>
@@ -2011,7 +2003,7 @@
             <p>039-329-359</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LanYangImpressionOrchestra</p>
+            <a target="_" href="https://www.facebook.com/LanYangImpressionOrchestra">連結</a>
           </td>
           <td>
             <p>成立於2017年</p>
@@ -2028,7 +2020,7 @@
             <p>澎湖縣馬公市陽明里永安街12巷4號<br />0934-080-068</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Df現代音樂樂團-604399929751995/</p>
+            <a target="_" href="https://www.facebook.com/Df現代音樂樂團-604399929751995/">連結</a>
           </td>
           <td>
             <p>成立於2005年9月7日</p>
@@ -2045,7 +2037,7 @@
             <p>澎湖縣馬公市陽明里永安街12巷4號<br />0934-080-068</p>
           </td>
           <td>
-            <p>https://www.facebook.com/FangHuChineseOrchestra</p>
+            <a target="_" href="https://www.facebook.com/FangHuChineseOrchestra">連結</a>
           </td>
           <td>
             <p>成立於2003年8月12日</p>
@@ -2064,7 +2056,7 @@
             <p>0911-883-498</p>
           </td>
           <td>
-            <p>https://www.facebook.com/金門愛樂民族管弦樂團-111422460680700/</p>
+            <a target="_" href="https://www.facebook.com/金門愛樂民族管弦樂團-111422460680700/">連結</a>
           </td>
           <td>
             <p>創立於2017年9月</p>
@@ -2081,7 +2073,7 @@
             <p>臺北市文山區興隆路四段109巷96號5樓<br />02-2234-9180 <br />0933-213-641</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaipeiHarmony/</p>
+            <a target="_" href="https://www.facebook.com/TaipeiHarmony/">連結</a>
           </td>
           <td>
             <p>成立於2007年3月1日</p>
@@ -2098,7 +2090,7 @@
             <p>臺中市北屯區北屯路290巷11號1樓<br />0906-191-941</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Formosasheng2018/</p>
+            <a target="_" href="https://www.facebook.com/Formosasheng2018/">連結</a>
           </td>
           <td>
             <p>成立於2016年6月</p>
@@ -2116,7 +2108,7 @@
             <p>高雄市新興區民族二路72號15樓之1號<br />0972-523-365</p>
           </td>
           <td>
-            <p>https://www.facebook.com/蔡輝鵬笙動樂團-2153125528054725/</p>
+            <a target="_" href="https://www.facebook.com/蔡輝鵬笙動樂團-2153125528054725/">連結</a>
           </td>
           <td>
             <p>成立於2018年</p>
@@ -2133,7 +2125,7 @@
             <p>新北市汐止區新江北路30巷22弄1號<br />0988-006-891</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hufivequintet/</p>
+            <a target="_" href="https://www.facebook.com/hufivequintet/">連結</a>
           </td>
           <td>
             <p>成立於2016年</p>
@@ -2150,7 +2142,7 @@
             <p>臺中市北屯區水景街126巷5號<br />0937-705-906</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TheSoundOfErhu/</p>
+            <a target="_" href="https://www.facebook.com/TheSoundOfErhu/">連結</a>
           </td>
           <td>
             <p>成立於2016年5月1日</p>
@@ -2168,7 +2160,7 @@
             <p>&nbsp;0958-616-421</p>
           </td>
           <td>
-            <p>https://www.facebook.com/和琵琶樂團-460865131129555/</p>
+            <a target="_" href="https://www.facebook.com/和琵琶樂團-460865131129555/">連結</a>
           </td>
           <td>
             <p>成立於2019年12月12日</p>
@@ -2186,7 +2178,7 @@
             <p>新北市板橋區莊敬路75巷35號11樓<br />0953-770-417</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pipaensemble/</p>
+            <a target="_" href="https://www.facebook.com/pipaensemble/">連結</a>
           </td>
           <td>
             <p>成立於2015年9月7日</p>
@@ -2203,7 +2195,8 @@
             <p>臺中市南區福田一街98巷9號<br />0928-941-826</p>
           </td>
           <td>
-            <p>http://taichungpipa.strikingly.com/<br />https://www.facebook.com/TaichungPipa/</p>
+            <a target="_" href="http://taichungpipa.strikingly.com/">連結</a><br>
+            <a target="_" href="https://www.facebook.com/TaichungPipa/">連結</a>
           </td>
           <td>
             <p>2012年1月正式立案</p>
@@ -2220,7 +2213,7 @@
             <p>臺北市大安區延吉街233巷5號1樓<br />02-2702-3388</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台北柳琴室內樂團-376996743396/</p>
+            <a target="_" href="https://www.facebook.com/台北柳琴室內樂團-376996743396/">連結</a>
           </td>
           <td>
             <p>成立於1993年7月18日</p>
@@ -2238,7 +2231,7 @@
             <p>高雄市鼓山區昌盛路68號6樓<br />0989-543-985</p>
           </td>
           <td>
-            <p>https://reurl.cc/EpebOA</p>
+            <a target="_" href="https://reurl.cc/EpebOA">連結</a>
           </td>
           <td>
             <p>成立於2011年</p>
@@ -2257,8 +2250,8 @@
             <p>0927-677-352</p>
           </td>
           <td>
-            <p>pufumeng@gmail.com</p>
-            <p>https://www.facebook.com/pufumeng</p>
+            <a target="_" href="https://www.facebook.com/pufumeng">連結</a><br>
+            <a href="mailto:pufumeng@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2018年</p>
@@ -2276,7 +2269,7 @@
             <p>0988-200-250</p>
           </td>
           <td>
-            <p>bear030963@yahoo.com.tw</p>
+            <a href="mailto:bear030963@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2020年7月9日</p>
@@ -2293,7 +2286,7 @@
             <p>臺北市文山區景後街95號10樓之1 <br />02-8931-0568</p>
           </td>
           <td>
-            <p>https://reurl.cc/Np9Nz5</p>
+            <a target="_" href="https://reurl.cc/Np9Nz5">連結</a>
           </td>
           <td>
             <p>成立於1980年</p>
@@ -2311,7 +2304,7 @@
             <p>臺中市沙鹿區晉文路229巷79號<br />0982-598-588</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaiWanYangQinLeTuan/</p>
+            <a target="_" href="https://www.facebook.com/TaiWanYangQinLeTuan/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -2328,7 +2321,7 @@
             <p>臺北市文山區仙岩路16巷26弄8號4樓<br />0919-101-889</p>
           </td>
           <td>
-            <p>https://www.facebook.com/cas.zither/</p>
+            <a target="_" href="https://www.facebook.com/cas.zither/">連結</a>
           </td>
           <td>
             <p>成立於2009年</p>
@@ -2345,7 +2338,7 @@
             <p>臺北市大安區和平東路三段49號10樓之3 <br />02-2704-7208</p>
           </td>
           <td>
-            <p>weiderdon@yahoo.com.tw</p>
+            <a href="mailto:weiderdon@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於1984年</p>
@@ -2362,7 +2355,7 @@
             <p>0986-559-439</p>
           </td>
           <td>
-            <p>https://www.facebook.com/zhenglover/</p>
+            <a target="_" href="https://www.facebook.com/zhenglover/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -2380,7 +2373,7 @@
             <p>臺北市士林區忠義街40號4樓<br />02-2834-5297</p>
           </td>
           <td>
-            <p>https://reurl.cc/mGAkWG</p>
+            <a target="_" href="https://reurl.cc/mGAkWG">連結</a>
           </td>
           <td>
             <p>成立於2008年</p>
@@ -2412,7 +2405,7 @@
             <p>臺北市松山區南京東路五段123巷8弄21號3樓<br />02-2762-4295</p>
           </td>
           <td>
-            <p>https://www.facebook.com/artofzheng/</p>
+            <a target="_" href="https://www.facebook.com/artofzheng/">連結</a>
           </td>
           <td>
             <p>成立於2014年4月9日</p>
@@ -2430,7 +2423,7 @@
             <p>新北市八里區頂寮五街7號8樓之3 <br />0932-548-590</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DaGuanZheng</p>
+            <a target="_" href="https://www.facebook.com/DaGuanZheng">連結</a>
           </td>
           <td>
             <p>成立於2009年</p>
@@ -2447,7 +2440,7 @@
             <p>新北市三芝區中山路一段33號<br />02-2636-2601</p>
           </td>
           <td>
-            <p>https://www.facebook.com/芝心箏樂團-482415438587967/</p>
+            <a target="_" href="https://www.facebook.com/芝心箏樂團-482415438587967/">連結</a>
           </td>
           <td>
             <p>成立於2005年，2011年立案。</p>
@@ -2480,7 +2473,7 @@
             <p>新北市板橋區南雅南路一段55號9樓之4號<br />0933-005-187</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LanLingZhengOrchestra/</p>
+            <a target="_" href="https://www.facebook.com/LanLingZhengOrchestra/">連結</a>
           </td>
           <td>
             <p>成立於2000年6月</p>
@@ -2498,7 +2491,7 @@
             <p>桃園市中壢區建國北路31號<br />03-425-1813</p>
           </td>
           <td>
-            <p>https://reurl.cc/KpzLVj</p>
+            <a target="_" href="https://reurl.cc/KpzLVj">連結</a>
           </td>
           <td>
             <p>成立於1992年，每週日18:00-21:00定期排練。</p>
@@ -2513,7 +2506,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/iwenzheng2016/</p>
+            <a target="_" href="https://www.facebook.com/iwenzheng2016/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2529,7 +2522,7 @@
             <p>桃園市中壢區中大路152號1樓<br />03-422-0418<br />0921-184-468</p>
           </td>
           <td>
-            <p>yuhungzheng@gmail.com</p>
+            <a href="mailto:yuhungzheng@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2545,7 +2538,7 @@
             <p>03-332-9877</p>
           </td>
           <td>
-            <p>https://zh-tw.facebook.com/ming.hsing.music/</p>
+            <a target="_" href="https://zh-tw.facebook.com/ming.hsing.music/">連結</a>
           </td>
           <td>
             <p>成立於1981 年10 月17日</p>
@@ -2562,7 +2555,7 @@
             <p>臺中巿西區安龍里忠勤街283號<br />04-2371-1049</p>
           </td>
           <td>
-            <p>https://www.facebook.com/datang.tw/</p>
+            <a target="_" href="https://www.facebook.com/datang.tw/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2577,7 +2570,7 @@
             <p>臺中市烏日區中華路185巷21號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/立馨箏樂團-153194901419959/</p>
+            <a target="_" href="https://www.facebook.com/立馨箏樂團-153194901419959/">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -2594,7 +2587,7 @@
             <p>臺中市南區瑞豐街9號<br />04-2287-7995</p>
           </td>
           <td>
-            <p>https://www.facebook.com/雅筑箏樂團-217210128291012/</p>
+            <a target="_" href="https://www.facebook.com/雅筑箏樂團-217210128291012/">連結</a>
           </td>
           <td>
             <p>成立於1994年3月</p>
@@ -2627,7 +2620,7 @@
             <p>嘉義市東區彌陀路202-1號<br />05-2782-845</p>
           </td>
           <td>
-            <p>https://www.facebook.com/檀閣箏樂團-2153848531518466/</p>
+            <a target="_" href="https://www.facebook.com/檀閣箏樂團-2153848531518466/">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -2645,7 +2638,7 @@
             <p>臺南市東區裕和二街28號<br />0928-680-101</p>
           </td>
           <td>
-            <p>https://www.facebook.com/GUFANG2007/</p>
+            <a target="_" href="https://www.facebook.com/GUFANG2007/">連結</a>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -2662,7 +2655,7 @@
             <p>臺南市東區裕農路127號<br />0932-989-273</p>
           </td>
           <td>
-            <p>https://reurl.cc/Y9pkM4</p>
+            <a target="_" href="https://reurl.cc/Y9pkM4">連結</a>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -2679,7 +2672,7 @@
             <p>宜蘭縣員山鄉金山西路197號<br />0937-910-503</p>
           </td>
           <td>
-            <p>https://www.facebook.com/蘭陽箏樂團-1815023055418797/</p>
+            <a target="_" href="https://www.facebook.com/蘭陽箏樂團-1815023055418797/">連結</a>
           </td>
           <td>
             <p>成立於1996年</p>
@@ -2697,7 +2690,7 @@
             <p>花蓮縣花蓮市國富十街135號<br />03-857-9090</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HL.Zheng/</p>
+            <a target="_" href="https://www.facebook.com/HL.Zheng/">連結</a>
           </td>
           <td>
             <p>成立於1994年</p>
@@ -2715,7 +2708,7 @@
             <p>0933-696-349</p>
           </td>
           <td>
-            <p>yulin.sv@msa.hinet.net</p>
+            <a href="mailto:yulin.sv@msa.hinet.net">連結</a>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -2749,7 +2742,7 @@
             <p>0921-307-742</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwan.guqin/</p>
+            <a target="_" href="https://www.facebook.com/taiwan.guqin/">連結</a>
           </td>
           <td>
             <p>成立於2011年</p>
@@ -2767,7 +2760,7 @@
             <p>臺北市中山區龍江路356巷46號地下1樓<br />02-2517-9192</p>
           </td>
           <td>
-            <p>fatdrum2000@gmail.com</p>
+            <a href="mailto:fatdrum2000@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2008年</p>
@@ -2785,7 +2778,7 @@
             <p>0955-368-849</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tien.ku.group/</p>
+            <a target="_" href="https://www.facebook.com/tien.ku.group/">連結</a>
           </td>
           <td>
             <p>成立於2012年3月19日</p>
@@ -2803,7 +2796,7 @@
             <p>新北市米倉國小<br />02-2618-2202</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ballidrum/</p>
+            <a target="_" href="https://www.facebook.com/ballidrum/">連結</a>
           </td>
           <td>
             <p>成立於2013年</p>
@@ -2821,7 +2814,7 @@
             <p>新北市新莊區龍安路270號9樓<br />0912-500-207</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hontsai.tw/</p>
+            <a target="_" href="https://www.facebook.com/hontsai.tw/">連結</a>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -2839,7 +2832,7 @@
             <p>新北市樹林區大有路13號4樓<br />0916-862-807</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Drumily-Percussion-Group-1681982158511450/</p>
+            <a target="_" href="https://www.facebook.com/Drumily-Percussion-Group-1681982158511450/">連結</a>
           </td>
           <td>
             <p>成立於2017年</p>
@@ -2872,7 +2865,7 @@
             <p>臺北市中山區民生東路一段25號3樓之8<br />02-2531-1997</p>
           </td>
           <td>
-            <p>http://www.scm.org.tw/Default.aspx</p>
+            <a target="_" href="http://www.scm.org.tw/Default.aspx">連結</a>
           </td>
           <td>
             <p>1953年4月19日創立「中華國樂會」，後來改為「中華民國國樂學會」。</p>
@@ -2891,7 +2884,7 @@
             <p>0935-322-452</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwanyangqin/</p>
+            <a target="_" href="https://www.facebook.com/taiwanyangqin/">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -2909,7 +2902,7 @@
             <p>0932-164-127</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/814776421869283</p>
+            <a target="_" href="https://www.facebook.com/groups/814776421869283">連結</a>
           </td>
           <td>
             <p>成立於2014年3月25日</p>
@@ -2945,7 +2938,7 @@
             <p>Line ID：@vlw7155x</p>
           </td>
           <td>
-            <p>https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/</p>
+            <a target="_" href="https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/">連結</a>
           </td>
           <td>
             <p>成立於2016年3月26日</p>
@@ -2963,7 +2956,7 @@
             <p>桃園市大溪區慈康路171號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/472521262778829/</p>
+            <a target="_" href="https://www.facebook.com/groups/472521262778829/">連結</a>
           </td>
           <td>
             <p>成立於2010年4月24日</p>
@@ -2982,7 +2975,7 @@
             <p>0965-508-073</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺灣笛簫協會-106517624187694/</p>
+            <a target="_" href="https://www.facebook.com/臺灣笛簫協會-106517624187694/">連結</a>
           </td>
           <td>
             <p>成立於2019年12月8日</p>
@@ -3000,7 +2993,7 @@
             <p>花蓮縣吉安鄉慈惠三街118號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taoran.hualien/</p>
+            <a target="_" href="https://www.facebook.com/taoran.hualien/">連結</a>
           </td>
           <td>
             <p>成立於2004年</p>
@@ -3019,7 +3012,7 @@
             <p>0963-182-182</p>
           </td>
           <td>
-            <p>https://www.facebook.com/1026lanling/</p>
+            <a target="_" href="https://www.facebook.com/1026lanling/">連結</a>
           </td>
           <td>
             <p>2015年10月26日登記立案</p>
@@ -3037,7 +3030,7 @@
             <p>臺北市萬華區成都路157號9樓之6</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/1457511447814812/</p>
+            <a target="_" href="https://www.facebook.com/groups/1457511447814812/">連結</a>
           </td>
           <td>
             <p>成立於2011年</p>
@@ -3055,7 +3048,7 @@
             <p>臺北市中正區齊東街53巷11號<br />02-2391-7536</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ChineseGuqin/</p>
+            <a target="_" href="https://www.facebook.com/ChineseGuqin/">連結</a>
           </td>
           <td>
             <p>成立於2008年12月28日</p>
@@ -3074,7 +3067,7 @@
             <p>0921-307-742</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台灣古琴協會-1600420220287921/</p>
+            <a target="_" href="https://www.facebook.com/台灣古琴協會-1600420220287921/">連結</a>
           </td>
           <td>
             <p>成立於2016年6月19日</p>
@@ -3109,7 +3102,7 @@
             <p>新竹縣竹北市光明六路東一段247號4樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NCKU.ChineseMusic/</p>
+            <a target="_" href="https://www.facebook.com/NCKU.ChineseMusic/">連結</a>
           </td>
           <td>
             <p>成立於2020年7月4日</p>
@@ -3127,7 +3120,7 @@
             <p>澎湖縣馬公市陽明里永安街12巷4號<br />0934-080-267</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/899264610906764</p>
+            <a target="_" href="https://www.facebook.com/groups/899264610906764">連結</a>
           </td>
           <td>
             <p>成立於2021年4月3日</p>
@@ -3196,7 +3189,7 @@
             <p>02-7749-5446</p>
           </td>
           <td>
-            <p>http://www.giem.ntnu.edu.tw/</p>
+            <a target="_" href="http://www.giem.ntnu.edu.tw/">連結</a>
           </td>
           <td>
             <p>成立於2002年8月</p>
@@ -3215,7 +3208,7 @@
             <p>02-2861-0511</p>
           </td>
           <td>
-            <p>https://chinesemusic.pccu.edu.tw</p>
+            <a target="_" href="https://chinesemusic.pccu.edu.tw">連結</a>
           </td>
           <td>
             <p>創立於1969年</p>
@@ -3234,7 +3227,7 @@
             <p>02-2796-2666</p>
           </td>
           <td>
-            <p>http://b013.tcpa.edu.tw/</p>
+            <a target="_" href="http://b013.tcpa.edu.tw/">連結</a>
           </td>
           <td>
             <p>創立於1988年，2006年更名「戲曲音樂學系」。</p>
@@ -3253,7 +3246,7 @@
             <p>02-2896-1000＃3054</p>
           </td>
           <td>
-            <p>https://trd-music.tnua.edu.tw/</p>
+            <a target="_" href="https://trd-music.tnua.edu.tw/">連結</a>
           </td>
           <td>
             <p>創立於1995年</p>
@@ -3272,7 +3265,7 @@
             <p>02-2272-2181＃2531-2533</p>
           </td>
           <td>
-            <p>https://cmusic.ntua.edu.tw/</p>
+            <a target="_" href="https://cmusic.ntua.edu.tw/">連結</a>
           </td>
           <td>
             <p>創立於1971年</p>
@@ -3291,7 +3284,7 @@
             <p>05-272-1001＃2271</p>
           </td>
           <td>
-            <p>http://music2.nhu.edu.tw/</p>
+            <a target="_" href="http://music2.nhu.edu.tw/">連結</a>
           </td>
           <td>
             <p>創立於2001年</p>
@@ -3310,7 +3303,7 @@
             <p>06-693-0100＃2071、2072</p>
           </td>
           <td>
-            <p>http://chinesemusic.tnnua.edu.tw/</p>
+            <a target="_" href="http://chinesemusic.tnnua.edu.tw/">連結</a>
           </td>
           <td>
             <p>創立於1998年</p>

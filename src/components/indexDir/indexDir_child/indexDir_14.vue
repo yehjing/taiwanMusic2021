@@ -28,7 +28,7 @@
             <p>臺北市萬華區莒光路252號<br />02-8809-2990</p>
           </td>
           <td>
-            <p>tsth99@yahoo.com.tw</p>
+            <a href="mailto:tsth99@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>創立於1983年，由簡上仁發起，以維護、發揚臺灣音樂文化為目的。</p>
@@ -44,7 +44,7 @@
             <p>02-2893-3088</p>
           </td>
           <td>
-            <p>https://www.facebook.com/長春花樂團桃花團-1061906727227527/</p>
+            <a target="_" href="https://www.facebook.com/長春花樂團桃花團-1061906727227527/">連結</a>
           </td>
           <td>
             <p>成立於2015年，由臺灣月琴民謠協會的學員所組成。</p>
@@ -63,7 +63,7 @@
             <p>02-2893-3088</p>
           </td>
           <td>
-            <p>http://www.facebook.com/Taiwan.yueqin/</p>
+            <a target="_" href="http://www.facebook.com/Taiwan.yueqin/">連結</a>
           </td>
           <td>
             <p>成立於2009年，由陳明章發起，致力於推廣月琴，期使月琴能繼續被傳承與演奏。</p>
@@ -81,7 +81,7 @@
             <p>0953-883-357</p>
           </td>
           <td>
-            <p>https://www.facebook.com/showking317/</p>
+            <a target="_" href="https://www.facebook.com/showking317/">連結</a>
           </td>
           <td>
             <p>成立於2010年，由重要傳統表演藝術－說唱保存者楊秀卿設立，以推廣、傳承歌仔為宗旨。</p>
@@ -98,7 +98,7 @@
             <p>新北市中和區南工路10巷6號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaiUanLiamKuaBsk2</p>
+            <a target="_" href="https://www.facebook.com/TaiUanLiamKuaBsk2">連結</a>
           </td>
           <td>
             <p>
@@ -118,7 +118,7 @@
             <p>0953-724-857</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -170,8 +170,9 @@
             <p>0978-278-204</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kooiliamkoathoan/</p>
-            <p>pegeoowong@gapp.nthu.edu.tw</p>
+            <p></p>
+            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a><br>
+            <a href="mailto:pegeoowong@gapp.nthu.edu.tw">連結</a>
           </td>
           <td>
             <p>由一群愛好唸歌和傳統音樂的同好所組成。</p>
@@ -186,7 +187,7 @@
             <p>臺南市西港區檨林里13號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/東竹林保安宮牛犁歌陣-285537851940149/</p>
+            <a target="_" href="https://www.facebook.com/東竹林保安宮牛犁歌陣-285537851940149/">連結</a>
           </td>
           <td>
             <p>
@@ -204,7 +205,7 @@
             <p>06-789-3978</p>
           </td>
           <td>
-            <p>https://www.facebook.com/慶善宮牛犁歌陣-1858404771087673</p>
+            <a target="_" href="https://www.facebook.com/慶善宮牛犁歌陣-1858404771087673">連結</a>
           </td>
           <td>
             <p>
@@ -227,7 +228,7 @@
             <p>08-889-3808</p>
           </td>
           <td>
-            <p>c662069@yahoo.com.tw</p>
+            <a href="mailto:c662069@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於1989年，長期致力於傳承、推廣恆春民謠，並努力提升當地住民的文化發展共識。</p>
@@ -246,7 +247,7 @@
             <p>0936-256-889</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ManZhouFolkSong</p>
+            <a target="_" href="https://www.facebook.com/ManZhouFolkSong">連結</a>
           </td>
           <td>
             <p>1981年正式立案成立，首任理事長為鍾明昆，積極對外推廣與傳承滿州民謠。</p>
@@ -274,7 +275,7 @@
             <p>0988-305-003</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Melodysyueqin/</p>
+            <a target="_" href="https://www.facebook.com/Melodysyueqin/">連結</a>
           </td>
           <td>
             <p>唸歌藝人。重要傳統表演藝術－說唱保存者楊秀卿的結業藝生。</p>
@@ -315,7 +316,7 @@
             <p>新北市</p>
           </td>
           <td>
-            <p>https://www.facebook.com/meryem.li.9</p>
+            <a target="_" href="https://www.facebook.com/meryem.li.9">連結</a>
           </td>
           <td>
             <p>
@@ -331,7 +332,7 @@
             <p>新北市</p>
           </td>
           <td>
-            <p>https://www.facebook.com/rachel.chang.102361</p>
+            <a target="_" href="https://www.facebook.com/rachel.chang.102361">連結</a>
           </td>
           <td>
             <p>
@@ -376,7 +377,7 @@
             <p>桃園市龍潭區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/yabunsen</p>
+            <a target="_" href="https://www.facebook.com/yabunsen">連結</a>
           </td>
           <td>
             <p>「台灣唸歌團」團長。1995年起隨洪瑞珍學習月琴與唸歌。</p>
@@ -404,7 +405,7 @@
             <p>臺中市潭子區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -420,7 +421,7 @@
             <p>臺中市</p>
           </td>
           <td>
-            <p>https://www.facebook.com/mickey.chou.129</p>
+            <a target="_" href="https://www.facebook.com/mickey.chou.129">連結</a>
           </td>
           <td>
             <p>
@@ -437,7 +438,7 @@
             <p>0953-724-857</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -467,7 +468,7 @@
             <p>臺南市</p>
           </td>
           <td>
-            <p>apang.chiu@gmail.com</p>
+            <a href="mailto:apang.chiu@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -483,7 +484,7 @@
             <p>臺南市東區</p>
           </td>
           <td>
-            <p>jerry801022@gmail.com</p>
+            <a href="mailto:jerry801022@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -500,7 +501,7 @@
             <p>0978-278-204</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kooiliamkoathoan/</p>
+            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a>
           </td>
           <td>
             <p>古意唸歌團團長</p>
@@ -552,7 +553,7 @@
             <p>屏東縣滿州鄉</p>
           </td>
           <td>
-            <p>ernest0218@gmail.com</p>
+            <a href="mailto:ernest0218@gmail.com">連結</a>
           </td>
           <td>
             <p>1952-，「重要傳統表演藝術－滿州民謠保存者」張日貴的結業藝生。</p>
@@ -566,7 +567,7 @@
             <p>屏東縣恆春鎮</p>
           </td>
           <td>
-            <p>https://reurl.cc/yQj87a</p>
+            <a target="_" href="https://reurl.cc/yQj87a">連結</a>
           </td>
           <td>
             <p>
@@ -594,7 +595,7 @@
             <p>屏東縣恆春鎮</p>
           </td>
           <td>
-            <p>https://reurl.cc/AKerdY</p>
+            <a target="_" href="https://reurl.cc/AKerdY">連結</a>
           </td>
           <td>
             <p>
@@ -610,7 +611,7 @@
             <p>屏東縣車城鄉後灣村</p>
           </td>
           <td>
-            <p>https://reurl.cc/WkZmvD</p>
+            <a target="_" href="https://reurl.cc/WkZmvD">連結</a>
           </td>
           <td>
             <p>
@@ -626,7 +627,7 @@
             <p>屏東縣滿州鄉</p>
           </td>
           <td>
-            <p>https://reurl.cc/vejz6j</p>
+            <a target="_" href="https://reurl.cc/vejz6j">連結</a>
           </td>
           <td>
             <p>
@@ -656,7 +657,7 @@
             <p>宜蘭市</p>
           </td>
           <td>
-            <p>https://reurl.cc/LpzO43</p>
+            <a target="_" href="https://reurl.cc/LpzO43">連結</a>
           </td>
           <td>
             <p>

@@ -30,7 +30,7 @@
             <p>0937-880-367</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/217228464957550/</p>
+            <a target="_" href="https://www.facebook.com/groups/217228464957550/">連結</a>
           </td>
           <td>
             <p>負責人呂光輝亦為南管組組長</p>
@@ -48,7 +48,7 @@
             <p>臺北市大同區迪化街一段21號8、9樓（大稻埕戲苑）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/dadaochen2011/</p>
+            <a target="_" href="https://www.facebook.com/dadaochen2011/">連結</a>
           </td>
           <td>
             <p>上課時間：每週二晚上，報名請洽大稻埕戲苑南管班。</p>
@@ -66,7 +66,7 @@
             <p>02-2557-8239</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NanguanXinXin/</p>
+            <a target="_" href="https://www.facebook.com/NanguanXinXin/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -84,7 +84,7 @@
             <p>02-2577-5518</p>
           </td>
           <td>
-            <p>https://www.facebook.com/中華絃管研究團-328596864328765/</p>
+            <a target="_" href="https://www.facebook.com/中華絃管研究團-328596864328765/">連結</a>
           </td>
           <td>
             <p>週三晚上、週六下午練習。目前以松山社大傳習為主體。</p>
@@ -102,9 +102,7 @@
             <p>02-2556-2964</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/
-            </p>
+            <a target="_" href="https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/">連結</a>
           </td>
           <td>
             <p>成立於1997年，上課時間：每週一、四晚上；拍館時間：每週五。</p>
@@ -125,7 +123,7 @@
             <p>02-2591-1302</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/</p>
+            <a target="_" href="https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/">連結</a>
           </td>
           <td>
             <p>簡稱閩南樂府，拍館時間：每週六晚上。</p>
@@ -147,7 +145,7 @@
             <p>02-2595-0070（聯絡人：翁瓊華）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HuaSiengNanGuan/</p>
+            <a target="_" href="https://www.facebook.com/HuaSiengNanGuan/">連結</a>
           </td>
           <td>
             <p>簡稱華聲社，於1985年創團。</p>
@@ -165,8 +163,8 @@
             <p>臺北市大同區迪化街一段21號（大稻埕戲苑7樓排練教室）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/gangatsui</p>
-            <p>gangatsui@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/gangatsui">連結</a><br>
+            <a href="mailto:gangatsui@gmail.com">連結</a>
           </td>
           <td>
             <p>2017年11月於臺北市重新立案登記</p>
@@ -183,7 +181,7 @@
             <p>臺北市士林區承德路四段177號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/qhnanguan/</p>
+            <a target="_" href="https://www.facebook.com/qhnanguan/">連結</a>
           </td>
           <td>
             <p>成立於2015年</p>
@@ -203,7 +201,7 @@
             <p>臺北市大同區承德路三段297之1號6樓（館址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/南樂貞遠社-101867654679195</p>
+            <a target="_" href="https://www.facebook.com/南樂貞遠社-101867654679195">連結</a>
           </td>
           <td>
             <p>成立於2019年，每週六下午上課，指導老師傅貞儀。</p>
@@ -299,7 +297,7 @@
             <p>新北市淡水區學府路99號（鄧公國小教室）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/danshuinanguan/</p>
+            <a target="_" href="https://www.facebook.com/pg/danshuinanguan/">連結</a>
           </td>
           <td>
             <p>社長李巧芸，2020年起改為自行團練。</p>
@@ -317,7 +315,7 @@
             <p>02-2809-3890</p>
           </td>
           <td>
-            <p>https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/</p>
+            <a target="_" href="https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/">連結</a>
           </td>
           <td>
             <p>為專業演藝團體</p>
@@ -355,7 +353,7 @@
             <p>04-2652-6631</p>
           </td>
           <td>
-            <p>https://www.facebook.com/合和藝苑-579899192117301/</p>
+            <a target="_" href="https://www.facebook.com/合和藝苑-579899192117301/">連結</a>
           </td>
           <td>
             <p>成立於1999年（民88），以傳承南管音樂與七子戲前後場為主。</p>
@@ -378,7 +376,7 @@
             <p>臺中市南區台中路182巷2號（聯絡地址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100002456890010</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100002456890010">連結</a>
           </td>
           <td>
             <p>傳承七子戲前場與南管音樂，除由團長吳炳慧教學之外，亦聘請林吳素霞老師指導。</p>
@@ -412,7 +410,7 @@
             <p>04-2623-2422</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/</p>
+            <a target="_" href="https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/">連結</a>
           </td>
           <td>
             <p>由團長黃珠玲指導團員。週三至週五20:00-22:00練習。</p>
@@ -465,7 +463,7 @@
             <p>臺中市東區旱溪街48號（樂成宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100000501913312</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100000501913312">連結</a>
           </td>
           <td>
             <p>南管音樂</p>
@@ -501,8 +499,8 @@
             <p>04-775-4848</p>
           </td>
           <td>
-            <p>https://www.facebook.com/鹿港永樂絃管南管樂團-104073238115940/</p>
-            <p>ug61837361636@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/鹿港永樂絃管南管樂團-104073238115940/">連結</a><br>
+            <a href="mailto:ug61837361636@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2005年（民94），簡稱永樂絃管，活動少，較常參與遏雲齋活動。</p>
@@ -521,7 +519,7 @@
             <p>04-777-5514</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/618296004968390/</p>
+            <a target="_" href="https://www.facebook.com/groups/618296004968390/">連結</a>
           </td>
           <td>
             <p>簡稱雅正齋</p>
@@ -542,7 +540,7 @@
             <p>04-777-3566（陳逢南）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/</p>
+            <a target="_" href="https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/">連結</a>
           </td>
           <td>
             <p>簡稱遏雲齋</p>
@@ -562,7 +560,7 @@
             <p>04-781-1299</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LKnankuan/</p>
+            <a target="_" href="https://www.facebook.com/LKnankuan/">連結</a>
           </td>
           <td>
             <p>簡稱聚英社</p>
@@ -618,7 +616,7 @@
             <p>彰化縣埔鹽鄉大新路2巷53號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/242022802590204/</p>
+            <a target="_" href="https://www.facebook.com/groups/242022802590204/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -633,7 +631,7 @@
             <p>雲林縣元長鄉元北路32之26號（長北村集會所活動中心）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/大漢閣南管樂團-1843602999005949/&nbsp;</p>
+            <a target="_" href="https://www.facebook.com/大漢閣南管樂團-1843602999005949/">連結</a>
           </td>
           <td>
             <p>每週一晚上練習</p>
@@ -654,7 +652,7 @@
             <p>雲林縣北港鎮文化路214號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/nanguan.fen.ya/</p>
+            <a target="_" href="https://www.facebook.com/nanguan.fen.ya/">連結</a>
           </td>
           <td>
             <p>每週六19:30-21:30活動</p>
@@ -676,7 +674,7 @@
             <p>05-783-4085</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/集斌社-274917685886071/</p>
+            <a target="_" href="https://www.facebook.com/pg/集斌社-274917685886071/">連結</a>
           </td>
           <td>
             <p>初階研習班：週二18:30-21:30，許澤猛老師指導。</p>
@@ -697,7 +695,7 @@
             <p>05-284-3576（沈怡秀團長）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/鳳聲閣-559488677847210/</p>
+            <a target="_" href="https://www.facebook.com/pg/鳳聲閣-559488677847210/">連結</a>
           </td>
           <td>
             <p>嘉義南管研習班，每週五18:00-21:00，蔡清源老師指導。</p>
@@ -715,7 +713,7 @@
             <p>06-263-3929</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tainannanshan/</p>
+            <a target="_" href="https://www.facebook.com/tainannanshan/">連結</a>
           </td>
           <td>
             <p>每週三、六晚上活動。</p>
@@ -757,7 +755,7 @@
             <p>臺南市安定區海寮110號（海寮普陀寺）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/海寮南樂清和社-1555814204633359/</p>
+            <a target="_" href="https://www.facebook.com/海寮南樂清和社-1555814204633359/">連結</a>
           </td>
           <td>
             <p>每週四、五20:00-21:30由資深館員帶領進行練習。配合西港刈香活動。</p>
@@ -778,7 +776,7 @@
             <p>06-228-9473</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TNtsinsingsia/</p>
+            <a target="_" href="https://www.facebook.com/TNtsinsingsia/">連結</a>
             <p>Instagram：臺南振聲社</p>
           </td>
           <td>
@@ -800,7 +798,7 @@
             <p>06-262-2462</p>
           </td>
           <td>
-            <p>https://www.facebook.com/喜聲社-664447443654571/</p>
+            <a target="_" href="https://www.facebook.com/喜聲社-664447443654571/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -816,7 +814,7 @@
             <p>06-262-0536</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Wanli.Lamim/</p>
+            <a target="_" href="https://www.facebook.com/Wanli.Lamim/">連結</a>
           </td>
           <td>
             <p>每週一、二、五晚上活動。</p>
@@ -866,7 +864,7 @@
             <p>高雄市茄萣區港東街111號（茄萣金鑾宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/225183657584348/</p>
+            <a target="_" href="https://www.facebook.com/groups/225183657584348/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -882,7 +880,7 @@
             <p>07-690-4226</p>
           </td>
           <td>
-            <p>https://www.facebook.com/QiedingNanguan</p>
+            <a target="_" href="https://www.facebook.com/QiedingNanguan">連結</a>
           </td>
           <td>
             <p>負責人為爐主制，2年1換。</p>
@@ -942,7 +940,7 @@
             <p>07-351-4719</p>
           </td>
           <td>
-            <p>https://www.facebook.com/GuangYiNanYue/</p>
+            <a target="_" href="https://www.facebook.com/GuangYiNanYue/">連結</a>
           </td>
           <td>
             <p>每週四晚上活動，並配合廟務出陣。</p>
@@ -959,7 +957,7 @@
             <p>臺東縣臺東市博愛路421號2樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/139815092737543/</p>
+            <a target="_" href="https://www.facebook.com/groups/139815092737543/">連結</a>
           </td>
           <td>
             <p>每週六下午活動</p>
@@ -1040,8 +1038,8 @@
             <p>金門縣金城鎮民族路261號（金城體育館看臺下教室，團練地址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/176691215689013/</p>
-            <p>jyps@mail.com.edu.tw</p>
+            <a target="_" href="https://www.facebook.com/groups/176691215689013/">連結</a><br>
+            <a href="mailto:jyps@mail.com.edu.tw">連結</a>
           </td>
           <td>
             <p>簡稱金門樂府，約有17人，團練週二、四、六19:30-21:30。</p>
@@ -1077,7 +1075,7 @@
             <p>082-364-218</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/341640913150301/</p>
+            <a target="_" href="https://www.facebook.com/groups/341640913150301/">連結</a>
           </td>
           <td>
             <p>目前無聘請老師指導，自行練習。</p>
@@ -1096,7 +1094,7 @@
             <p>06-927-6602（傳真）</p>
           </td>
           <td>
-            <p>geosu5438@yahoo.com.tw</p>
+            <a href="mailto:geosu5438@yahoo.com.tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1142,7 +1140,7 @@
             <p>06-723-5963</p>
           </td>
           <td>
-            <p>https://www.facebook.com/bunbulongkun/</p>
+            <a target="_" href="https://www.facebook.com/bunbulongkun/">連結</a>
           </td>
           <td>
             <p>配合西港刈香活動</p>
@@ -1160,7 +1158,7 @@
             <p>06-255-2762</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/KTLTPK/</p>
+            <a target="_" href="https://www.facebook.com/pg/KTLTPK/">連結</a>
           </td>
           <td>
             <p>配合西港刈香活動</p>
@@ -1178,7 +1176,7 @@
             <p>06-787-2024</p>
           </td>
           <td>
-            <p>https://www.facebook.com/永吉吉安宮天子門生-306785639382578/</p>
+            <a target="_" href="https://www.facebook.com/永吉吉安宮天子門生-306785639382578/">連結</a>
           </td>
           <td>
             <p>配合西港刈香活動</p>
@@ -1210,7 +1208,7 @@
             <p>06-571-8909</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/集英社太平清歌-579225785604662/</p>
+            <a target="_" href="https://www.facebook.com/pg/集英社太平清歌-579225785604662/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1226,7 +1224,7 @@
             <p>06-787-3775</p>
           </td>
           <td>
-            <p>https://www.facebook.com/港墘太平歌團天子門生陣-1749207195291500/</p>
+            <a target="_" href="https://www.facebook.com/港墘太平歌團天子門生陣-1749207195291500/">連結</a>
           </td>
           <td>
             <p>配合西港刈香活動</p>
@@ -1258,7 +1256,7 @@
             <p>07-667-4427</p>
           </td>
           <td>
-            <p>https://www.facebook.com/內門紫竹寺番仔路和樂軒太平歌-1677233442301092/</p>
+            <a target="_" href="https://www.facebook.com/內門紫竹寺番仔路和樂軒太平歌-1677233442301092/">連結</a>
           </td>
           <td>
             <p>配合內門迎佛祖活動</p>
@@ -1276,7 +1274,7 @@
             <p>07-690-2948</p>
           </td>
           <td>
-            <p>https://www.facebook.com/茄萣金鑾宮天子文生-476038909159612/</p>
+            <a target="_" href="https://www.facebook.com/茄萣金鑾宮天子文生-476038909159612/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1291,7 +1289,7 @@
             <p>高雄市茄萣區賜福宮四館</p>
           </td>
           <td>
-            <p>https://www.facebook.com/頂茄萣賜福宮和音社-941524995947236/</p>
+            <a target="_" href="https://www.facebook.com/頂茄萣賜福宮和音社-941524995947236/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>

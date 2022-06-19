@@ -43,7 +43,7 @@
             <p>03-864-2290</p>
           </td>
           <td>
-            <p>https://www.facebook.com/fasdtdance</p>
+            <a target="_" href="https://www.facebook.com/fasdtdance">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -59,7 +59,7 @@
             <p>0935-819-358</p>
           </td>
           <td>
-            <p>https://reurl.cc/K6DGQm</p>
+            <a target="_" href="https://reurl.cc/K6DGQm">連結</a>
           </td>
           <td>
             <p>成立於1997年，長期推廣馬蘭阿美族傳統音樂文化。</p>
@@ -77,7 +77,7 @@
             <p>0935-819-358</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺東縣阿美族學學會-720085445047793/</p>
+            <a target="_" href="https://www.facebook.com/臺東縣阿美族學學會-720085445047793/">連結</a>
           </td>
           <td>
             <p>2017年成立</p>
@@ -95,7 +95,7 @@
             <p>0932-664-034</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Sawtoy/</p>
+            <a target="_" href="https://www.facebook.com/Sawtoy/">連結</a>
           </td>
           <td>
             <p>
@@ -114,8 +114,7 @@
             <p>0972-770-597</p>
           </td>
           <td>
-            <p>https://reurl.cc/W4Wndx</p>
-          </td>
+            <a target="_" href="https://reurl.cc/W4Wndx">連結</a>
           <td>
             <p>
               由馬蘭部落青年召集年輕人和耆老們學習阿美族特有的複音音樂，並分享給眾人這份獨特的音樂。
@@ -149,7 +148,7 @@
             <p>02-2647-8856</p>
           </td>
           <td>
-            <p>https://reurl.cc/1QpZ7Y</p>
+            <a target="_" href="https://reurl.cc/1QpZ7Y">連結</a>
           </td>
           <td>
             <p>透過歌聲和舞蹈將原住民文化傳達到世界上每個角落。</p>
@@ -212,7 +211,7 @@
             <p>03-585-6437</p>
           </td>
           <td>
-            <p>https://tses.hcc.edu.tw</p>
+            <a target="_" href="https://tses.hcc.edu.tw">連結</a>
           </td>
           <td>
             <p>今年獲頒教育部藝術教育貢獻「績優學校獎」，以泰雅文化之美為主軸發展原聲合唱。</p>
@@ -229,8 +228,8 @@
             <p>0928-185-207</p>
           </td>
           <td>
-            <p>https://www.facebook.com/JOJUN0219</p>
-            <p>n901304005@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/JOJUN0219">連結</a><br>
+            <a href="mailto:n901304005@gmail.com">連結</a>
           </td>
           <td>
             <p>泰雅族青年組合的樂團，擅長各種大小活動、控場、帶氣氛。</p>
@@ -265,7 +264,7 @@
             <p>04-2594-3191</p>
           </td>
           <td>
-            <p>http://tayal-myu.com/</p>
+            <a target="_" href="http://tayal-myu.com/">連結</a>
           </td>
           <td>
             <p>
@@ -283,8 +282,8 @@
             <p>0939-288-109</p>
           </td>
           <td>
-            <p>https://www.facebook.com/原舞曲文化藝術團-282057891632/</p>
-            <p>chjupi@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/原舞曲文化藝術團-282057891632/">連結</a><br>
+            <a href="mailto:chjupi@gmail.com">連結</a>
           </td>
           <td>
             <p>非純粹泰雅族舞團</p>
@@ -302,7 +301,7 @@
             <p>南投縣埔里鎮北梅里梅子路41-11號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/PuliShueishalian</p>
+            <a target="_" href="https://www.facebook.com/PuliShueishalian">連結</a>
           </td>
           <td>
             <p>非純粹泰雅族群舞團</p>
@@ -320,7 +319,7 @@
             <p>0958-380-224</p>
           </td>
           <td>
-            <p>acer380224@yahoo.com.tw</p>
+            <a href="mailto:acer380224@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>結合泰雅族樂器與吟唱，舞蹈以改編自泰雅族傳統舞步為主，招收不同的部族團員。</p>
@@ -339,7 +338,7 @@
             <p>04-9231-6387</p>
           </td>
           <td>
-            <p>music@chin-ai.org.tw</p>
+            <a href="mailto:music@chin-ai.org.tw">連結</a>
           </td>
           <td>
             <p>
@@ -390,8 +389,8 @@
             <p>03-9801559（門諾漾文化推展協會）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/mnoyanlokah/</p>
-            <p>ch.roro1211@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/mnoyanlokah/">連結</a><br>
+            <a href="mailto:ch.roro1211@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -423,7 +422,7 @@
             <p>臺東縣金峰鄉嘉蘭部落</p>
           </td>
           <td>
-            <p>vjdust@gmail.com</p>
+            <a href="mailto:vjdust@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -441,7 +440,7 @@
             <p>屏東縣瑪家鄉</p>
           </td>
           <td>
-            <p>https://www.facebook.com/PuzangalanChoir/</p>
+            <a target="_" href="https://www.facebook.com/PuzangalanChoir/">連結</a>
           </td>
           <td>
             <p>2012年5月/德勒斯登兒童合唱節</p>
@@ -459,7 +458,7 @@
             <p>屏東縣牡丹鄉東源村</p>
           </td>
           <td>
-            <p>https://www.facebook.com/sauniaw</p>
+            <a target="_" href="https://www.facebook.com/sauniaw">連結</a>
           </td>
           <td>
             <p>
@@ -479,7 +478,7 @@
             <p>0919-331-143</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Percussion17498833</p>
+            <a target="_" href="https://www.facebook.com/Percussion17498833">連結</a>
           </td>
           <td>
             <p>
@@ -498,7 +497,7 @@
             <p>屏東縣泰武鄉</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaiwuAncientBalladsTroupe/</p>
+            <a target="_" href="https://www.facebook.com/TaiwuAncientBalladsTroupe/">連結</a>
           </td>
           <td>
             <p>第二十三屆金曲獎「最佳傳統音樂詮釋獎」、第二十五屆金曲獎「最佳原住民語專輯獎」。</p>
@@ -516,7 +515,7 @@
             <p>0963-693-242</p>
           </td>
           <td>
-            <p>https://www.facebook.com/vasakacedas/</p>
+            <a target="_" href="https://www.facebook.com/vasakacedas/">連結</a>
           </td>
           <td>
             <p>來自臺東縣金崙村賓茂國中，希望藉由東排灣族的傳統歌謠樂舞，展現自我。</p>
@@ -579,7 +578,7 @@
             <p>04-9279-2800</p>
           </td>
           <td>
-            <p>http://sixstar.moc.gov</p>
+            <a target="_" href="http://sixstar.moc.gov">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -595,7 +594,7 @@
             <p>04-9279-2800</p>
           </td>
           <td>
-            <p>http://sixstar.moc.gov.tw/blog/shinibunun</p>
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun">連結</a>
           </td>
           <td>
             <p>1999年成立，為國家級重要傳統藝術保存團體，練習時間：每週一19:30-21:00。</p>
@@ -626,7 +625,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://voxnativausa.org</p>
+            <a target="_" href="https://voxnativausa.org">連結</a>
           </td>
           <td>
             <p>成立於2008年，布農族演出團體。</p>
@@ -659,7 +658,7 @@
             <p>0905-558-088</p>
           </td>
           <td>
-            <p>https://www.facebook.com/小芳家族-1712064369093367/</p>
+            <a target="_" href="https://www.facebook.com/小芳家族-1712064369093367/">連結</a>
           </td>
           <td>
             <p>布農族演出團體</p>
@@ -706,7 +705,7 @@
             <p>0928-875-355</p>
           </td>
           <td>
-            <p>kezo888@gmail.com</p>
+            <a href="mailto:kezo888@gmail.com">連結</a>
           </td>
           <td>
             <p>來自臺東卑南南王普悠瑪部落，成立於1991年，以樂舞做為力振部落傳統文化的重要媒介。</p>
@@ -788,7 +787,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://reurl.cc/q89oRn</p>
+            <a target="_" href="https://reurl.cc/q89oRn">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -814,7 +813,7 @@
             <p>0972-338-504</p>
           </td>
           <td>
-            <p>y83275@gmail.com</p>
+            <a href="mailto:y83275@gmail.com">連結</a>
           </td>
           <td>
             <p>成員來自各個不同的卑南族部落，透過跟耆老學習古謠，不斷的累積歌謠及文化的底蘊。</p>
@@ -845,7 +844,7 @@
             <p>07-680-1043</p>
           </td>
           <td>
-            <p>https://www.facebook.com/MLES076801043/</p>
+            <a target="_" href="https://www.facebook.com/MLES076801043/">連結</a>
           </td>
           <td>
             <p>
@@ -863,7 +862,7 @@
             <p>08-796-1997</p>
           </td>
           <td>
-            <p>https://www.facebook.com/屏東縣青葉國小-117291993003600/</p>
+            <a target="_" href="https://www.facebook.com/屏東縣青葉國小-117291993003600/">連結</a>
           </td>
           <td>
             <p>
@@ -896,7 +895,7 @@
             <p>05-251-1982</p>
           </td>
           <td>
-            <p>https://www.facebook.com/cou.culture.center/</p>
+            <a target="_" href="https://www.facebook.com/cou.culture.center/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -915,7 +914,7 @@
             <p>0937-476-115</p>
           </td>
           <td>
-            <p>hosa520@gmail.com</p>
+            <a href="mailto:hosa520@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -985,7 +984,7 @@
             <p>03-890-5752</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NDHUCISDT/</p>
+            <a target="_" href="https://www.facebook.com/NDHUCISDT/">連結</a>
           </td>
           <td>
             <p>
@@ -1005,7 +1004,7 @@
             <p>0976-300-852</p>
           </td>
           <td>
-            <p>https://www.facebook.com/yupasuengi</p>
+            <a target="_" href="https://www.facebook.com/yupasuengi">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1019,7 +1018,7 @@
             <p>08-799-4920</p>
           </td>
           <td>
-            <p>https://www.tacp.gov.tw/</p>
+            <a target="_" href="https://www.tacp.gov.tw/">連結</a>
           </td>
           <td>
             <p>成立於1990年初春，係臺灣原住民族文化園區常年駐園演出之團隊。</p>
@@ -1034,7 +1033,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/TsouFolkBalladChoirOfLaiji</p>
+            <a target="_" href="https://www.facebook.com/TsouFolkBalladChoirOfLaiji">連結</a>
           </td>
           <td>
             <p>
@@ -1051,7 +1050,7 @@
             <p>0960-920-001</p>
           </td>
           <td>
-            <p>https://www.facebook.com/am.fangnaan</p>
+            <a target="_" href="https://www.facebook.com/am.fangnaan">連結</a>
           </td>
           <td>
             <p>2018年發行第一張專輯「故鄉」，團員由山美部落4個愛唱歌的鄒族女孩組成。</p>
@@ -1098,7 +1097,7 @@
             <p>03-782-3385</p>
           </td>
           <td>
-            <p>https://www.penla.mlc.edu.tw/</p>
+            <a target="_" href="https://www.penla.mlc.edu.tw/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1126,7 +1125,7 @@
             <p>03-782-2439</p>
           </td>
           <td>
-            <p>https://www.facebook.com/saywalosaysiyat/?ref=page_internal</p>
+            <a target="_" href="https://www.facebook.com/saywalosaysiyat/?ref=page_internal">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1157,7 +1156,7 @@
             <p>08-973-2073</p>
           </td>
           <td>
-            <p>http://www.lanan.org.tw/</p>
+            <a target="_" href="http://www.lanan.org.tw/">連結</a>
           </td>
           <td>
             <p>
@@ -1210,7 +1209,7 @@
             <p>04-9285-0036</p>
           </td>
           <td>
-            <p>https://reurl.cc/pW3O3e</p>
+            <a target="_" href="https://reurl.cc/pW3O3e">連結</a>
           </td>
           <td>
             <p>
@@ -1231,7 +1230,7 @@
             <p>04-9285-0036</p>
           </td>
           <td>
-            <p>https://reurl.cc/qOVQVp</p>
+            <a target="_" href="https://reurl.cc/qOVQVp">連結</a>
           </td>
           <td>
             <p>邵族演出團體</p>
@@ -1280,7 +1279,7 @@
             <p>03-879-1306</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kudisdamu/</p>
+            <a target="_" href="https://www.facebook.com/kudisdamu/">連結</a>
           </td>
           <td>
             <p>每週六、日常態練習。</p>
@@ -1313,7 +1312,7 @@
             <p>0972-892-209</p>
           </td>
           <td>
-            <p><a href="mailto:chenlinjo@gmail.com">chenlinjo@gmail.com</a></p>
+            <a href="mailto:chenlinjo@gmail.com">連結</a>
           </td>
           <td>
             <p>太魯閣族演出團體，成立於2004年。</p>
@@ -1328,7 +1327,7 @@
             <p>0981-016-207</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/LabagaTaru/about/</p>
+            <a target="_" href="https://www.facebook.com/pg/LabagaTaru/about/">連結</a>
           </td>
           <td>
             <p>太魯閣族演出歌手，2018年發表首張專輯《獵首笛》。</p>
@@ -1346,7 +1345,7 @@
             <p>0981-016-207</p>
           </td>
           <td>
-            <p>https://www.facebook.com/魯夿旮音樂有限公司-Rubaga-Music-101943177887753/</p>
+            <a target="_" href="https://www.facebook.com/魯夿旮音樂有限公司-Rubaga-Music-101943177887753/">連結</a>
           </td>
           <td>
             <p>
@@ -1365,7 +1364,7 @@
             <p>0932-656-172</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/287998897985246/</p>
+            <a target="_" href="https://www.facebook.com/groups/287998897985246/">連結</a>
           </td>
           <td>
             <p>
@@ -1384,7 +1383,7 @@
             <p>0967-019-611</p>
           </td>
           <td>
-            <p>https://www.facebook.com/elug.tw/</p>
+            <a target="_" href="https://www.facebook.com/elug.tw/">連結</a>
           </td>
           <td>
             <p>
@@ -1404,7 +1403,7 @@
             <p>03-862-1033</p>
           </td>
           <td>
-            <p>https://www.facebook.com/花蓮縣秀林鄉達基力文化藝術協會-106393438065754/</p>
+            <a target="_" href="https://www.facebook.com/花蓮縣秀林鄉達基力文化藝術協會-106393438065754/">連結</a>
           </td>
           <td>
             <p>
@@ -1423,7 +1422,7 @@
             <p>03-857-9781＃33</p>
           </td>
           <td>
-            <p>http://teacher.hlc.edu.tw/iindex.asp?id=1273</p>
+            <a target="_" href="http://teacher.hlc.edu.tw/iindex.asp?id=1273">連結</a>
           </td>
           <td>
             <p>
@@ -1440,8 +1439,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/KTS.C.H.C.S/</p>
-            <p>kts85192514@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/KTS.C.H.C.S/">連結</a><br>
+            <a href="mailto:kts85192514@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -1531,7 +1530,7 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/原住民祖蔀樂舞集-244205526385720/</p>
+            <a target="_" href="https://www.facebook.com/原住民祖蔀樂舞集-244205526385720/">連結</a>
           </td>
           <td>
             <p>由一群撒奇萊雅的孩子及東部阿美族青年所組成，致力於傳承屬於自己的文化。</p>
@@ -1564,7 +1563,7 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <p>https://www.facebook.com/gluban.theater/</p>
+            <a target="_" href="https://www.facebook.com/gluban.theater/">連結</a>
           </td>
           <td>
             <p>成立於2014年4月26日</p>
@@ -1582,7 +1581,7 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <p>https://www.facebook.com/mahung.house2016</p>
+            <a target="_" href="https://www.facebook.com/mahung.house2016">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1598,7 +1597,7 @@
             <p>0987-214-213</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pusu.asd/</p>
+            <a target="_" href="https://www.facebook.com/pusu.asd/">連結</a>
           </td>
           <td>
             <p>每週六、日常態練習。</p>
@@ -1613,7 +1612,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/</p>
+            <a target="_" href="https://www.facebook.com/%賽德克巴蘭社青年舞團-620278148011079/">連結</a>
           </td>
           <td>
             <p>成立於2011年，每週五、六晚間常態練習。</p>
@@ -1662,7 +1661,7 @@
             <p>高雄市桃源區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/高雄市拉阿魯哇文教協進會-837366779715696</p>
+            <a target="_" href="https://www.facebook.com/高雄市拉阿魯哇文教協進會-837366779715696">連結</a>
           </td>
           <td>
             <p>致力於拉阿魯哇族相關文化教育工作</p>
@@ -1692,7 +1691,7 @@
             <p>高雄市那瑪夏區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/卡那卡那富族青年會-Kanakanavu-nanmaruan-101205761887820/</p>
+            <a target="_" href="https://www.facebook.com/卡那卡那富族青年會-Kanakanavu-nanmaruan-101205761887820/">連結</a>
           </td>
           <td>
             <p>於2021年成立，主要傳承卡那卡那富族祭儀及文化。</p>
@@ -1722,7 +1721,7 @@
             <p>高雄市杉林區忠義路1號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/SiaolinTaivoan</p>
+            <a target="_" href="https://www.facebook.com/SiaolinTaivoan">連結</a>
           </td>
           <td>
             <p>
@@ -1742,7 +1741,7 @@
             <p>07-688-3061</p>
           </td>
           <td>
-            <p>https://www.facebook.com/laulong88</p>
+            <a target="_" href="https://www.facebook.com/laulong88">連結</a>
           </td>
           <td>
             <p>
@@ -1777,7 +1776,7 @@
             <p>0982-992-519</p>
           </td>
           <td>
-            <p>garabomakatao@gmail.com</p>
+            <a href="mailto:garabomakatao@gmail.com">連結</a>
           </td>
           <td>
             <p>
@@ -1811,7 +1810,7 @@
             <p>臺南市新化區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/OniniSingers/</p>
+            <a target="_" href="https://www.facebook.com/OniniSingers/">連結</a>
           </td>
           <td>
             <p>
@@ -1831,7 +1830,7 @@
             <p>06-723-8661</p>
           </td>
           <td>
-            <p>m3211200@ms69.hinet.net</p>
+            <a href="mailto:m3211200@ms69.hinet.net">連結</a>
           </td>
           <td>
             <p>
@@ -1866,7 +1865,7 @@
             <p>04-2622-2596</p>
           </td>
           <td>
-            <p>http://sixstar.moc.gov.tw/blog/gomach</p>
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/gomach">連結</a>
           </td>
           <td>
             <p>
@@ -1898,7 +1897,7 @@
             <p>南投縣埔里鎮牛眠山、守城份、大湳、蜈蚣崙（合稱四庄）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kaxabu/</p>
+            <a target="_" href="https://www.facebook.com/kaxabu/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>

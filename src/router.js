@@ -87,8 +87,8 @@ import IndexDir_19 from '@/components/indexDir/indexDir_child/indexDir_19';
 import IndexDir_20 from '@/components/indexDir/indexDir_child/indexDir_20';
 import IndexDir_21 from '@/components/indexDir/indexDir_child/indexDir_21';
 import IndexDir_22 from '@/components/indexDir/indexDir_child/indexDir_22';
-import IndexDir_23 from '@/components/indexDir/indexDir_child/indexDir_23';
-import IndexDir_24 from '@/components/indexDir/indexDir_child/indexDir_24';
+// import IndexDir_23 from '@/components/indexDir/indexDir_child/indexDir_23';
+// import IndexDir_24 from '@/components/indexDir/indexDir_child/indexDir_24';
 // download
 import Download from '@/components/download';
 import Download_1 from '@/components/download/download_child/download_1';
@@ -434,11 +434,11 @@ export default new VueRouter({
           path: 'indexDir_18',
           component: IndexDir_18,
         },
-        {
-          name: '團體及個人名錄 / 釋奠樂篇',
-          path: 'indexDir_23',
-          component: IndexDir_23,
-        },
+        // {
+        //   name: '團體及個人名錄 / 釋奠樂篇',
+        //   path: 'indexDir_23',
+        //   component: IndexDir_23,
+        // },
         {
           name: '團體及個人名錄 / 國樂篇',
           path: 'indexDir_19',
@@ -494,11 +494,11 @@ export default new VueRouter({
           path: 'indexDir_7',
           component: IndexDir_7,
         },
-        {
-          name: '重要音樂活動一覽表 / 釋奠樂篇',
-          path: 'indexDir_24',
-          component: IndexDir_24,
-        },
+        // {
+        //   name: '重要音樂活動一覽表 / 釋奠樂篇',
+        //   path: 'indexDir_24',
+        //   component: IndexDir_24,
+        // },
         {
           name: '重要音樂活動一覽表 / 國樂篇',
           path: 'indexDir_8',

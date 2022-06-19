@@ -26,7 +26,7 @@ import IndexDir8 from './indexDir_8.vue';
 import IndexDir9 from './indexDir_9.vue';
 import IndexDir10 from './indexDir_10.vue';
 import IndexDir11 from './indexDir_11.vue';
-import IndexDir24 from './indexDir_24.vue';
+// import IndexDir24 from './indexDir_24.vue';
 
 import img1 from './../../../assets/videoTitle/1.jpg';
 import img2 from './../../../assets/videoTitle/2.jpg';
@@ -97,13 +97,13 @@ const tabs = [
     path: 'indexDir_7',
     img: img10
   },
-  {
-    name: '釋奠樂篇',
-    autor: '',
-    component: IndexDir24,
-    path: 'indexDir_24',
-    img: img15
-  },
+  // {
+  //   name: '釋奠樂篇',
+  //   autor: '',
+  //   component: IndexDir24,
+  //   path: 'indexDir_24',
+  //   img: img15
+  // },
   {
     name: '國樂篇',
     autor: '',

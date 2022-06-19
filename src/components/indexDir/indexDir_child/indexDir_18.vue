@@ -28,7 +28,7 @@
             <p>02-2423-6469</p>
           </td>
           <td>
-            <p>https://www.facebook.com/臺灣丹心弘道會-廣遠道壇-110201233925338</p>
+            <a target="_" href="https://www.facebook.com/臺灣丹心弘道會-廣遠道壇-110201233925338">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -44,7 +44,7 @@
             <p>0988-343-439</p>
           </td>
           <td>
-            <p>https://www.facebook.com/religion711</p>
+            <a target="_" href="https://www.facebook.com/religion711">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -60,7 +60,7 @@
             <p>02-2984-8357</p>
           </td>
           <td>
-            <p>https://www.facebook.com/三重正統雷晉壇-714727328549059</p>
+            <a target="_" href="https://www.facebook.com/三重正統雷晉壇-714727328549059">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -76,7 +76,7 @@
             <p>02-2249-8454</p>
           </td>
           <td>
-            <p>https://www.facebook.com/AAA22498454</p>
+            <a target="_" href="https://www.facebook.com/AAA22498454">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -91,7 +91,7 @@
             <p>新北市樹林區千歲街70巷1弄18號1樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/樹林-雷晉壇-1656915627906171</p>
+            <a target="_" href="https://www.facebook.com/樹林-雷晉壇-1656915627906171">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -134,7 +134,7 @@
             <p>0938-870-128</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NANCHUANMINGFA</p>
+            <a target="_" href="https://www.facebook.com/NANCHUANMINGFA">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -150,7 +150,7 @@
             <p>0932-085-200</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Miaoyingaltar</p>
+            <a target="_" href="https://www.facebook.com/Miaoyingaltar">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -166,8 +166,7 @@
             <p>0931-263-199</p>
           </td>
           <td>
-            <p>https://www.facebook.com/清微法壇</p>
-            <p>-100135195721146</p>
+            <a target="_" href="https://www.facebook.com/清微法壇-100135195721146">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -182,8 +181,7 @@
             <p>新竹市東區竹蓮街173巷2號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/新竹通靈壇</p>
-            <p>-225235875036594</p>
+            <a target="_" href="https://www.facebook.com/新竹通靈壇-225235875036594">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -199,7 +197,7 @@
             <p>0920-559-219</p>
           </td>
           <td>
-            <p>https://www.facebook.com/後龍-普玄壇祖壇-101710921381121</p>
+            <a target="_" href="https://www.facebook.com/後龍-普玄壇祖壇-101710921381121">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -215,7 +213,7 @@
             <p>04-777-2454</p>
           </td>
           <td>
-            <p>https://www.facebook.com/BaoZhenTan</p>
+            <a target="_" href="https://www.facebook.com/BaoZhenTan">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -231,7 +229,7 @@
             <p>04-823-1631</p>
           </td>
           <td>
-            <p>https://www.facebook.com/cihde999</p>
+            <a target="_" href="https://www.facebook.com/cihde999">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -261,7 +259,7 @@
             <p>04-9264-3871</p>
           </td>
           <td>
-            <p>https://www.facebook.com/stoneace</p>
+            <a target="_" href="https://www.facebook.com/stoneace">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -277,7 +275,7 @@
             <p>0975-049-068</p>
           </td>
           <td>
-            <p>https://www.facebook.com/草屯-廣法雷壇-263854803816496</p>
+            <a target="_" href="https://www.facebook.com/草屯-廣法雷壇-263854803816496">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -377,8 +375,7 @@
             <p>06-789-1234</p>
           </td>
           <td>
-            <p>https://www.facebook.com/混玄壇林清隆道長</p>
-            <p>-196580167351735</p>
+            <a target="_" href="https://www.facebook.com/混玄壇林清隆道長-196580167351735">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -408,8 +405,7 @@
             <p>06-581-7936</p>
           </td>
           <td>
-            <p>https://www.facebook.com/善化道壇</p>
-            <p>-565091573509602</p>
+            <a target="_" href="https://www.facebook.com/善化道壇-565091573509602">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -425,7 +421,7 @@
             <p>0989-528-900</p>
           </td>
           <td>
-            <p>https://www.facebook.com/MingJieDaoistAltar</p>
+            <a target="_" href="https://www.facebook.com/MingJieDaoistAltar">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -441,7 +437,7 @@
             <p>06-5955-678</p>
           </td>
           <td>
-            <p>https://www.facebook.com/泓銘道壇-241916179294897/</p>
+            <a target="_" href="https://www.facebook.com/泓銘道壇-241916179294897/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -472,7 +468,7 @@
             <p>0906-979-070</p>
           </td>
           <td>
-            <p>https://www.facebook.com/白砂崙道壇-法天成真靖三界混元壇-1979367585693248</p>
+            <a target="_" href="https://www.facebook.com/白砂崙道壇-法天成真靖三界混元壇-1979367585693248">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -501,9 +497,7 @@
             <p>0929-108-399</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/潮州百年老道壇-正一玄妙道士雷壇妙善生命禮儀-448977478512347
-            </p>
+            <a target="_" href="https://www.facebook.com/潮州百年老道壇-正一玄妙道士雷壇妙善生命禮儀-448977478512347">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -519,7 +513,7 @@
             <p>03-978-9777</p>
           </td>
           <td>
-            <p>https://www.facebook.com/頭城盛元壇-238484079561263</p>
+            <a target="_" href="https://www.facebook.com/頭城盛元壇-238484079561263">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -535,7 +529,7 @@
             <p>03-988-2334</p>
           </td>
           <td>
-            <p>https://www.facebook.com/礁溪威真壇-108421535086308</p>
+            <a target="_" href="https://www.facebook.com/礁溪威真壇-108421535086308">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -617,7 +611,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100043439090571</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100043439090571">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -630,7 +624,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100014706406292</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100014706406292">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>

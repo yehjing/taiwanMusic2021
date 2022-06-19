@@ -47,7 +47,7 @@
             <p>02-2465-3191</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LingChuanNo1/</p>
+            <a target="_" href="https://www.facebook.com/LingChuanNo1/">連結</a>
           </td>
           <td>
             <p>1900年創建，1903年命名靈泉寺。1907年善慧法師任住持，大力弘法興學。</p>
@@ -66,7 +66,7 @@
             <p>02-2321-9425</p>
           </td>
           <td>
-            <p>https://reurl.cc/X4KyWa/</p>
+            <a target="_" href="https://reurl.cc/X4KyWa/">連結</a>
           </td>
           <td>
             <p>1911年創建</p>
@@ -85,7 +85,7 @@
             <p>02-2712-1177</p>
           </td>
           <td>
-            <p>http://pmt.fgs.org.tw/</p>
+            <a target="_" href="http://pmt.fgs.org.tw/">連結</a>
           </td>
           <td>
             <p>1974年創建</p>
@@ -104,7 +104,7 @@
             <p>02-2762-0112</p>
           </td>
           <td>
-            <p>https://www.fgs.org.tw/tpevihara/</p>
+            <a target="_" href="https://www.fgs.org.tw/tpevihara/">連結</a>
           </td>
           <td>
             <p>1994年創建</p>
@@ -123,7 +123,7 @@
             <p>02-2341-5758</p>
           </td>
           <td>
-            <p>https://www.shandaotemple.org.tw/</p>
+            <a target="_" href="https://www.shandaotemple.org.tw/">連結</a>
           </td>
           <td>
             <p>1929年創建</p>
@@ -142,7 +142,7 @@
             <p>02-2891-6762</p>
           </td>
           <td>
-            <p>https://reurl.cc/MbKV34</p>
+            <a target="_" href="https://reurl.cc/MbKV34">連結</a>
           </td>
           <td>
             <p>1905年創建，名大山寺，屬齋教道場。1947年妙湛法師住持道場，1949年更名法雨寺。</p>
@@ -161,7 +161,7 @@
             <p>02-2893-3161</p>
           </td>
           <td>
-            <p>https://ncm.ddm.org.tw/</p>
+            <a target="_" href="https://ncm.ddm.org.tw/">連結</a>
           </td>
           <td>
             <p>1975年由東初老和尚創建</p>
@@ -197,7 +197,7 @@
             <p>02-2810-0237</p>
           </td>
           <td>
-            <p>https://globaldiza.blogspot.com/</p>
+            <a target="_" href="https://globaldiza.blogspot.com/">連結</a>
           </td>
           <td>
             <p>1962年創建</p>
@@ -216,7 +216,7 @@
             <p>02-2594-8308</p>
           </td>
           <td>
-            <p>https://www.linchitemple.com/</p>
+            <a target="_" href="https://www.linchitemple.com/">連結</a>
           </td>
           <td>
             <p>
@@ -237,7 +237,7 @@
             <p>02-2365-4734</p>
           </td>
           <td>
-            <p>https://reurl.cc/8Wx8bg</p>
+            <a target="_" href="https://reurl.cc/8Wx8bg">連結</a>
           </td>
           <td>
             <p>
@@ -257,7 +257,7 @@
             <p>02-2351-7887</p>
           </td>
           <td>
-            <p>http://www.dongher.org.tw/</p>
+            <a target="_" href="http://www.dongher.org.tw/">連結</a>
           </td>
           <td>
             <p>1908年創建</p>
@@ -276,7 +276,7 @@
             <p>02-2498-7171</p>
           </td>
           <td>
-            <p>https://www.ddm.org.tw/</p>
+            <a target="_" href="https://www.ddm.org.tw/">連結</a>
           </td>
           <td>
             <p>由聖嚴法師創立，2005年10月21日開山。</p>
@@ -295,7 +295,7 @@
             <p>02-2267-1789</p>
           </td>
           <td>
-            <p>https://www.ctbm.org.tw/</p>
+            <a target="_" href="https://www.ctbm.org.tw/">連結</a>
           </td>
           <td>
             <p>1955年創建</p>
@@ -314,7 +314,7 @@
             <p>02-2911-1937</p>
           </td>
           <td>
-            <p>http://www.chulintemple.org/</p>
+            <a target="_" href="http://www.chulintemple.org/">連結</a>
           </td>
           <td>
             <p>1951年由天寧寺方丈證蓮大和尚，並其弟子戒德與佛聲2位法師創建。</p>
@@ -333,7 +333,7 @@
             <p>02-8676-1982</p>
           </td>
           <td>
-            <p>https://seelandboya.org/</p>
+            <a target="_" href="https://seelandboya.org/">連結</a>
           </td>
           <td>
             <p>1972年由智諭老和尚創立</p>
@@ -369,7 +369,7 @@
             <p>02-2945-0777</p>
           </td>
           <td>
-            <p>https://www.fangsheng.org.tw/</p>
+            <a target="_" href="https://www.fangsheng.org.tw/">連結</a>
           </td>
           <td>
             <p>1961年創建</p>
@@ -388,7 +388,7 @@
             <p>02-2493-0076</p>
           </td>
           <td>
-            <p>https://www.facebook.com/sxamtb/</p>
+            <a target="_" href="https://www.facebook.com/sxamtb/">連結</a>
           </td>
           <td>
             <p>2004年創建</p>
@@ -407,7 +407,7 @@
             <p>02-2959-0209</p>
           </td>
           <td>
-            <p>http://plt1001.blogspot.com/</p>
+            <a target="_" href="http://plt1001.blogspot.com/">連結</a>
           </td>
           <td>
             <p>2012年創建</p>
@@ -426,7 +426,7 @@
             <p>02-2291-1632</p>
           </td>
           <td>
-            <p>https://www.facebook.com/BaoXieTemple/</p>
+            <a target="_" href="https://www.facebook.com/BaoXieTemple/">連結</a>
           </td>
           <td>
             <p>1970年創建</p>
@@ -445,7 +445,7 @@
             <p>02-2499-1100</p>
           </td>
           <td>
-            <p>https://www.093.org.tw/</p>
+            <a target="_" href="https://www.093.org.tw/">連結</a>
           </td>
           <td>
             <p>1984年創建</p>
@@ -463,7 +463,7 @@
             <p>02-2681-2839</p>
           </td>
           <td>
-            <p>http://www.hmt.org.tw/abbot/</p>
+            <a target="_" href="http://www.hmt.org.tw/abbot/">連結</a>
           </td>
           <td>
             <p>1960年創建</p>
@@ -482,7 +482,7 @@
             <p>03-387-3141</p>
           </td>
           <td>
-            <p>https://gaya.gaya.org.tw/</p>
+            <a target="_" href="https://gaya.gaya.org.tw/">連結</a>
           </td>
           <td>
             <p>2002年創建</p>
@@ -501,7 +501,7 @@
             <p>03-425-6168</p>
           </td>
           <td>
-            <p>https://www.ykcm.tw/</p>
+            <a target="_" href="https://www.ykcm.tw/">連結</a>
           </td>
           <td>
             <p>1907年創建，妙果老和尚1948年創辦臺灣佛學院。</p>
@@ -537,7 +537,7 @@
             <p>04-2372-9239</p>
           </td>
           <td>
-            <p>http://plt1001.blogspot.com/</p>
+            <a target="_" href="http://plt1001.blogspot.com/">連結</a>
           </td>
           <td>
             <p>2012年創建</p>
@@ -556,7 +556,7 @@
             <p>04-2239-2816</p>
           </td>
           <td>
-            <p>https://www.youtube.com/channel/UClu0vTG1xjCWKLj-TaZb_5w</p>
+            <a target="_" href="https://www.youtube.com/channel/UClu0vTG1xjCWKLj-TaZb_5w">連結</a>
           </td>
           <td>
             <p>1957年創建</p>
@@ -608,7 +608,7 @@
             <p>04-9293-0215</p>
           </td>
           <td>
-            <p>https://www.ctworld.org.tw/index.htm</p>
+            <a target="_" href="https://www.ctworld.org.tw/index.htm">連結</a>
           </td>
           <td>
             <p>2001年創建</p>
@@ -627,7 +627,7 @@
             <p>04-9293-1907</p>
           </td>
           <td>
-            <p>http://www.lionccm.org/</p>
+            <a target="_" href="http://www.lionccm.org/">連結</a>
           </td>
           <td>
             <p>1987年創建</p>
@@ -646,7 +646,7 @@
             <p>04-9292-6336</p>
           </td>
           <td>
-            <p>http://www.taiwanlymt.org.tw/</p>
+            <a target="_" href="http://www.taiwanlymt.org.tw/">連結</a>
           </td>
           <td>
             <p>1984年創建</p>
@@ -665,7 +665,7 @@
             <p>05-277-2563</p>
           </td>
           <td>
-            <p>https://www.fgs.org.tw/branch/?BrID=D51101</p>
+            <a target="_" href="https://www.fgs.org.tw/branch/?BrID=D51101">連結</a>
           </td>
           <td>
             <p>1833年創建</p>
@@ -684,7 +684,7 @@
             <p>05-261-1010</p>
           </td>
           <td>
-            <p>http://www.gaya.org.tw/</p>
+            <a target="_" href="http://www.gaya.org.tw/">連結</a>
           </td>
           <td>
             <p>1975年創建</p>
@@ -703,7 +703,7 @@
             <p>05-259-1107</p>
           </td>
           <td>
-            <p>http://www.yidesi.org/</p>
+            <a target="_" href="http://www.yidesi.org/">連結</a>
           </td>
           <td>
             <p>1911年創建</p>
@@ -722,7 +722,7 @@
             <p>05-222-4203</p>
           </td>
           <td>
-            <p>http://fawang.ehosting.com.tw/mituo.htm</p>
+            <a target="_" href="http://fawang.ehosting.com.tw/mituo.htm">連結</a>
           </td>
           <td>
             <p>1752年創建</p>
@@ -792,7 +792,7 @@
             <p>06-656-2863</p>
           </td>
           <td>
-            <p>https://miaofatemple.weebly.com/</p>
+            <a target="_" href="https://miaofatemple.weebly.com/">連結</a>
           </td>
           <td>
             <p>1935年建為佛堂名保安堂，1959年心揚法師重修，名妙法禪寺。</p>
@@ -828,7 +828,7 @@
             <p>07-521-3236</p>
           </td>
           <td>
-            <p>http://www.yht.org.tw/</p>
+            <a target="_" href="http://www.yht.org.tw/">連結</a>
           </td>
           <td>
             <p>
@@ -866,7 +866,7 @@
             <p>07-731-9698</p>
           </td>
           <td>
-            <p>http://www.yct.com.tw/</p>
+            <a target="_" href="http://www.yct.com.tw/">連結</a>
           </td>
           <td>
             <p>1948年創建</p>
@@ -902,7 +902,7 @@
             <p>07-656-1921</p>
           </td>
           <td>
-            <p>https://www.fgs.org.tw/</p>
+            <a target="_" href="https://www.fgs.org.tw/">連結</a>
           </td>
           <td>
             <p>1967年創建</p>
@@ -940,7 +940,7 @@
             <p>07-689-2259</p>
           </td>
           <td>
-            <p>http://www.clm.org.tw/</p>
+            <a target="_" href="http://www.clm.org.tw/">連結</a>
           </td>
           <td>
             <p>1964年創建</p>
@@ -976,7 +976,7 @@
             <p>08-736-6699</p>
           </td>
           <td>
-            <p>http://www.kunphen.com/</p>
+            <a target="_" href="http://www.kunphen.com/">連結</a>
           </td>
           <td>
             <p>2017年創建</p>
@@ -995,7 +995,7 @@
             <p>03-922-3964</p>
           </td>
           <td>
-            <p>https://reurl.cc/Y9KpAL</p>
+            <a target="_" href="https://reurl.cc/Y9KpAL">連結</a>
           </td>
           <td>
             <p>1963年由紹悟法師創建</p>
@@ -1014,7 +1014,7 @@
             <p>03-959-0000</p>
           </td>
           <td>
-            <p>http://www.donglin.tw/</p>
+            <a target="_" href="http://www.donglin.tw/">連結</a>
           </td>
           <td>
             <p>1999年創建</p>
@@ -1033,7 +1033,7 @@
             <p>03-826-6779</p>
           </td>
           <td>
-            <p>https://www.tzuchi.org.tw/</p>
+            <a target="_" href="https://www.tzuchi.org.tw/">連結</a>
           </td>
           <td>
             <p>1966年創建</p>
@@ -1052,7 +1052,7 @@
             <p>03-867-1001</p>
           </td>
           <td>
-            <p>http://www.indra-jala.com.tw/</p>
+            <a target="_" href="http://www.indra-jala.com.tw/">連結</a>
           </td>
           <td>
             <p>1967年由傳慶老和尚創建</p>
@@ -1088,7 +1088,7 @@
             <p>06-926-7765</p>
           </td>
           <td>
-            <p>https://zh-tw.facebook.com/miaoyunphtw</p>
+            <a target="_" href="https://zh-tw.facebook.com/miaoyunphtw">連結</a>
           </td>
           <td>
             <p>1999年由嘉義妙雲蘭若住持慧理和常光法師所分設於澎湖的講堂</p>
@@ -1107,7 +1107,7 @@
             <p>082-351-943</p>
           </td>
           <td>
-            <p>https://reurl.cc/Y9Kp2X</p>
+            <a target="_" href="https://reurl.cc/Y9Kp2X">連結</a>
           </td>
           <td>
             <p>1999年由常實法師創建</p>
