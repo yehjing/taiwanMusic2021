@@ -49,11 +49,11 @@ const tabs1 = [
     autor: '李秀琴',
     path: 'observed_10',
   },
-  {
-    name: '釋奠樂',
-    autor: '蔡秉衡',
-    path: 'observed_15',
-  },
+  // {
+  //   name: '釋奠樂',
+  //   autor: '蔡秉衡',
+  //   path: 'observed_15',
+  // },
 ];
 const tabs2 = [
   {
