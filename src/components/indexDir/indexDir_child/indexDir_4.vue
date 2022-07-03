@@ -227,12 +227,6 @@
           </td>
         </tr>
         <tr>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
           <td>
             <p>2021/12/12-2022/01/16</p>
           </td>

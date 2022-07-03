@@ -6,12 +6,12 @@ const tabs1 = [
   },
   {
     name: '北管音樂',
-    autor: '范揚坤',
+    autor: '林雅琇',
     path: 'observed_2',
   },
   {
     name: '福佬歌謠',
-    autor: '黃玲玉',
+    autor: '李毓芳',
     path: 'observed_3',
   },
   {
@@ -41,19 +41,19 @@ const tabs1 = [
   },
   {
     name: '佛教音樂',
-    autor: '蔡秉衡',
+    autor: '陳碧燕',
     path: 'observed_9',
   },
   {
     name: '道、法、釋教音樂',
-    autor: '李秀琴',
+    autor: '楊秀娟',
     path: 'observed_10',
   },
-  // {
-  //   name: '釋奠樂',
-  //   autor: '蔡秉衡',
-  //   path: 'observed_15',
-  // },
+  {
+    name: '釋奠樂',
+    autor: '蔡秉衡',
+    path: 'observed_15',
+  },
 ];
 const tabs2 = [
   {

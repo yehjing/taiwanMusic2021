@@ -1152,7 +1152,7 @@
             <p>蘇亦庠</p>
           </td>
           <td>
-            <p>新北市三重區自強路三段42巷2之2號0918-051-867</p>
+            <p>新北市三重區自強路三段42巷2之2號<br>0918-051-867</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/1980室內樂集-384638105249121/">連結</a><br>
@@ -1936,7 +1936,7 @@
             <p>07-743-6633</p>
           </td>
           <td>
-            <a target="_" href="http://kpcaf.khcc.gov.tw/index.php?temp=ksolang=cht">連結</a>
+            <a target="_" href="http://kpcaf.khcc.gov.tw/index.php?temp=kso&lang=cht">連結</a>
           </td>
         </tr>
         <tr>
@@ -2229,7 +2229,7 @@
             <p>沈銘彥</p>
           </td>
           <td>
-            <p>高雄市前鎮區一心二路157號1205室07-335-6918</p>
+            <p>高雄市前鎮區一心二路157號1205室<br>07-335-6918</p>
           </td>
           <td>
             <a target="_" href="https://sixartsmusic.weebly.com/">連結</a><br>
@@ -2244,7 +2244,7 @@
             <p>黃惠鈴</p>
           </td>
           <td>
-            <p>高雄市鼓山區明誠三路657號2樓0930-818-040</p>
+            <p>高雄市鼓山區明誠三路657號2樓<br>0930-818-040</p>
           </td>
           <td>
             <a href="mailto:onaip1017@gmail.com">連結</a>
@@ -3948,7 +3948,7 @@
             <p>呂文慈</p>
           </td>
           <td>
-            <p>臺北松江路郵局第919號信箱02-2897-5900</p>
+            <p>臺北松江路郵局第919號信箱<br>02-2897-5900</p>
           </td>
           <td>
             <a target="_" href="http://www.acl-taiwan.org.tw/">連結</a>
@@ -4060,7 +4060,7 @@
         </tr>
         <tr>
           <td>
-            <p><a href="http://red073.redmedia.com.tw/backoffice/">中華民國聲樂家協會</a></p>
+            <p>中華民國聲樂家協會</p>
           </td>
           <td>
             <p>裘尚芬</p>
@@ -4144,6 +4144,7 @@
           <td>
             <p>新北市中和區中和路366號8樓之3</p>
           </td>
+          <td>
             <a target="_" href="http://www.tcmc.org.tw/">連結</a>
           </td>
         </tr>

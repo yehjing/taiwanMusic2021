@@ -5,7 +5,6 @@
     </div>
     <hr />
     <p class="firstRow"></p>
-    <p>北管音樂篇 重要音樂活動一覽表</p>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>

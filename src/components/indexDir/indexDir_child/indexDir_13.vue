@@ -825,7 +825,7 @@
           </td>
           <td>
             <p>新北市平溪區</p>
-            <p>0910-050-373（李國豪）0932-924-017（潘淑璟）</p>
+            <p>0910-050-373（李國豪）<br>0932-924-017（潘淑璟）</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Jtnjs/">連結</a>
@@ -1611,7 +1611,7 @@
             <p>0919-864-413</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/profile.php?id=100005080484012v">連結</a>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100005080484012">連結</a>
           </td>
           <td>
             <p>由黃錦財與大師兄邱丁進共同指導</p>
@@ -1789,7 +1789,7 @@
             <p>灣裡萬年殿</p>
           </td>
           <td>
-            <p>臺南市南區灣裡路64號06-262-2668</p>
+            <p>臺南市南區灣裡路64號<br>06-262-2668</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Tshaihunian.Winlin.Pakuan/">連結</a>

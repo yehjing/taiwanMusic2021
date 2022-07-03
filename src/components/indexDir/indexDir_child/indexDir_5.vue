@@ -12,8 +12,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
-          <th style="width: 25%">備註</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -27,7 +26,7 @@
           <td>
             <p>阿美族人相信祖先是渡海而來，因此為感謝海神護佑祖先登陸而有海祭。</p>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -41,7 +40,7 @@
               阿美族原為種小米的農業社會，每當小米收割，各部落分別舉行盛大的慶典活動，以感謝神靈的恩惠，即為豐年祭的起源。今主要於稻米收成後舉行。
             </p>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
       </tbody>
     </table>
@@ -296,8 +295,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
-          <th style="width: 25%">備註</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -311,7 +309,7 @@
           <td>
             <p>婦女幫工制度到小米田除完草後的慶祝活動。</p>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
         <tr>
           <td>
@@ -324,7 +322,7 @@
           <td>
             <p>5、6月小米熟成開始收割，7月時舉行收穫祭。</p>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
         <tr>
           <td>
@@ -338,7 +336,7 @@
               卑南族10個部落中，有3個部落沒有猴祭的習俗，分別是阿里擺部落、龍過脈部落、利嘉部落。其他7個部落會舉辦猴祭，但其中的寶桑部落並不像其他6個部落用傳統的方式舉行猴祭，是用報佳音（semimusimuk）的方式代替。
             </p>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -353,7 +351,7 @@
               開始，緊接著為mangayaw（大獵祭），之後為除喪祭。
             </p>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
       </tbody>
     </table>
@@ -469,7 +467,7 @@
             <p>11月</p>
           </td>
           <td>
-            <h4>祖靈祭（paSbaki'）</h4>
+            <p>祖靈祭（paSbaki'）</p>
           </td>
           <td>
             <p>
@@ -788,8 +786,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
-          <th style="width: 25%">備註</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -805,7 +802,7 @@
               拉阿魯哇族最重要的祭儀，原為美壠社特有的祭儀，現在則有雁爾社、排剪社和美壠社三社同時舉行此大祭。
             </p>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
       </tbody>
     </table>
@@ -876,8 +873,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
-          <th style="width: 25%">備註</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -893,7 +889,6 @@
               屏東縣馬卡道族聯合夜祭共計3個場次，包含農曆10月15日（國曆11月19日）的內埔老埤、農曆11月15日（國曆12月18日、19日）高樹加蚋埔、農曆正月15日（國曆2022年2月12日）的萬巒加匏朗夜祭。
             </p>
           </td>
-          <td>&nbsp;</td>
         </tr>
       </tbody>
     </table>
@@ -904,8 +899,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
-          <th style="width: 25%">備註</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -924,7 +918,7 @@
               Talavan（萬淑娟）以〈來行這條路〉入圍並獲得最佳作詞獎的殊榮。
             </p>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
       </tbody>
     </table>

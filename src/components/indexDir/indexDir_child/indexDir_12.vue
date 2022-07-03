@@ -466,7 +466,7 @@
             <a target="_" href="https://www.facebook.com/profile.php?id=100000501913312">連結</a>
           </td>
           <td>
-            <p>南管音樂</p>
+            <p></p>
           </td>
         </tr>
         <tr>
@@ -951,7 +951,7 @@
             <p>台東縣閩南音樂聚英社</p>
           </td>
           <td>
-            <p>理事長黃金美</p>
+            <p>理事長<br>黃金美</p>
           </td>
           <td>
             <p>臺東縣臺東市博愛路421號2樓</p>

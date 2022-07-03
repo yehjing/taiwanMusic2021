@@ -589,7 +589,7 @@
             <p>0929-416-817</p>
           </td>
           <td>
-            <a target="_" href="http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp">連結</a>
+            <p></p>
           </td>
           <td>
             <p>成立於2006年</p>
@@ -1070,7 +1070,6 @@
     <br />
     <h3>三、客家傳統戲曲與表演形式</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
-      <tbody>
         <thead>
           <tr>
             <th style="width: 20%">名稱</th>
@@ -1080,6 +1079,7 @@
             <th style="width: 25%">備註</th>
           </tr>
         </thead>
+      <tbody>
         <tr>
           <td>
             <p>國立臺灣戲曲學院客家戲學系</p>

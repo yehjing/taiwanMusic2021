@@ -24,7 +24,7 @@ import Observed7 from './observed_7.vue';
 import Observed8 from './observed_8.vue';
 import Observed9 from './observed_9.vue';
 import Observed10 from './observed_10.vue';
-// import Observed15 from './observed_15.vue';
+import Observed15 from './observed_15.vue';
 
 
 const tabs = [
@@ -41,13 +41,13 @@ const tabs = [
   },
   {
     name: '2021年度北管音樂活動觀察與評介',
-    autor: '范揚坤',
+    autor: '林雅琇',
     component: Observed2,
     path: 'observed_2',
   },
   {
     name: '2021年度福佬歌謠活動觀察與評介',
-    autor: '黃玲玉',
+    autor: '李毓芳',
     component: Observed3,
     path: 'observed_3',
   },
@@ -83,22 +83,22 @@ const tabs = [
   },
   {
     name: '2021年度佛教音樂活動觀察與評介',
-    autor: '蔡秉衡',
+    autor: '陳碧燕',
     component: Observed9,
     path: 'observed_9',
   },
   {
     name: '2021年度道、法、釋教音樂活動觀察與評介',
-    autor: '李秀琴',
+    autor: '楊秀娟',
     component: Observed10,
     path: 'observed_10',
   },
-  // {
-  //   name: '2021年度釋奠樂活動觀察與評介',
-  //   autor: '蔡秉衡',
-  //   component: Observed15,
-  //   path: 'observed_15',
-  // },
+  {
+    name: '2021年度釋奠樂活動觀察與評介',
+    autor: '蔡秉衡',
+    component: Observed15,
+    path: 'observed_15',
+  },
 ];
 
 export default {

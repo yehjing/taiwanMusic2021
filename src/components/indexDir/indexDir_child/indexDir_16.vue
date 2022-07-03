@@ -5,7 +5,6 @@
     </div>
     <hr />
     <p class="firstRow"></p>
-    <p>團體及個人名錄</p>
     <h3>一、阿美族</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>

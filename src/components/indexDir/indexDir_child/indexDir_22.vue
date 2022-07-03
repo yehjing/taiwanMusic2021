@@ -216,7 +216,7 @@
             <p>吳惠吟</p>
           </td>
           <td>
-            <p>臺北市大安區和平東路三段308巷58號02-2738-6102</p>
+            <p>臺北市大安區和平東路三段308巷58號<br>02-2738-6102</p>
           </td>
           <td>
             <a href="mailto:flamingfire555@yahoo.com.tw">連結</a>
@@ -436,7 +436,7 @@
             <p>0929-984-571</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/v">連結</a>
+            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/">連結</a>
           </td>
           <td>
             <p>成立於2009年8月</p>
@@ -542,8 +542,7 @@
             <a href="mailto:tia09709@gmail.com">連結</a>
           </td>
           <td>
-            <p>成立於2015年2月1日，推廣新住民母國文化、傳</p>
-            <p>統民俗舞蹈、話劇等。</p>
+            <p>成立於2015年2月1日，推廣新住民母國文化、傳統民俗舞蹈、話劇等。</p>
           </td>
         </tr>
         <tr>

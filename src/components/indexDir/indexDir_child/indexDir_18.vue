@@ -12,7 +12,6 @@
           <th style="width: 20%">負責人</th>
           <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
@@ -30,7 +29,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/臺灣丹心弘道會-廣遠道壇-110201233925338">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -46,7 +44,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/religion711">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -62,7 +59,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/三重正統雷晉壇-714727328549059">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -78,7 +74,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/AAA22498454">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -93,7 +88,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/樹林-雷晉壇-1656915627906171">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -107,7 +101,6 @@
             <p>02-2281-9255</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -119,7 +112,6 @@
           <td>
             <p>新北市蘆洲區成功路170號1樓</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -136,7 +128,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/NANCHUANMINGFA">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -152,7 +143,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/Miaoyingaltar">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -168,7 +158,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/清微法壇-100135195721146">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -183,7 +172,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/新竹通靈壇-225235875036594">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -199,7 +187,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/後龍-普玄壇祖壇-101710921381121">連結</a>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
         <tr>
           <td>
@@ -215,7 +203,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/BaoZhenTan">連結</a>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
         <tr>
           <td>
@@ -231,7 +219,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/cihde999">連結</a>
           </td>
-          <td>&nbsp;</td>
+
         </tr>
         <tr>
           <td>
@@ -244,7 +232,7 @@
             <p>南投縣水里鄉永豐路291號</p>
             <p>04-9277-0179</p>
           </td>
-          <td>&nbsp;</td>
+
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -261,7 +249,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/stoneace">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -277,7 +265,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/草屯-廣法雷壇-263854803816496">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -290,7 +278,7 @@
             <p>嘉義縣太保市後潭里後潭361號</p>
             <p>05-371-1203</p>
           </td>
-          <td>&nbsp;</td>
+          
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -305,7 +293,6 @@
             <p>0932-792-861</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -317,7 +304,6 @@
           <td>
             <p>嘉義縣六腳鄉蘇厝寮116號</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -332,7 +318,6 @@
             <p>0919-601-567</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -345,7 +330,6 @@
             <p>嘉義縣東石鄉屯仔頭79號</p>
             <p>05-373-3292</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -360,7 +344,6 @@
             <p>06-270-8815</p>
             <p>0982-263-247</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -377,7 +360,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/混玄壇林清隆道長-196580167351735">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -390,7 +372,6 @@
             <p>臺南市麻豆區寮部里127號之1</p>
             <p>06-572-3260</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -407,7 +388,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/善化道壇-565091573509602">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -423,7 +404,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/MingJieDaoistAltar">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -439,7 +420,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/泓銘道壇-241916179294897/">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -452,7 +433,7 @@
             <p>高雄市茄萣區金鑾路179號</p>
             <p>0983-115-757</p>
           </td>
-          <td>&nbsp;</td>
+          
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -470,7 +451,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/白砂崙道壇-法天成真靖三界混元壇-1979367585693248">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -482,7 +462,6 @@
           <td>
             <p>高雄市彌陀區鹽港一路64號</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -499,7 +478,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/潮州百年老道壇-正一玄妙道士雷壇妙善生命禮儀-448977478512347">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -515,7 +494,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/頭城盛元壇-238484079561263">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -531,7 +510,7 @@
           <td>
             <a target="_" href="https://www.facebook.com/礁溪威真壇-108421535086308">連結</a>
           </td>
-          <td>&nbsp;</td>
+          
         </tr>
         <tr>
           <td>
@@ -544,7 +523,7 @@
             <p>澎湖縣西嶼鄉池東村73號</p>
             <p>06-998-1404</p>
           </td>
-          <td>&nbsp;</td>
+          
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -556,9 +535,8 @@
           </td>
           <td>
             <p>金門縣金城鎮北門里中興路70號</p>
-            <p>082-325-361 0933-885-505</p>
+            <p>082-325-361<br>0933-885-505</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -574,7 +552,6 @@
             <p>0932-838-876</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -586,7 +563,6 @@
           <td>
             <p>0989-206-013</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -600,7 +576,6 @@
             <p>0910-977-064</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -613,7 +588,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/profile.php?id=100043439090571">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -626,7 +600,6 @@
           <td>
             <a target="_" href="https://www.facebook.com/profile.php?id=100014706406292">連結</a>
           </td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -640,7 +613,6 @@
             <p>連江縣南竿鄉福澳村8號</p>
           </td>
           <td>&nbsp;</td>
-          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
@@ -652,7 +624,6 @@
           <td>
             <p>金門縣金寧鄉湖埔村埔後45號</p>
           </td>
-          <td>&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
       </tbody>

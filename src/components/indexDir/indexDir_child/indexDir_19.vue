@@ -5,7 +5,6 @@
     </div>
     <hr />
     <p class="firstRow"></p>
-    <p>國樂篇</p>
     <h3>一、大型樂團</h3>
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
@@ -164,7 +163,7 @@
             <a target="_" href="https://www.facebook.com/youthTCO/">連結</a>
           </td>
           <td>
-            <p>成立於2003年9月正式，每週六14:00-17:30固定排練。</p>
+            <p>正式成立於2003年9月，每週六14:00-17:30固定排練。</p>
           </td>
         </tr>
         <tr>
@@ -1433,7 +1432,7 @@
             <p>陳小姐&nbsp;</p>
           </td>
           <td>
-            <p>宜蘭縣宜蘭市校舍路1號0922-553265</p>
+            <p>宜蘭縣宜蘭市校舍路1號<br>0922-553265</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/YiLanLiMingGuoLeTuan/">連結</a>
@@ -3137,7 +3136,7 @@
             <p>趙桂燕</p>
           </td>
           <td>
-            <p>澎湖縣馬公市石泉里3-18號0933-696-349</p>
+            <p>澎湖縣馬公市石泉里3-18號<br>0933-696-349</p>
           </td>
           <td>&nbsp;</td>
           <td>

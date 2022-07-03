@@ -138,7 +138,9 @@ a{
 body{
   // background: linear-gradient(to bottom, #a85757, #b96565);
   // background: #AA8E8E;
-  background: linear-gradient(to bottom, #4F0A5D , #AC65BB);
+  // background: linear-gradient(to bottom, #4F0A5D , #AC65BB);
+  background: linear-gradient(0deg,#65BBAF,#0A525D);
+
 }
 nav .router-link-active{
   transition:.2s;

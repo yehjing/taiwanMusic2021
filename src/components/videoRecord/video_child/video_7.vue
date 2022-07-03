@@ -1,6 +1,6 @@
 <template>
   <div class="videoContent">
-    <h1>排灣族 文樂部落「pusau送祖靈祭」</h1>
+    <h1>排灣族 文樂部落pusau送祖靈祭</h1>
     <iframe frameborder="0" allowfullscreen="" scrolling="no" width="560" height="315" src="https://onelineplayer.com/player.html?autoplay=false&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fauthuser%3D0%26id%3D10M4MilFCO9NUBU35Vmew5jBPBP9jw_Sf%26export%3Ddownload&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"></iframe>
     <h1>魯凱族 「2021春遊霧臺櫻花季」阿禮部落迎賓歌舞</h1>
     <iframe frameborder="0" allowfullscreen="" scrolling="no" width="560" height="315" src="https://onelineplayer.com/player.html?autoplay=false&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fdrive.google.com%2Fuc%3Fauthuser%3D0%26id%3D10if-uQhLUhvkmDdwQ-TWXZbctiAjk3Eg%26export%3Ddownload&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true"></iframe>
