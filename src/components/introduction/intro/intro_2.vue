@@ -15,7 +15,7 @@
 
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝編輯團隊的辛勞，力求資料完整與密實、兼顧地域衡平性與記述客觀性，以及每一個單位無私的提供協助與同意授權刊載，期盼藉由《臺灣音樂年鑑》的逐年編纂、連續出版，成為建構臺灣音樂史不可或缺的重要寶典。</p>
 
-      <div class="signTitle" style="text-align:right">臺灣音樂館 兼代館主任</div>
+      <div class="signTitle" style="text-align:right">臺灣音樂館兼代館主任</div>
       <div style="text-align:right;margin-top:1em">
         <img src="./../../../assets/center2.png" alt="" />
         <br /><span>2022年7月31日</span>

@@ -77,7 +77,7 @@ const tabs3 = [
 const tabs4 = [
   {
     name: '跨界音樂與其他',
-    autor: '蔡宗德',
+    autor: '蔡宗德、陳靜儀',
     path: 'observed_14',
   },
 ];

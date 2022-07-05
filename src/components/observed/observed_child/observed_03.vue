@@ -25,7 +25,7 @@ const tabs = [
   // },
   {
     name: '2021年度跨界音樂與其他之活動觀察與評介',
-    autor: '蔡宗德',
+    autor: '蔡宗德、陳靜儀',
     component: Observed14,
     path: 'observed_14',
   },

@@ -2888,7 +2888,7 @@
             <p>02-2776-4089</p>
           </td>
           <td>
-            <a target="_" href="www.tcschoir.org.tw/">連結</a>
+            <a target="_" href="http://www.tcschoir.org.tw/">連結</a>
           </td>
         </tr>
         <tr>
