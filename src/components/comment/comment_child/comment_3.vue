@@ -24,17 +24,17 @@
 
 
     <h4><strong>一、數位科技衝擊市場生態造成的結構性改變：</strong></h4>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）串流音樂平臺興起衝擊實體音樂產業。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）社群平臺生態急速衝擊傳統經紀公司。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（三）數位科技衍生眾多侵權問題，不僅防不勝防，對於個人創作者而言，更是無力處理。</p>
+    <p>（一）串流音樂平臺興起衝擊實體音樂產業。</p>
+    <p>（二）社群平臺生態急速衝擊傳統經紀公司。</p>
+    <p>（三）數位科技衍生眾多侵權問題，不僅防不勝防，對於個人創作者而言，更是無力處理。</p>
 
-    <h4><strong>2、串流音樂生態產生新的問題，傳統渠道無法對應：</strong></h4>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）微型創作者（e.g.YouTuber）當道，傳統經紀約與推廣方式不符需求。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）傳統歌曲授權與分潤的問題，在串流平臺與歌手間更難處理。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（三）社群平臺蓬勃發展與科技普及，讓二次創作遍地開花，但原創者無法收取對等的權利金以及侵權事件頻傳，更凸顯出授權模式需普及並簡化的問題。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（四）串流平臺制式合約，獨立創作者談判地位不對等。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中，如何解決創作者在現今音樂產業中的維權與營收的難題更是重中之重。傳統的授權問題主要是著作權的權利人分散、沒有統一的標準格式導致資料轉換時容易出錯、使用報酬的計算方式複雜且明細不透明，以及取得授權的過程繁瑣。在實際上運作時，就會面臨兩大面向的問題：對於利用人來說（例如串流平臺業者或是二次創作者），授權窗口複雜且權利人難找，如果有權利異動時更難確認；對於常見的授權單位而言，授權資料仍需大量人工處理，相當耗時，如有權利異動時也難以即時更新；而對於創作者來說，創作所獲得的分潤往往沒有清楚的明細而且入帳耗費的時間長。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，在數位科技與串流平臺盛行的今日，微型、個人型的創作者盛行，這些創作者通常自己經營個人頻道，即時地將自己的創作放在社群影音平臺中與大家分享，但後續常衍生的困境是：如何利用這些影音更進一步獲利？如果有人有想授權這些影音進行二次創作該怎麼找誰？如果有人對於影音著作權有疑慮時，創作者該如何提出證明？創作者如果對於自身權益有維權需求時，是否有可以負擔得起的諮詢管道？</p>
+    <h4><strong>二、串流音樂生態產生新的問題，傳統渠道無法對應：</strong></h4>
+    <p（一）微型創作者（e.g.YouTuber）當道，傳統經紀約與推廣方式不符需求。</p>
+    <p（二）傳統歌曲授權與分潤的問題，在串流平臺與歌手間更難處理。</p>
+    <p（三）社群平臺蓬勃發展與科技普及，讓二次創作遍地開花，但原創者無法收取對等的權利金以及侵權事件頻傳，更凸顯出授權模式需普及並簡化的問題。</p>
+    <p（四）串流平臺制式合約，獨立創作者談判地位不對等。</p>
+    <p其中，如何解決創作者在現今音樂產業中的維權與營收的難題更是重中之重。傳統的授權問題主要是著作權的權利人分散、沒有統一的標準格式導致資料轉換時容易出錯、使用報酬的計算方式複雜且明細不透明，以及取得授權的過程繁瑣。在實際上運作時，就會面臨兩大面向的問題：對於利用人來說（例如串流平臺業者或是二次創作者），授權窗口複雜且權利人難找，如果有權利異動時更難確認；對於常見的授權單位而言，授權資料仍需大量人工處理，相當耗時，如有權利異動時也難以即時更新；而對於創作者來說，創作所獲得的分潤往往沒有清楚的明細而且入帳耗費的時間長。</p>
+    <p此外，在數位科技與串流平臺盛行的今日，微型、個人型的創作者盛行，這些創作者通常自己經營個人頻道，即時地將自己的創作放在社群影音平臺中與大家分享，但後續常衍生的困境是：如何利用這些影音更進一步獲利？如果有人有想授權這些影音進行二次創作該怎麼找誰？如果有人對於影音著作權有疑慮時，創作者該如何提出證明？創作者如果對於自身權益有維權需求時，是否有可以負擔得起的諮詢管道？</p>
 
     <h3><strong>參、區塊鏈技術帶給音樂產業創新與變革的契機</strong></h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自區塊鏈技術於問世後，其不可竄改、自動分潤、去中間化的技術本質，帶給各式產業應用的空間，帶動許多創新與變革的契機。其中，音樂產業就是應用區塊鏈技術的重要場域，包含透過區塊鏈技術建立影音智權管理平臺，近期更從區塊鏈技術中衍生非同質化代幣（Non-Fungible Token，簡稱：NFT）的商品服務模式，介紹如下：</p>
@@ -85,8 +85,8 @@
       <p>陳薈涵（2020/12/09）。前東家華研轟田馥甄｢不誠信｣!寄存證信函求償 高雄演唱會不保。<strong>蘋果日報</strong>。取自https://tw.appledaily.com/entertainment/20201209/73Q4MQWKNREPVB7UEVXTI67RLI/（瀏覽日期：2022/02/05）</p>
       <p>鄭啟明（2021/01/07）。華語音樂市場新趨勢 數位音樂發行翻轉產業新型態。<strong>工商時報</strong>。取自https://ctee.com.tw/industrynews/consumption/398942.html（瀏覽日期：2022/02/05）</p>
       <p><strong>二、外文網站</strong></p>
-      <p>ABHILASH KUMAR（2020）. COVID-19 Accelerates Music Streaming Market Growth, Global Subscriptions Hit 394 Million in Q1 2020. Counterpoint. Retrieved from https://www.counterpointresearch.com/music-subscriptions-394-million-q1-2020/（last visited at：2022/02/05）</p>
-      <p>IFPI（2021）. Global Music Report 2021. Retrieved from https://www.ifpi.org/ifpi-issues-annual-global-music-report-2021（last visited at：2022/02/05）</p>
+      <p>ABHILASH KUMAR（2020）. COVID-19 Accelerates Music Streaming Market Growth, Global Subscriptions Hit 394 Million in Q1 2020. <i>Counterpoint</i>. Retrieved from https://www.counterpointresearch.com/music-subscriptions-394-million-q1-2020/（last visited at：2022/02/05）</p>
+      <p>IFPI（2021）.  <i>Global Music Report 2021</i>. Retrieved from https://www.ifpi.org/ifpi-issues-annual-global-music-report-2021（last visited at：2022/02/05）</p>
     </div>
   </div>
 </template>

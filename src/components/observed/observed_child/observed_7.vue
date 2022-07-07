@@ -366,6 +366,8 @@
 <p class="tableRight">6</p>
 </td>
 <td>
+</td>
+<td>
 <p class="tableRight">4</p>
 </td>
 <td>
@@ -430,12 +432,15 @@
 <p class="tableRight">2</p>
 </td>
 <td>
-<p class="tableRight">1</p>
 </td>
 <td>
 <p class="tableRight">1</p>
 </td>
-<td>&nbsp;</td>
+<td>
+</td>
+<td>
+<p class="tableRight">1</p>
+</td>
 
 </tr>
 </tbody>
