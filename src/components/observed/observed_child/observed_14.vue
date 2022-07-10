@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2 style="width: 580px;">2021年度跨界音樂與其他之活動觀察與評介─<br><b style="font-size:20px">疫/異地逢生，虛實求存－</b><b style="font-size:20px">2021年新常態（New Normal）下跨界音樂、世界音樂與新住民音樂的發展</b></h2>
+      <h2 style="width: 550px;">2021年度跨界音樂與其他之活動觀察與評介─<br><b style="font-size:20px">疫/異地逢生，虛實求存－</b><b style="font-size:20px">2021年新常態（New Normal）下跨界音樂、世界音樂與新住民音樂的發展</b></h2>
       <span>文/蔡宗德、陳靜儀</span>
     </div>
     <hr />
@@ -130,6 +130,9 @@
 </template>
 <style lang="scss" scoped>
 @media (max-width: 576px) {
+  h2{
+    width: 250px !important;
+  }
   .wrap .mainArea .viewRight .contentImg {
     width: 75%;
   }

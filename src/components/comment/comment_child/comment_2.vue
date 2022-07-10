@@ -243,9 +243,9 @@
 <h3>捌、「羅馬專題講座/作曲大師班（"De Musica"）」：根植於傳統的創新</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;查"De Musica"創立於1990年代末葉，活動誕生的推手為曾任「國立聖西莉亞音樂學院（Santa Cecilia Academy）」主席的Dall'Ongaro大師。歷年邀請到下述著名作曲家出席如下：1999 David Lang（USA）, 2000 Louis Andriessen（NL）, 2001 Pascal Dusapin（F）, 2002 Ivan Fedele（I）, 2003 Ennio Morricone（I）, 2004 Brice Pauset（F）, 2004 Helmut Lachenmann（D）, 2007 Gavin Bryars（GB）, 2008 Alvise Vidolin, 2009 Salvatore Sciarrino（I）, 2010 Beat Furrer（D）, 2011 Philippe Manoury（F）, 2012 Mark Andr&egrave;（CH）, 2013 Manfred Trojahn（D）, 2014 Toivo Tulev（E）, 2015 Ivan Fedele（I）, 2016 Derek Bermel（USA）, 2017 Detlev Glanert（D）, 2018 Luca Lombardi（IT）, 2019 Aldo Brizzi（IT）.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有關筆者在"De Musica"的專題講座/作曲大師班的內容如下，以提供有識者參考：</p>
-<span>潘皇龍：根植於傳統的創新（大綱）</span><br>
-<span>Hwang-Long PAN：Innovation rooted on Tradition</span><br>
-<span>Nuova Consonanza, Roma, 25th -28th, November. 2021</span><br><br>
+<strong>潘皇龍：根植於傳統的創新（大綱）</strong><br>
+<strong>Hwang-Long PAN：Innovation rooted on Tradition</strong><br>
+<strong>Nuova Consonanza, Roma, 25th -28th, November. 2021</strong><br><br>
 <p><strong>序言：</strong></p>
 <p><strong>（一）音樂創作的因緣，（二）學習傳統是創新音樂的捷徑</strong></p>
 <p><strong>一、傳統文化的轉化與創新音樂的嘗試：</strong></p>
@@ -286,10 +286,10 @@
 <p>"An Exuberance of Blossoms Blooming", Sextet for Bamboo Flutes, Pipa, Zhongruan, Zheng, Yangqin and Erhu（2019）（ME 10）（18'）</p>
 <p><strong>（五）探討「音響意境（Sonic Imagery）」「意念的凝聚」之一︰</strong></p>
 <p>1.音的形成、持續與消失：1. The Formation - Continuation and Disappearance of Sound</p>
-<p>（1）傳統法則（加花法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1） Traditional Embellishment</p>
-<p>（2）模仿法則（卡農法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2） Imitation</p>
-<p>（3）層面法則（層面法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3） Tiers</p>
-<p>（4）複合法則（接枝法或拼貼法）： （4） Compounds</p>
+<span>（1）傳統法則（加花法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1） Traditional Embellishment</span><br>
+<span>（2）模仿法則（卡農法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2） Imitation</span><br>
+<span>（3）層面法則（層面法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3） Tiers</span><br>
+<span>（4）複合法則（接枝法或拼貼法）： （4） Compounds</span><br>
 <p>（5）混合法則（綜合法）： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5） Mixing</p>
 <p><strong>三、東方與西方的交會與融合：</strong></p>
 <p><strong>（一）敲擊樂器的傳承與交響化：</strong></p>
@@ -303,7 +303,7 @@
 <p>IV."East and West", Octet for Bamboo-Instruments, Clarinet, Pipa, Zheng, Accordion, Huqings, Violin and Violoncello（2008）&nbsp;</p>
 <p>WP︰Chai Found Music Workshop &amp; Ensemble 2e2m 24/10/2008 National Concert Hall Taipei</p>
 <p>V.為箏與弦樂四重奏曲（2009）（音樂實例13）</p>
-<p>I."East and West V", Music for Zheng and String Quartet（2009）（ME 13）（13'）&nbsp;</p>
+<p>V."East and West V", Music for Zheng and String Quartet（2009）（ME 13）（13'）&nbsp;</p>
 <p>WP︰Yi-Chieh Lai &amp; United Berlin, 04/09/2009 Concert Hall, Juneau, Alaska</p>
 <p>VIII.為吹管，琵琶，古箏，敲擊樂器，鋼琴，小提琴與大提琴的七重奏曲（2013/14）（音樂實例14）</p>
 <p>VIII. "East and West V", Septet for Trad. Wind Instr. Pipa, Zheng, Percussions, Piano, Violin and Violoncello（2013/14）（ME 14）（13'30"） Aspekte Salzburg 2021</p>

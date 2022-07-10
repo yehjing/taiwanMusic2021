@@ -367,10 +367,10 @@
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td>
+          <td style="width:8%">
             <p class="tableCenter">場次</p>
           </td>
-          <td>
+          <td style="width:12%">
             <p class="tableCenter">日期時間</p>
           </td>
           <td>
@@ -615,10 +615,10 @@
     <table rules="all" border="1" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td>
+          <td style="width:8%">
             <p class="tableCenter">場次</p>
           </td>
-          <td>
+          <td style="width:12%">
             <p class="tableCenter">日期時間</p>
           </td>
           <td>
@@ -3267,7 +3267,7 @@
             <p class="tableCenter">06/03</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>文化部「藝文紓困4.0」補助方案公告</p>
@@ -3278,7 +3278,7 @@
             <p class="tableCenter">07/01</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>文化部「藝文紓困4.0」補助方案開始申請</p>
@@ -3289,7 +3289,7 @@
             <p class="tableCenter">07/12</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>文化部「藝文紓困4.0自然人補助申請」申請截止</p>
@@ -3300,7 +3300,7 @@
             <p class="tableCenter">08/31</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>文化部「藝文紓困4.0事業補助申請」申請截止</p>
@@ -3331,7 +3331,7 @@
             <p class="tableCenter">01/05</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3344,7 +3344,7 @@
             <p class="tableCenter">02/08</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3357,7 +3357,7 @@
             <p class="tableCenter">02/09</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3367,7 +3367,7 @@
         </tr>
         <tr>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3380,7 +3380,7 @@
             <p class="tableCenter">03/11</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3393,7 +3393,7 @@
             <p class="tableCenter">03/19</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>臺中市文化局「110年度臺中市傑出演藝團隊」名單公告（獲選單位：台灣揚琴樂團）</p>
@@ -3404,7 +3404,7 @@
             <p class="tableCenter">04/13</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3417,7 +3417,7 @@
             <p class="tableCenter">04/15</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3430,7 +3430,7 @@
             <p class="tableCenter">04/19</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3443,7 +3443,7 @@
             <p class="tableCenter">04/20</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>新北市文化局「2021新北市樂壇新星」名單公告（獲選個人：黃偉傑、洪紹桓）</p>
@@ -3454,7 +3454,7 @@
             <p class="tableCenter">04/21</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3467,7 +3467,7 @@
             <p class="tableCenter">04/30</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3480,7 +3480,7 @@
             <p class="tableCenter">05/27</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3493,7 +3493,7 @@
             <p class="tableCenter">07/09</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3506,7 +3506,7 @@
             <p class="tableCenter">07/22</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3519,7 +3519,7 @@
             <p class="tableCenter">09/07</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3532,7 +3532,7 @@
             <p class="tableCenter">09/15</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3545,7 +3545,7 @@
             <p class="tableCenter">12/07</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3558,7 +3558,7 @@
             <p class="tableCenter">12/10</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>
@@ -3571,7 +3571,7 @@
             <p class="tableCenter">12/22</p>
           </td>
           <td>
-            <p>政策</p>
+            <p class="tableCenter">政策</p>
           </td>
           <td>
             <p>臺中市文化局「第十屆臺中市表演藝術金藝獎」頒獎典禮（得獎單位：台灣揚琴樂團）</p>
@@ -3643,7 +3643,7 @@
         </tr>
         <tr>
           <td>
-            <p>2018</p>
+            <p class="tableCenter">2018</p>
           </td>
           <td>
             <p class="tableCenter">22</p>
@@ -3666,7 +3666,7 @@
         </tr>
         <tr>
           <td>
-            <p>2019</p>
+            <p class="tableCenter">2019</p>
           </td>
           <td>
             <p class="tableCenter">46</p>
@@ -3689,7 +3689,7 @@
         </tr>
         <tr>
           <td>
-            <p>2020</p>
+            <p class="tableCenter">2020</p>
           </td>
           <td>
             <p class="tableCenter">18</p>
@@ -3712,7 +3712,7 @@
         </tr>
         <tr>
           <td>
-            <p>2021</p>
+            <p class="tableCenter">2021</p>
           </td>
           <td>
             <p class="tableCenter">35</p>
@@ -3735,7 +3735,7 @@
         </tr>
         <tr>
           <td>
-            <p>小計</p>
+            <p class="tableCenter">小計</p>
           </td>
           <td>
             <p class="tableCenter">121</p>
@@ -6379,7 +6379,6 @@
         </tr>
       </tbody>
     </table>
-    <p></p>
     <p>資料來源：林青儀、萬智懿、吳沛諭、蔡佩娟共同整理</p>
   </div>
 </template>
