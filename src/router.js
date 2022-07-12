@@ -97,7 +97,9 @@ import Download_1 from '@/components/download/download_child/download_1';
 Vue.use(VueRouter);
 
 export default new VueRouter({
-  mode: 'hash',
+  // mode: 'hash',
+  mode: 'history',
+  base: '/2021/',
   routes: [
     {
       path: '*',
