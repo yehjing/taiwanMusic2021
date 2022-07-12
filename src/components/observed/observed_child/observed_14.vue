@@ -131,7 +131,7 @@
 <style lang="scss" scoped>
 @media (max-width: 576px) {
   h2{
-    width: 250px !important;
+    width: 220px !important;
   }
   .wrap .mainArea .viewRight .contentImg {
     width: 75%;
