@@ -2,8 +2,11 @@
   <section class="searchBar">
     <div class="webMenu">
       <div @click="toggleYears = !toggleYears"  class="webYear">
-        <span>2021臺灣音樂年鑑</span>
+        <span>歷年臺灣音樂年鑑</span>
         <span>▾</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2021)">
+        <span>2021臺灣音樂年鑑</span>
       </div>
       <div v-if="toggleYears" class="webYear" @click="toLastYear(2020)">
         <span>2020臺灣音樂年鑑</span>
