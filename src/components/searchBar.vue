@@ -5,6 +5,9 @@
         <span>歷年臺灣音樂年鑑</span>
         <span>▾</span>
       </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2022)">
+        <span>2022臺灣音樂年鑑</span>
+      </div>
       <div v-if="toggleYears" class="webYear" @click="toLastYear(2021)">
         <span>2021臺灣音樂年鑑</span>
       </div>
@@ -37,6 +40,9 @@
         <div @click="toggleYears = !toggleYears" class="years">
           <span>歷年臺灣音樂年鑑</span>
           <span>▾</span>
+        </div>
+        <div v-if="toggleYears" class="years" @click="toLastYear(2022)">
+          <span>2022臺灣音樂年鑑</span>
         </div>
         <div v-if="toggleYears" class="years" @click="toLastYear(2021)">
           <span>2021臺灣音樂年鑑</span>
